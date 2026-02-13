@@ -4,9 +4,9 @@ Transcript archive of [Alex Finn (OpenClaw)](https://www.youtube.com/@AlexFinn) 
 
 ## Stats
 
-- **Videos Downloaded**: 0 (bootstrap pending)
-- **Date Range**: TBD
-- **Last Updated**: Feb 2026
+- **Videos Downloaded**: 198 / 199
+- **Date Range**: Feb 17, 2023 - Feb 12, 2026
+- **Last Updated**: Feb 13, 2026
 
 ## Structure
 
@@ -15,17 +15,20 @@ alex-finn-transcripts/
 ├── README.md
 ├── index.json                    # Master index of all videos
 ├── video_ids.txt                 # All video IDs (one per line)
-├── index/                        # Topic-based index
+├── index/                        # Topic-based index (98 topics)
 │   ├── README.md                 # All topics with episode counts
-│   └── ...                       # Topic files
+│   ├── ai-tools.md              # Episodes about AI tools
+│   ├── claude-code.md           # Episodes about Claude Code
+│   ├── cursor.md                # Episodes about Cursor
+│   └── ...                      # 90+ more topic files
 ├── episodes/
 │   └── YYYY-MM-DD-video-title/
 │       └── transcript.md         # YAML frontmatter + full transcript
 └── scripts/
-    ├── download.py               # Download transcripts (youtube-transcript-api, free)
-    ├── enrich.py                 # Entity extraction + classification
-    ├── create_index.py           # Generate index.json
-    └── build_index.py            # Build topic index files
+    ├── download.py               # Download transcripts (Supadata API)
+    ├── enrich.py                 # AI enrichment (entities, topics, etc.)
+    ├── create_index.py           # Generates index.json
+    └── build_index.py            # Builds topic index files
 ```
 
 ## Transcript Format
@@ -54,18 +57,40 @@ difficulty: "Intermediate"
 audience:
   - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-summary: []
+  companies:
+    - "Anthropic"
+  people:
+    - "Alex Finn"
+  products:
+    - "Claude Code"
+  models:
+    - "Claude Opus 4.5"
+concepts:
+  - "Key insight extracted from transcript"
+summary:
+  - "First key point"
+  - "Second key point"
 ---
 
 # Video Title
 
 [Full transcript text here]
 ```
+
+## Topic Index
+
+Browse episodes by topic via the [`index/`](index/) folder:
+
+**Top Topics:**
+- [AI Tools](index/ai-tools.md) (166 episodes)
+- [Coding](index/coding.md) (159 episodes)
+- [Tutorial](index/tutorial.md) (148 episodes)
+- [Claude](index/claude.md) (133 episodes)
+- [Cursor](index/cursor.md) (126 episodes)
+- [AI News](index/ai-news.md) (124 episodes)
+- [Claude Code](index/claude-code.md) (107 episodes)
+
+[See all 98 topics →](index/README.md)
 
 ## Usage
 
@@ -83,8 +108,29 @@ for video in data['videos']:
     print(f"{video['publish_date']}: {video['title']}")
 ```
 
+### Filter by enriched metadata
+```python
+# Find all tutorials for engineers
+tutorials = [v for v in data['videos']
+             if v.get('content_type') == 'Tutorial'
+             and 'Engineers' in v.get('audience', [])]
+
+# Find videos mentioning Anthropic
+anthropic_vids = [v for v in data['videos']
+                  if 'Anthropic' in v.get('entities', {}).get('companies', [])]
+```
+
+### Download more videos
+```bash
+# Set your Supadata API key
+export SUPADATA_API_KEY="your_key_here"
+
+# Download next batch
+python scripts/download.py 100
+```
+
 ## Credits
 
 - Content by [Alex Finn](https://www.youtube.com/@AlexFinn)
-- Transcripts via [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) (free)
+- Transcripts via [Supadata API](https://supadata.ai)
 - Metadata via YouTube Data API v3
