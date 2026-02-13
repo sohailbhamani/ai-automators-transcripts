@@ -1,0 +1,24 @@
+# Arc
+
+Episodes discussing **Arc** (20 episodes):
+
+- [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
+- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
+- [Building apps LIVE with my 24/7 AI employee Clawdbot](../episodes/2026-01-23-building-apps-live-with-my-247-ai-employee-clawdbot/transcript.md) (2026-01-23)
+- [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
+- [Building a startup with Claude Code LIVE using my new workflow](../episodes/2026-01-05-building-a-startup-with-claude-code-live-using-my-new-workflow/transcript.md) (2026-01-05)
+- [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
+- [Is ChatGPT 5.2 the greatest AI model ever? FULL tests and benchmarks LIVE!](../episodes/2025-12-16-is-chatgpt-52-the-greatest-ai-model-ever-full-tests-and-benchmarks-live/transcript.md) (2025-12-16)
+- [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)
+- [Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups](../episodes/2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups/transcript.md) (2025-12-06)
+- [The EASIEST way to build iOS apps with Claude Code (Opus 4.5)](../episodes/2025-12-05-the-easiest-way-to-build-ios-apps-with-claude-code-opus-45/transcript.md) (2025-12-05)
+- [Building an AMAZING AI app with Claude Opus 4.5 LIVE](../episodes/2025-12-04-building-an-amazing-ai-app-with-claude-opus-45-live/transcript.md) (2025-12-04)
+- [CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!](../episodes/2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live/transcript.md) (2025-11-24)
+- [Is ChatPT 5.1 Pro Worth $200? Testing LIVE!!!](../episodes/2025-11-21-is-chatpt-51-pro-worth-200-testing-live/transcript.md) (2025-11-21)
+- [Using Codex GPT 5.1 to build apps LIVE](../episodes/2025-11-14-using-codex-gpt-51-to-build-apps-live/transcript.md) (2025-11-14)
+- [Building a startup with Claude Code LIVE!!! (ask me anything)](../episodes/2025-11-10-building-a-startup-with-claude-code-live-ask-me-anything/transcript.md) (2025-11-10)
+- [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
+- [Watch me build a startup live with Claude Code](../episodes/2025-11-05-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-11-05)
+- [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
+- [Launching an app with Claude Code LIVE](../episodes/2025-11-01-launching-an-app-with-claude-code-live/transcript.md) (2025-11-01)
+- [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)

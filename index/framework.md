@@ -1,0 +1,9 @@
+# Framework
+
+Episodes discussing **Framework** (5 episodes):
+
+- [Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE](../episodes/2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live/transcript.md) (2026-01-14)
+- [CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!](../episodes/2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live/transcript.md) (2025-11-24)
+- [Is ChatPT 5.1 Pro Worth $200? Testing LIVE!!!](../episodes/2025-11-21-is-chatpt-51-pro-worth-200-testing-live/transcript.md) (2025-11-21)
+- [Kimi K2- The FREE AI Model That Killed Claude Code??](../episodes/2025-07-13-kimi-k2-the-free-ai-model-that-killed-claude-code/transcript.md) (2025-07-13)
+- [ChatGPT o3 Is INSANE For Building Games](../episodes/2025-04-18-chatgpt-o3-is-insane-for-building-games/transcript.md) (2025-04-18)

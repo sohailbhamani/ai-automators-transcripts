@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Smart YouTube transcript downloader using youtube-transcript-api (free)
+Smart YouTube transcript downloader using Supadata API (paid)
 and YouTube Data API v3 for metadata.
 """
 
@@ -24,10 +24,14 @@ PROGRESS_FILE = BASE_DIR / "progress.json"
 # YouTube Data API
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
-# Rate limiting
-MIN_DELAY = 2  # Minimum seconds between transcript requests
-MAX_DELAY = 4  # Maximum seconds between transcript requests
-BATCH_SIZE = 30  # Videos before taking a short break
+# Supadata API
+SUPADATA_API_KEY = os.environ.get("SUPADATA_API_KEY", "")
+SUPADATA_ENDPOINT = "https://api.supadata.ai/v1/transcript"
+
+# Rate limiting - lighter since Supadata handles YouTube-side throttling
+MIN_DELAY = 1  # Minimum seconds between requests
+MAX_DELAY = 2  # Maximum seconds between requests
+BATCH_SIZE = 50  # Videos before taking a short break
 BATCH_BREAK_MIN = 30  # 30 seconds break
 BATCH_BREAK_MAX = 60  # 1 minute break
 
@@ -50,9 +54,9 @@ def save_progress(progress):
 def slugify(text):
     """Convert text to URL-friendly slug."""
     text = text.lower()
-    text = re.sub(r'[^\w\s-]', '', text)
-    text = re.sub(r'[-\s]+', '-', text)
-    return text[:80].strip('-')
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[-\s]+", "-", text)
+    return text[:80].strip("-")
 
 
 def get_video_metadata(video_id):
@@ -62,11 +66,13 @@ def get_video_metadata(video_id):
         return None
 
     try:
-        params = urllib.parse.urlencode({
-            "part": "snippet,contentDetails,statistics",
-            "id": video_id,
-            "key": YOUTUBE_API_KEY,
-        })
+        params = urllib.parse.urlencode(
+            {
+                "part": "snippet,contentDetails,statistics",
+                "id": video_id,
+                "key": YOUTUBE_API_KEY,
+            }
+        )
         url = f"https://www.googleapis.com/youtube/v3/videos?{params}"
         req = urllib.request.Request(url)
         with urllib.request.urlopen(req, timeout=30) as resp:
@@ -83,7 +89,7 @@ def get_video_metadata(video_id):
 
         # Parse ISO 8601 duration (PT1H2M3S)
         duration_str = content.get("duration", "PT0S")
-        duration_match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_str)
+        duration_match = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", duration_str)
         if duration_match:
             h = int(duration_match.group(1) or 0)
             m = int(duration_match.group(2) or 0)
@@ -115,29 +121,51 @@ def get_video_metadata(video_id):
 
 
 def get_transcript(video_id):
-    """Get transcript using youtube-transcript-api (free)."""
+    """Get transcript using Supadata API."""
+    if not SUPADATA_API_KEY:
+        raise Exception("SUPADATA_API_KEY environment variable not set")
+
+    url = f"{SUPADATA_ENDPOINT}?url=https://youtu.be/{video_id}"
+    req = urllib.request.Request(
+        url,
+        headers={
+            "x-api-key": SUPADATA_API_KEY,
+            "User-Agent": "IdeaFunnel/1.0",
+        },
+    )
+
     try:
-        from youtube_transcript_api import YouTubeTranscriptApi
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            raise Exception("RATE_LIMITED: Too many requests")
+        elif e.code == 401:
+            raise Exception("Invalid Supadata API key")
+        else:
+            raise Exception(f"Supadata API error: {e.code} - {e.read().decode()}")
+    except urllib.error.URLError as e:
+        raise Exception(f"Network error: {e}")
 
-        transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
+    content = data.get("content", [])
+    if not content:
+        raise Exception("No transcript content returned")
 
-        full_text = ' '.join(seg["text"] for seg in transcript_list)
-        segments = [
-            {
-                "text": seg["text"],
-                "start": seg["start"],
-                "duration": seg["duration"],
-            }
-            for seg in transcript_list
-        ]
-
-        return {
-            "full_text": full_text,
-            "segments": segments,
-            "segment_count": len(segments),
+    full_text = " ".join(seg.get("text", "") for seg in content)
+    segments = [
+        {
+            "text": seg.get("text", ""),
+            "start": seg.get("offset", 0) / 1000,
+            "duration": seg.get("duration", 0) / 1000,
         }
-    except Exception as e:
-        raise Exception(f"Transcript error: {e}")
+        for seg in content
+    ]
+
+    return {
+        "full_text": full_text,
+        "segments": segments,
+        "segment_count": len(content),
+    }
 
 
 def save_transcript(metadata, transcript):
@@ -150,17 +178,17 @@ def save_transcript(metadata, transcript):
     episode_dir.mkdir(parents=True, exist_ok=True)
 
     yaml_content = f'''---
-title: "{metadata.get('title', 'Unknown').replace('"', '\\"')}"
-video_id: "{metadata['video_id']}"
-youtube_url: "{metadata.get('url', '')}"
-publish_date: "{metadata.get('publish_date', 'unknown')}"
-duration: "{metadata.get('duration', 'unknown')}"
-duration_seconds: {metadata.get('duration_seconds', 0)}
-view_count: {metadata.get('view_count', 0)}
-author: "{metadata.get('author', 'Alex Finn')}"
+title: "{metadata.get("title", "Unknown").replace('"', '\\"')}"
+video_id: "{metadata["video_id"]}"
+youtube_url: "{metadata.get("url", "")}"
+publish_date: "{metadata.get("publish_date", "unknown")}"
+duration: "{metadata.get("duration", "unknown")}"
+duration_seconds: {metadata.get("duration_seconds", 0)}
+view_count: {metadata.get("view_count", 0)}
+author: "{metadata.get("author", "Alex Finn")}"
 
 yt_tags:
-{chr(10).join(f'  - "{tag}"' for tag in metadata.get('keywords', [])) or '  []'}
+{chr(10).join(f'  - "{tag}"' for tag in metadata.get("keywords", [])) or "  []"}
 
 # AI-generated fields (to be enriched later)
 content_type: null
@@ -177,9 +205,9 @@ chapters: []
 summary: []
 ---
 
-# {metadata.get('title', 'Unknown')}
+# {metadata.get("title", "Unknown")}
 
-{transcript['full_text']}
+{transcript["full_text"]}
 '''
 
     output_file = episode_dir / "transcript.md"
@@ -197,7 +225,10 @@ def download_video(video_id, index, total):
     print("  Getting metadata...")
     metadata = get_video_metadata(video_id)
     if not metadata:
-        metadata = {"video_id": video_id, "url": f"https://www.youtube.com/watch?v={video_id}"}
+        metadata = {
+            "video_id": video_id,
+            "url": f"https://www.youtube.com/watch?v={video_id}",
+        }
 
     # Small delay before transcript request
     time.sleep(random.uniform(1, 2))
@@ -207,7 +238,9 @@ def download_video(video_id, index, total):
     transcript = get_transcript(video_id)
 
     # Save
-    print(f"  Got {transcript['segment_count']} segments ({len(transcript['full_text'])} chars)")
+    print(
+        f"  Got {transcript['segment_count']} segments ({len(transcript['full_text'])} chars)"
+    )
     output_path = save_transcript(metadata, transcript)
     print(f"  Saved to: {output_path}")
 
@@ -218,9 +251,11 @@ def main():
     # Parse arguments
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
-    print(f"=== Alex Finn Transcript Downloader ===")
+    print("=== Alex Finn Transcript Downloader (Supadata) ===")
     print(f"Rate limiting: {MIN_DELAY}-{MAX_DELAY}s between videos")
-    print(f"Batch breaks: {BATCH_BREAK_MIN}s-{BATCH_BREAK_MAX}s every {BATCH_SIZE} videos")
+    print(
+        f"Batch breaks: {BATCH_BREAK_MIN}-{BATCH_BREAK_MAX}s every {BATCH_SIZE} videos"
+    )
     print(f"Limit: {limit} videos")
     print()
 
@@ -254,7 +289,7 @@ def main():
     success_count = 0
     for i, video_id in enumerate(to_process, 1):
         try:
-            title = download_video(video_id, i, len(to_process))
+            download_video(video_id, i, len(to_process))
 
             progress["completed"].append(video_id)
             save_progress(progress)
@@ -274,10 +309,30 @@ def main():
         except Exception as e:
             error_msg = str(e)
             print(f"  ERROR: {error_msg}")
-            progress["failed"].append({"id": video_id, "reason": error_msg, "time": datetime.now().isoformat()})
-            save_progress(progress)
 
-    print(f"\n=== Complete ===")
+            if "RATE_LIMITED" in error_msg:
+                print("\n!!! RATE LIMITED - STOPPING IMMEDIATELY !!!")
+                print("Wait before trying again.")
+                progress["failed"].append(
+                    {
+                        "id": video_id,
+                        "reason": error_msg,
+                        "time": datetime.now().isoformat(),
+                    }
+                )
+                save_progress(progress)
+                break
+            else:
+                progress["failed"].append(
+                    {
+                        "id": video_id,
+                        "reason": error_msg,
+                        "time": datetime.now().isoformat(),
+                    }
+                )
+                save_progress(progress)
+
+    print("\n=== Complete ===")
     print(f"Successfully downloaded: {success_count}")
     print(f"Total completed: {len(progress['completed'])}")
     print(f"Failed: {len(progress['failed'])}")

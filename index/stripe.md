@@ -1,0 +1,27 @@
+# Stripe
+
+Episodes discussing **Stripe** (23 episodes):
+
+- [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
+- [Building mind blowing apps with Claude Code LIVE](../episodes/2025-12-29-building-mind-blowing-apps-with-claude-code-live/transcript.md) (2025-12-29)
+- [Claude Code Skills are INSANE (and you’re not using them correctly)](../episodes/2025-12-24-claude-code-skills-are-insane-and-youre-not-using-them-correctly/transcript.md) (2025-12-24)
+- [The only Claude Code guide you'll ever need (Opus 4.5)](../episodes/2025-12-16-the-only-claude-code-guide-youll-ever-need-opus-45/transcript.md) (2025-12-16)
+- [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)
+- [Gemini 3.0 Pro: Is this the GREATEST AI ever? LIVE testing!](../episodes/2025-11-19-gemini-30-pro-is-this-the-greatest-ai-ever-live-testing/transcript.md) (2025-11-19)
+- [GROK 4.1 JUST DROPPED! TESTING AND BENCHMARKING LIVE](../episodes/2025-11-17-grok-41-just-dropped-testing-and-benchmarking-live/transcript.md) (2025-11-17)
+- [Building a startup with Claude Code LIVE!!! (ask me anything)](../episodes/2025-11-10-building-a-startup-with-claude-code-live-ask-me-anything/transcript.md) (2025-11-10)
+- [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
+- [Using Google AI Studio to build entire apps with AI LIVE!!!](../episodes/2025-10-27-using-google-ai-studio-to-build-entire-apps-with-ai-live/transcript.md) (2025-10-27)
+- [Vibe Coding Masterclass: Build your first app with AI in 37 minutes (Claude Code)](../episodes/2025-08-18-vibe-coding-masterclass-build-your-first-app-with-ai-in-37-minutes-claude-code/transcript.md) (2025-08-18)
+- [I launched an AI app that hit $100,000 in 15 minutes](../episodes/2025-08-07-i-launched-an-ai-app-that-hit-100000-in-15-minutes/transcript.md) (2025-08-07)
+- [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
+- [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
+- [Watch me build and launch an AI app in under 15 minutes (Cursor 1.0, Vercel)](../episodes/2025-06-07-watch-me-build-and-launch-an-ai-app-in-under-15-minutes-cursor-10-vercel/transcript.md) (2025-06-07)
+- [I built an app with AI that made $19,971 in one day](../episodes/2025-05-21-i-built-an-app-with-ai-that-made-19971-in-one-day/transcript.md) (2025-05-21)
+- [I used these 8 AI tools to launch a $300,000 App](../episodes/2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app/transcript.md) (2025-05-12)
+- [I built an AI app that makes $704 a day passive income](../episodes/2025-05-07-i-built-an-ai-app-that-makes-704-a-day-passive-income/transcript.md) (2025-05-07)
+- [Build Your First Game With AI Using Replit Agent EASILY](../episodes/2025-04-30-build-your-first-game-with-ai-using-replit-agent-easily/transcript.md) (2025-04-30)
+- [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
+- [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
+- [The EASIEST way to build apps with AI EVER (Google Firebase Studio)](../episodes/2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio/transcript.md) (2025-04-15)
+- [Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)](../episodes/2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide/transcript.md) (2024-11-13)
