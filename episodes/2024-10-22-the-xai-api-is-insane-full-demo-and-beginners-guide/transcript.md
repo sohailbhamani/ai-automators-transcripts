@@ -25,6 +25,11 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Beginner"

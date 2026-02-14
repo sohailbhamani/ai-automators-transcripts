@@ -21,6 +21,11 @@ keywords:
   - "product-management"
 
 # AI-enriched metadata
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Strategy"
 difficulty: "Beginner"

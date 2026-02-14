@@ -10,6 +10,29 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "notion"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,23 +65,6 @@ summary:
   - "# 6 OpenClaw use cases I promise will change your life
 
 This is the video you've been waiting for"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "notion"
-  - "opus"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # 6 OpenClaw use cases I promise will change your life

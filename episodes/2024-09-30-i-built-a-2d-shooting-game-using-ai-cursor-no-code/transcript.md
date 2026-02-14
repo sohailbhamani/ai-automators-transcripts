@@ -26,6 +26,12 @@ keywords:
   - "prompting"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
 difficulty: "Beginner"

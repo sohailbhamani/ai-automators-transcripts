@@ -28,6 +28,11 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

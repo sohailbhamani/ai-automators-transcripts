@@ -1,86 +1,10 @@
 {
   "total_videos": 200,
   "date_range": {
-    "newest": "2026-02-13",
+    "newest": "2024-09-25",
     "oldest": null
   },
   "videos": [
-    {
-      "title": "LIVE: My OpenClaw setup is incredible",
-      "video_id": "aKB9BVonkzk",
-      "youtube_url": "https://www.youtube.com/watch?v=aKB9BVonkzk",
-      "publish_date": "2026-02-13",
-      "duration": "1:59:43",
-      "duration_seconds": 7183,
-      "view_count": 5810,
-      "author": "Alex Finn",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [],
-        "people": [],
-        "products": [
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# LIVE: My OpenClaw setup is incredible\nHello everyone, and welcome to this quick tutorial"
-      ],
-      "transcript_chars": 334,
-      "folder": "2026-02-13-live-my-openclaw-setup-is-incredible"
-    },
-    {
-      "title": "6 OpenClaw use cases I promise will change your life",
-      "video_id": "41_TNGDDnfQ",
-      "youtube_url": "https://www.youtube.com/watch?v=41_TNGDDnfQ",
-      "publish_date": "2026-02-12",
-      "duration": "18:53",
-      "duration_seconds": 1133,
-      "view_count": 43978,
-      "author": "Alex Finn",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "Anthropic",
-          "Google",
-          "Apple",
-          "Notion",
-          "X",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Make",
-          "Opus",
-          "Nano Banana"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "Let me know down below what video do you want to see next about openclaw"
-      ],
-      "summary": [
-        "# 6 OpenClaw use cases I promise will change your life\nThis is the video you've been waiting for"
-      ],
-      "transcript_chars": 21928,
-      "folder": "2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life"
-    },
     {
       "itle": "I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)",
       "video_id": "if-a73onujI",
@@ -116,7 +40,9 @@
         "tutorials",
         "v0",
         "x",
-        "youtube"
+        "youtube",
+        "Engineers",
+        "Product Managers"
       ],
       "content_type": "Tutorial",
       "primary_topic": "AI Tools",
@@ -167,7 +93,8 @@
       ],
       "keywords": [
         "ai-tools",
-        "youtube"
+        "youtube",
+        "General"
       ],
       "content_type": "Deep Dive",
       "primary_topic": "AI Tools",
@@ -969,8 +896,16 @@
       "folder": "2026-02-11-live-the-ultimate-openclaw-setup"
     },
     {
+      "transcript_chars": 21928,
+      "folder": "2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life"
+    },
+    {
       "transcript_chars": 19661,
       "folder": "2026-02-12-do-not-use-a-vps-for-openclaw-major-warning"
+    },
+    {
+      "transcript_chars": 334,
+      "folder": "2026-02-13-live-my-openclaw-setup-is-incredible"
     }
   ]
 }

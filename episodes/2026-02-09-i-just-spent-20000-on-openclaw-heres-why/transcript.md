@@ -32,6 +32,12 @@ keywords:
   - "youtube"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

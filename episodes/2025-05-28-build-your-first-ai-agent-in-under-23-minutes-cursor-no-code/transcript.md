@@ -33,6 +33,13 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Agents"
 difficulty: "Beginner"
