@@ -10,6 +10,19 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "box"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,15 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "box"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
 ---
 
 # I Build a full game with AI using only a SCREENSHOT (Cursor, no code)

@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "anthropic-api"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "opus"
+  - "projects"
+  - "prompting"
+  - "sonnet"
+  - "tailwind"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -46,26 +70,6 @@ summary:
   - "5 is actually incredible (with 1 exception)
 
 Claude Sonnet 4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "anthropic-api"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "opus"
-  - "projects"
-  - "prompting"
-  - "sonnet"
-  - "tailwind"
-  - "tutorials"
 ---
 
 # Claude Code with Sonnet 4.5 is actually incredible (with 1 exception)

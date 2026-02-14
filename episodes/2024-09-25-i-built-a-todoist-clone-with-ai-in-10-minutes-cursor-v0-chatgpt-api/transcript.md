@@ -17,6 +17,25 @@ yt_tags:
   - "claude"
   - "aiprogramming"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "apple"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "tutorials"
+  - "v0"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -47,21 +66,6 @@ concepts:
   []
 summary:
   - "Lo file so we're just going to need to create that file here so new file env"
-keywords:
-  - "ai-tools"
-  - "apple"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "tutorials"
-  - "v0"
-  - "x"
-  - "youtube"
 ---
 
 # I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)

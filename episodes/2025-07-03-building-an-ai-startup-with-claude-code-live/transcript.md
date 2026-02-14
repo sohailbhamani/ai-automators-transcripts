@@ -10,6 +10,38 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "langchain"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "notion"
+  - "openai"
+  - "opus"
+  - "slack"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,32 +89,6 @@ summary:
   - "# Building an AI Startup with Claude Code LIVE
 
 We're live"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "langchain"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "notion"
-  - "openai"
-  - "opus"
-  - "slack"
-  - "startups"
-  - "tutorials"
 ---
 
 # Building an AI Startup with Claude Code LIVE

@@ -10,6 +10,37 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "sora"
+  - "stripe"
+  - "tesla"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -60,32 +91,6 @@ concepts:
   []
 summary:
   - "Today we are going to put Gemini 3 through its paces"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "sora"
-  - "stripe"
-  - "tesla"
 ---
 
 # Gemini 3.0 Pro: Is this the GREATEST AI ever? LIVE testing!

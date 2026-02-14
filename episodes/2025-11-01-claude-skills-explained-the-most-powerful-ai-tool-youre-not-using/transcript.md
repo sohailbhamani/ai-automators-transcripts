@@ -10,6 +10,31 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,26 +65,6 @@ summary:
   - "# Claude Skills explained: the most POWERFUL AI tool you’re not using
 
 Claude skills is the most powerful AI tool that you're not using right now"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Claude Skills explained: the most POWERFUL AI tool you’re not using

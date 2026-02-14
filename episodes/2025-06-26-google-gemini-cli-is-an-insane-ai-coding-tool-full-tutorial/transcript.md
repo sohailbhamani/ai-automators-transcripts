@@ -10,6 +10,28 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "product-management"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,24 +66,6 @@ summary:
   - "# Google Gemini CLI is an INSANE AI coding tool (full tutorial)
 
 Google just released what might be the most insane AI coding tool ever built"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "product-management"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Google Gemini CLI is an INSANE AI coding tool (full tutorial)

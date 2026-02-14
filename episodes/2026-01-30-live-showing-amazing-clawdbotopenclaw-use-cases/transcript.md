@@ -10,6 +10,36 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "nano-banana"
+  - "nvidia"
+  - "opus"
+  - "perplexity"
+  - "projects"
+  - "shopify"
+  - "stripe"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,31 +84,6 @@ summary:
   - "# LIVE: Showing AMAZING ClawdBot/OpenClaw use cases
 
 Today I'm going to take you through Claudebot aka Moldbot aka OpenClaw aka Claudebot C++ A+ threebot Claudebot"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "nano-banana"
-  - "nvidia"
-  - "opus"
-  - "perplexity"
-  - "projects"
-  - "shopify"
-  - "stripe"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
 ---
 
 # LIVE: Showing AMAZING ClawdBot/OpenClaw use cases

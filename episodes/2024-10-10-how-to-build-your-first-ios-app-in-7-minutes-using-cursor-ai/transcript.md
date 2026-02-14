@@ -10,6 +10,19 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,15 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # How to Build your first iOS app in 7 minutes using Cursor AI

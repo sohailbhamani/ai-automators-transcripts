@@ -10,6 +10,23 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "v0"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,18 +55,6 @@ summary:
   - "new)
 
 by, the, end, of, this, video, you, will, know what, is, the, best, no, code, AI, coding, tool on, the, planet, bolt"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "v0"
 ---
 
 # Best AI Code editor EVER? (Cursor vs Windsurf vs Bolt.new)

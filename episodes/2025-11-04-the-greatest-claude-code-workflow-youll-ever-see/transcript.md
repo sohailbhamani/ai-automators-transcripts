@@ -10,6 +10,36 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "anthropic-api"
+  - "apple"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "haiku"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "projects"
+  - "sonnet"
+  - "tailwind"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -48,31 +78,6 @@ concepts:
   []
 summary:
   - "# The greatest Claude Code workflow you’ll ever see"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "anthropic-api"
-  - "apple"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "haiku"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "projects"
-  - "sonnet"
-  - "tailwind"
-  - "twitter"
-  - "workflows"
-  - "youtube"
 ---
 
 # The greatest Claude Code workflow you’ll ever see...

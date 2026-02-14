@@ -10,6 +10,34 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "canvas"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,28 +69,6 @@ concepts:
   []
 summary:
   - "2 just launched and I am absolutely blown away in almost every measurable category except for a couple I'll go over"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "canvas"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # ChatGPT 5.2 is INCREDIBLE. Here’s how to use it in 14 minutes

@@ -10,6 +10,29 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "canvas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "gemini"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,25 +64,6 @@ summary:
   - "# Google just released the EASIEST way to build apps with AI ever (Google Opal guide)
 
 Google just released what might be the easiest way to build apps ever with AI"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "canvas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "gemini"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Google just released the EASIEST way to build apps with AI ever (Google Opal guide)

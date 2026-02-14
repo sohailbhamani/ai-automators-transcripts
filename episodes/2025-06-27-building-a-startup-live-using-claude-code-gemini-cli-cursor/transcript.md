@@ -10,6 +10,40 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "canvas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "slack"
+  - "sonnet"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,34 +88,6 @@ summary:
   - "# Building a Startup LIVE using Claude Code, Gemini CLI, Cursor
 
 We're live"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "canvas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "slack"
-  - "sonnet"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
 ---
 
 # Building a Startup LIVE using Claude Code, Gemini CLI, Cursor

@@ -10,6 +10,37 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "atlas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "opus"
+  - "perplexity"
+  - "product-management"
+  - "startups"
+  - "twitter"
+  - "whisper"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -53,31 +84,6 @@ concepts:
   []
 summary:
   - "Over the last couple months we've been building a vibecoded app store"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "atlas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "openai"
-  - "opus"
-  - "perplexity"
-  - "product-management"
-  - "startups"
-  - "twitter"
-  - "whisper"
-  - "x"
 ---
 
 # USING CLAUDE CODE TO LAUNCH A STARTUP LIVE!!!

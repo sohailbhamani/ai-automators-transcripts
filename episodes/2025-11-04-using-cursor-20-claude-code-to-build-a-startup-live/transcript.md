@@ -10,6 +10,39 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "atlas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "product-management"
+  - "projects"
+  - "sonnet"
+  - "sora"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,33 +90,6 @@ concepts:
   []
 summary:
   - "0 as well as claude code to first see which one's better but second build out a fullcale application from beginning to end"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "atlas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "product-management"
-  - "projects"
-  - "sonnet"
-  - "sora"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # Using Cursor 2.0 + Claude Code to build a startup LIVE!

@@ -10,6 +10,21 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "deep-dives"
+  - "google"
+  - "make"
+  - "openai"
+  - "perplexity"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,16 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "deep-dives"
-  - "google"
-  - "make"
-  - "openai"
-  - "perplexity"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # OpenAI Just ENDED Google with SearchGPT! (Full Beginner's Guide)

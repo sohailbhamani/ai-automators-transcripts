@@ -10,6 +10,20 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "frameworks"
+  - "gpt-4"
+  - "openai"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,17 +47,6 @@ concepts:
   []
 summary:
   - "# LIVE: Building INCREDIBLE apps with my ClawdBot (Sonnet 5"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "frameworks"
-  - "gpt-4"
-  - "openai"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
 ---
 
 # LIVE: Building INCREDIBLE apps with my ClawdBot (Sonnet 5???)

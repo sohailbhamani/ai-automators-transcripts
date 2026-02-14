@@ -1,5 +1,4 @@
----
-title: "6 OpenClaw use cases I promise will change your life"
+---title: "6 OpenClaw use cases I promise will change your life"
 video_id: "41_TNGDDnfQ"
 youtube_url: "https://www.youtube.com/watch?v=41_TNGDDnfQ"
 publish_date: "2026-02-12"
@@ -11,19 +10,55 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Google"
+    - "Apple"
+    - "Notion"
+    - "X"
+    - "YouTube"
+  people:
+    []
+  products:
+    - "Make"
+    - "Opus"
+    - "Nano Banana"
+  models:
+    []
+concepts:
+  - "Let me know down below what video do you want to see next about openclaw"
+summary:
+  - "# 6 OpenClaw use cases I promise will change your life
+
+This is the video you've been waiting for"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "notion"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # 6 OpenClaw use cases I promise will change your life

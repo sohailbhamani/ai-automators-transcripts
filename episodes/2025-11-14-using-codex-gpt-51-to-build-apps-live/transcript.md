@@ -10,6 +10,40 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "sora"
+  - "startups"
+  - "tesla"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -59,34 +93,6 @@ summary:
   - "1 to build apps LIVE
 
 Today we are going to use codeex with GPT 5"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "sora"
-  - "startups"
-  - "tesla"
-  - "tutorials"
 ---
 
 # Using Codex GPT 5.1 to build apps LIVE

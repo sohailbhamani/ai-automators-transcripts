@@ -10,6 +10,25 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "canva"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "perplexity"
+  - "prompting"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,20 +59,6 @@ concepts:
   []
 summary:
   - "# I let Anthropic’s new AI agents control my computer"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "canva"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "perplexity"
-  - "prompting"
-  - "youtube"
 ---
 
 # I let Anthropic’s new AI agents control my computer. What happened next is INSANE- Claude for Chrome

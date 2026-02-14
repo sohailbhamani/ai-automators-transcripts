@@ -10,6 +10,36 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "atlas"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "openai"
+  - "oracle"
+  - "prompting"
+  - "sonnet"
+  - "twitter"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -50,30 +80,6 @@ concepts:
   - "The back end is crashing"
 summary:
   - "# Claude Code vs Codex: Who can make the better trading bot LIVE"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "atlas"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "openai"
-  - "oracle"
-  - "prompting"
-  - "sonnet"
-  - "twitter"
-  - "x"
-  - "youtube"
 ---
 
 # Claude Code vs Codex: Who can make the better trading bot LIVE?

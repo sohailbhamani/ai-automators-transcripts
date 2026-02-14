@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -43,25 +67,6 @@ concepts:
   []
 summary:
   - "1 just released and I'm gonna be honest with you, it is absolutely incredible in some ways and potentially the most disappointing model of the year in a few other ways"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # Everything you need to know about Grok 4.1 in 11 minutes

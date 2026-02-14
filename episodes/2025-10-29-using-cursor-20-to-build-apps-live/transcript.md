@@ -10,6 +10,40 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "adobe"
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,34 +91,6 @@ concepts:
   []
 summary:
   - "Today we are going to be building out a full application with Cursor 2"
-keywords:
-  - "adobe"
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "x"
 ---
 
 # Using Cursor 2.0 to build apps LIVE!

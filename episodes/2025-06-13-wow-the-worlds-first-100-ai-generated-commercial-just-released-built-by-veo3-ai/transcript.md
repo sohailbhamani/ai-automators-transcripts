@@ -10,6 +10,15 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "google"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -32,12 +41,6 @@ summary:
   - "# WOW the world's first 100% AI generated commercial just released (built by Veo3) #ai #veo3
 
 The world's first fully AI generated commercial just aired during the NBA finals and it's mindblowing"
-keywords:
-  - "ai-news"
-  - "career"
-  - "google"
-  - "openai"
-  - "product-management"
 ---
 
 # WOW the world's first 100% AI generated commercial just released (built by Veo3) #ai #veo3

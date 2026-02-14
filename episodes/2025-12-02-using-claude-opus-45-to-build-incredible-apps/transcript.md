@@ -10,6 +10,37 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "notion"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "sonnet"
+  - "stripe"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,32 +88,6 @@ summary:
   - "5 to build INCREDIBLE apps
 
 [snorts] Today we are going to build some incredible apps with Claude code and Claude Opus 4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "notion"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "sonnet"
-  - "stripe"
 ---
 
 # Using Claude Opus 4.5 to build INCREDIBLE apps

@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "ibm"
+  - "make"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,22 +58,6 @@ concepts:
   []
 summary:
   - "Brock 4 just came out and has everyone in the AI space talking"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "ibm"
-  - "make"
-  - "opus"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # I paid $3,000 for Grok 4. Was it worth it?

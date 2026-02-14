@@ -10,6 +10,25 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "openai"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,21 +57,6 @@ summary:
   - "It’s actually insane (full guide)
 
 that GPT5 came out recently and quite frankly the reactions have been horrible"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "openai"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # I’ve been using ChatGPT-5 wrong. It’s actually insane (full guide)

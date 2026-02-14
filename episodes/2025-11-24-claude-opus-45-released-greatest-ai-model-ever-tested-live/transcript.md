@@ -10,6 +10,39 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "sonnet"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -59,33 +92,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "sonnet"
-  - "x"
-  - "youtube"
 ---
 
 # CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!

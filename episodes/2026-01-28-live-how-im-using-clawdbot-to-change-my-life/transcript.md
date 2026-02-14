@@ -10,6 +10,38 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "microsoft"
+  - "n8n"
+  - "nvidia"
+  - "opus"
+  - "salesforce"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -58,32 +90,6 @@ summary:
   - "# LIVE: How I'm using ClawdBot to change my life
 
 Today I'm going to be taking you through Claudebot, the most powerful AI tool I believe that's ever been made"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "microsoft"
-  - "n8n"
-  - "nvidia"
-  - "opus"
-  - "salesforce"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "workflows"
 ---
 
 # LIVE: How I'm using ClawdBot to change my life

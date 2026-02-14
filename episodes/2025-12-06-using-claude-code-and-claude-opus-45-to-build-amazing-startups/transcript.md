@@ -10,6 +10,40 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "atlas"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "notion"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "projects"
+  - "prompting"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,34 +91,6 @@ summary:
   - "5 To Build AMAZING Startups
 
 Today we are going to build an entire iOS app beginning to end"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "atlas"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "notion"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "projects"
-  - "prompting"
-  - "startups"
-  - "tutorials"
 ---
 
 # Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups

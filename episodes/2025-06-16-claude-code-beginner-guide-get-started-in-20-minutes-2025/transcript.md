@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "opus"
+  - "shortcuts"
+  - "sonnet"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -46,25 +70,6 @@ summary:
   - "# Claude Code Beginner Guide – Get Started in 20 Minutes (2025)
 
 You are about to gain AI superpowers"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "opus"
-  - "shortcuts"
-  - "sonnet"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Claude Code Beginner Guide – Get Started in 20 Minutes (2025)

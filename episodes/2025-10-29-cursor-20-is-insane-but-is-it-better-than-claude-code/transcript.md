@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "sonnet"
+  - "tailwind"
+  - "tesla"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,25 +66,6 @@ concepts:
   []
 summary:
   - "0 just dropped and it is radically different than the cursor you're used to"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "sonnet"
-  - "tailwind"
-  - "tesla"
-  - "tutorials"
 ---
 
 # Cursor 2.0 is INSANE, but is it better than Claude Code?

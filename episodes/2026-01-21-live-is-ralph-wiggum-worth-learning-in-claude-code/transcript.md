@@ -10,6 +10,39 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "shortcuts"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -59,33 +92,6 @@ concepts:
 summary:
   - "# 🔴LIVE: Is Ralph Wiggum worth learning in Claude Code"
   - "The planning stage and mapping things out in a way that claude code can build large apps"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "shortcuts"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # 🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?

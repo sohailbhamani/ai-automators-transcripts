@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "opus"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,22 +61,6 @@ concepts:
   []
 summary:
   - "# The EASIEST way to build iOS apps with Claude Code (Opus 4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "opus"
-  - "prompting"
-  - "tutorials"
 ---
 
 # The EASIEST way to build iOS apps with Claude Code (Opus 4.5)

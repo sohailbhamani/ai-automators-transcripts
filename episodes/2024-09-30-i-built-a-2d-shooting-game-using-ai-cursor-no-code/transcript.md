@@ -10,6 +10,20 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "adobe"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "leadership"
+  - "make"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,16 +48,6 @@ concepts:
   []
 summary:
   - "png in and it's used as the background let's accept that pull in our new background we just generated put that in there we'll rename this background"
-keywords:
-  - "adobe"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "leadership"
-  - "make"
-  - "prompting"
 ---
 
 # I Built a 2D Shooting Game Using AI (Cursor + no-code)

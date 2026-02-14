@@ -10,6 +10,25 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,21 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # Claude can now WRITE and RUN code!! MIND BLOWING! FULL DEMO AND BEGINNER'S GUIDE!

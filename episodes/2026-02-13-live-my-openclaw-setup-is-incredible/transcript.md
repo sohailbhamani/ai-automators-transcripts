@@ -1,5 +1,4 @@
----
-title: "LIVE: My OpenClaw setup is incredible"
+---title: "LIVE: My OpenClaw setup is incredible"
 video_id: "aKB9BVonkzk"
 youtube_url: "https://www.youtube.com/watch?v=aKB9BVonkzk"
 publish_date: "2026-02-13"
@@ -11,19 +10,34 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# LIVE: My OpenClaw setup is incredible
+
+Hello everyone, and welcome to this quick tutorial"
+keywords:
+  - "ai-strategy"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
 ---
 
 # LIVE: My OpenClaw setup is incredible

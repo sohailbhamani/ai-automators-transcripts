@@ -10,6 +10,40 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "atlas"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "shopify"
+  - "sonnet"
+  - "startups"
+  - "tesla"
+  - "whisper"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -58,34 +92,6 @@ summary:
   - "LIVE
 
 Today we are going to be building and working on and getting our first customers for an AI startup we've been working on for a while in Claude Code"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "atlas"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "shopify"
-  - "sonnet"
-  - "startups"
-  - "tesla"
-  - "whisper"
 ---
 
 # Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE

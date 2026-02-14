@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "notion"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,23 +61,6 @@ summary:
   - "# How I use Claude Code to automate my entire life (5 tricks)
 
 Everyone knows Claude Code is the best coding tool in the world"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "notion"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # How I use Claude Code to automate my entire life (5 tricks)

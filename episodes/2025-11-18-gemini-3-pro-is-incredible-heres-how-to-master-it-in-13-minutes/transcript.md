@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "projects"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -43,22 +64,6 @@ summary:
   - "Here's how to master it in 13 minutes
 
 Google Gemini 3 just released and it is the most revolutionary AI model we have ever seen"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "projects"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Gemini 3 Pro is INCREDIBLE. Here's how to master it in 13 minutes

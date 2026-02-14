@@ -10,6 +10,35 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "nvidia"
+  - "openai"
+  - "sonnet"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,29 +86,6 @@ summary:
   - "# Launching an app with Claude Code LIVE
 
 Today we are going to build an amazing, incredible app using Claude Code"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "nvidia"
-  - "openai"
-  - "sonnet"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # Launching an app with Claude Code LIVE

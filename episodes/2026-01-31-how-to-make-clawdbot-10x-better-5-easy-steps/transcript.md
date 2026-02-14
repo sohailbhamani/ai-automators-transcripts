@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,22 +56,6 @@ summary:
   - "# How to make ClawdBot 10x better (5 easy steps)
 
 Claudebot, aka OpenClaw, is the most powerful AI tool ever released, but only if you use it the right way"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # How to make ClawdBot 10x better (5 easy steps)

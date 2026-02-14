@@ -10,6 +10,28 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "fiverr"
+  - "frameworks"
+  - "make"
+  - "netflix"
+  - "opus"
+  - "product-management"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,23 +63,6 @@ summary:
   - "# You NEED a Mac Mini for ClawdBot
 
 Claudebot is blowing up everywhere and for good reason"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "fiverr"
-  - "frameworks"
-  - "make"
-  - "netflix"
-  - "opus"
-  - "product-management"
-  - "twitter"
-  - "workflows"
-  - "youtube"
 ---
 
 # You NEED a Mac Mini for ClawdBot

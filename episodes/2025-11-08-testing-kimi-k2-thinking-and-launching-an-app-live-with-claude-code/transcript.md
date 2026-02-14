@@ -10,6 +10,38 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "atlas"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "haiku"
+  - "make"
+  - "notion"
+  - "nvidia"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "stripe"
+  - "tesla"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -58,33 +90,6 @@ summary:
   - "# Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code
 
 Today we are going to put the world's greatest AI model, the one taking the world by storm, the one everyone is talking about, Ki"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "atlas"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "haiku"
-  - "make"
-  - "notion"
-  - "nvidia"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "stripe"
-  - "tesla"
-  - "twitter"
 ---
 
 # Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code

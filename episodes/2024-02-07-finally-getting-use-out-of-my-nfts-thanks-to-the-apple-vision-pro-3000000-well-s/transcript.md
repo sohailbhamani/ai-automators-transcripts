@@ -17,6 +17,11 @@ keywords:
   - "apple"
 
 # AI-enriched metadata
+  - "General"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

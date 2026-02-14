@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,22 +62,6 @@ summary:
   - "# The creator of Claude Code just revealed his INSANE workflow (must watch)
 
 The creator of Claude Code just revealed his entire Claude Code workflow and honestly it's amazing and I just learned a ton"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "workflows"
-  - "x"
 ---
 
 # The creator of Claude Code just revealed his INSANE workflow (must watch)

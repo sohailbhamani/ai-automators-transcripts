@@ -10,6 +10,32 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "sonnet"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,27 +70,6 @@ summary:
   - "1 Codex Just dropped and it’s a MAJOR Upgrade (full guide)
 
 OpenAI just put not one, not two, but three brand new models into their AI coding tool, Codeex"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "sonnet"
-  - "tailwind"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # ChatGPT 5.1 Codex Just dropped and it’s a MAJOR Upgrade (full guide)

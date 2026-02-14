@@ -10,6 +10,10 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -30,8 +34,6 @@ concepts:
   []
 summary:
   []
-keywords:
-
 ---
 
 # Impostor syndrome is a mofo…

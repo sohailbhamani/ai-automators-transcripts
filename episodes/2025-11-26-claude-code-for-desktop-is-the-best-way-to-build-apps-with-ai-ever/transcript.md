@@ -10,6 +10,29 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "canvas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "nano-banana"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,25 +65,6 @@ summary:
   - "# Claude Code for Desktop is the BEST way to build apps with AI EVER
 
 The Claude Code Desktop app is the absolute best way to build apps with AI ever, but only if you use it the right way"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "canvas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "nano-banana"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
 ---
 
 # Claude Code for Desktop is the BEST way to build apps with AI EVER

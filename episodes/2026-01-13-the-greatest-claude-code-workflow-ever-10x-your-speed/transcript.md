@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,25 +68,6 @@ summary:
   - "# The greatest Claude Code workflow ever (10x your speed)
 
 I have figured out the best workflow ever for Claude Code"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # The greatest Claude Code workflow ever (10x your speed)

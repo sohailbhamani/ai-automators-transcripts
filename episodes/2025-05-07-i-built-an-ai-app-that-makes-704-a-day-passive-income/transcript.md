@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "canvas"
+  - "coding"
+  - "linkedin"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "twitter"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,20 +61,6 @@ summary:
   - "# I built an AI app that makes $704 a day passive income
 
 Two months ago, I built and launched an app that is now making me $74 a day of passive income"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "canvas"
-  - "coding"
-  - "linkedin"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "twitter"
-  - "x"
-  - "youtube"
 ---
 
 # I built an AI app that makes $704 a day passive income

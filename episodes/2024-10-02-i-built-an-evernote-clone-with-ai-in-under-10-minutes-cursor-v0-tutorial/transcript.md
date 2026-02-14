@@ -10,6 +10,21 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "v0"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,17 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "v0"
-  - "youtube"
 ---
 
 # I Built an Evernote Clone With AI in Under 10 minutes (Cursor + v0 tutorial)

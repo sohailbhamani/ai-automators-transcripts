@@ -10,6 +10,37 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "haiku"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "midjourney"
+  - "product-management"
+  - "sonnet"
+  - "tesla"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,31 +86,6 @@ summary:
   - "# Building an app LIVE with Claude Code
 
 Welcome, welcome to the live stream"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "haiku"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "midjourney"
-  - "product-management"
-  - "sonnet"
-  - "tesla"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # Building an app LIVE with Claude Code

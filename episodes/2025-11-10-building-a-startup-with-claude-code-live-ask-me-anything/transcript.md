@@ -10,6 +10,36 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "haiku"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "openai"
+  - "opus"
+  - "sonnet"
+  - "startups"
+  - "stripe"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,30 +85,6 @@ summary:
   - "(ask me anything)
 
 Today we are going to be building out a full application using Claude Code Live"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "haiku"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "openai"
-  - "opus"
-  - "sonnet"
-  - "startups"
-  - "stripe"
-  - "twitter"
-  - "x"
 ---
 
 # Building a startup with Claude Code LIVE!!! (ask me anything)

@@ -10,6 +10,29 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "haiku"
+  - "make"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -45,25 +68,6 @@ summary:
   - "5 is INSANELY fast + smart
 
 Anthropic just released a brand new AI model that's going to save you tons of cash and get you so much more value"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "haiku"
-  - "make"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "twitter"
-  - "x"
 ---
 
 # Claude Haiku 4.5 is INSANELY fast + smart

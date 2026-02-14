@@ -10,6 +10,23 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,18 +53,6 @@ summary:
   - "# OpenAI just released the #1 AI opportunity of 2025 (ChatGPT App SDK)
 
 I'm going to show you how to build something really cool in this video"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "mcp"
-  - "openai"
-  - "prompting"
-  - "tutorials"
 ---
 
 # OpenAI just released the #1 AI opportunity of 2025 (ChatGPT App SDK)

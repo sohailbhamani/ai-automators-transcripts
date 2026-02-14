@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "github"
+  - "haiku"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,21 +60,6 @@ summary:
   - "# This Claude Code for Web workflow will change how you vibe code forever
 
 you're using Claude Code for web wrong"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "github"
-  - "haiku"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tailwind"
-  - "tutorials"
-  - "workflows"
 ---
 
 # This Claude Code for Web workflow will change how you vibe code forever

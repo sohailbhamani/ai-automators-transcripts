@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,25 +66,6 @@ summary:
   - "# Claude Code Masterclass: From Beginner to Expert in 33 minutes
 
 If you just started using Claude Code, or even if you've been using it for a while, you're probably only getting about 10% of what Cla"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Claude Code Masterclass: From Beginner to Expert in 33 minutes

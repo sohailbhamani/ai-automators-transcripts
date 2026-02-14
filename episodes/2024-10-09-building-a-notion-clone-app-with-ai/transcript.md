@@ -10,6 +10,15 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "notion"
+  - "v0"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -32,12 +41,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "notion"
-  - "v0"
 ---
 
 # Building a Notion Clone App with Ai

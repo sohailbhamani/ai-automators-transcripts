@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,22 +56,6 @@ concepts:
   []
 summary:
   - "It is going to have you building apps faster than you ever have before"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # Cursor 2.0 is INSANE, but only if you use it like this...

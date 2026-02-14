@@ -10,6 +10,22 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "github"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,19 +51,6 @@ concepts:
 summary:
   - "Claude Code is the most powerful AI tool in the world, but only if you use it the right way"
   - "When you start a new session or start a new chat automatically in the context, claude will understand all your recent sessions and all the past changes you made in those sessions because it can see al"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "github"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # You're prompting Claude Code wrong. Here's how to do it correctly...

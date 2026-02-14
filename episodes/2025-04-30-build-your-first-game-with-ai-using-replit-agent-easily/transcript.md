@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "replit"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,21 +60,6 @@ summary:
   - "# Build Your First Game With AI Using Replit Agent EASILY
 
 Peter Levelvels is making millions of dollars a year off of a video game he built with AI by himself in half an hour"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "replit"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
 ---
 
 # Build Your First Game With AI Using Replit Agent EASILY

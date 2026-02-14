@@ -10,6 +10,34 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "opus"
+  - "tesla"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,28 +83,6 @@ concepts:
   []
 summary:
   - "We are going to do the only benchmark in the world that isn't biased"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "openai"
-  - "opus"
-  - "tesla"
-  - "x"
-  - "youtube"
 ---
 
 # Is ChatGPT 5.2 the greatest AI model ever? FULL tests and benchmarks LIVE!

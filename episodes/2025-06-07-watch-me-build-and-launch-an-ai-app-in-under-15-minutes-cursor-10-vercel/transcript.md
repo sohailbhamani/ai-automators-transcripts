@@ -10,6 +10,29 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "prompting"
+  - "sonnet"
+  - "stripe"
+  - "tutorials"
+  - "vercel"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,26 +64,6 @@ concepts:
   []
 summary:
   - "# Watch me build and launch an AI app in under 15 minutes (Cursor 1"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "prompting"
-  - "sonnet"
-  - "stripe"
-  - "tutorials"
-  - "vercel"
 ---
 
 # Watch me build and launch an AI app in under 15 minutes (Cursor 1.0, Vercel)

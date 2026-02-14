@@ -10,6 +10,20 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "openai"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,17 +49,6 @@ summary:
   - "(GPT-OSS Guide)
 
 Massive breaking news from OpenAI that will change the industry forever"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "openai"
-  - "prompting"
-  - "tutorials"
 ---
 
 # WOW! OPENAI RELEASED OPEN SOURCE MODELS! HERE'S WHAT IT MEANS FOR YOU! (GPT-OSS Guide)

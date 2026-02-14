@@ -10,6 +10,25 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "lovable"
+  - "make"
+  - "notion"
+  - "opus"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,22 +58,6 @@ summary:
   - "then I discovered this
 
 There are 11 different ways you can be using Claude Code, but one way is significantly better than all the rest"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "lovable"
-  - "make"
-  - "notion"
-  - "opus"
-  - "product-management"
-  - "tutorials"
 ---
 
 # I was using Claude Code wrong... then I discovered this

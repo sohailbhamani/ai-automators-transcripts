@@ -10,6 +10,21 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "o3"
+  - "openai"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,17 +48,6 @@ concepts:
   []
 summary:
   - "# How to Build Your First Game With ChatGPT o3 Mini in 4 minutes"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "o3"
-  - "openai"
-  - "prompting"
-  - "tutorials"
 ---
 
 # How to Build Your First Game With ChatGPT o3 Mini in 4 minutes!

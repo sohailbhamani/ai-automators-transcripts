@@ -10,6 +10,41 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "artifacts"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "nano-banana"
+  - "openai"
+  - "prompting"
+  - "sonnet"
+  - "startups"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,35 +93,6 @@ summary:
   - "# Watch me build a startup live with Claude Code and Codex GPT 5
 
 Today we are going to build an entire startup live"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "artifacts"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "nano-banana"
-  - "openai"
-  - "prompting"
-  - "sonnet"
-  - "startups"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
 ---
 
 # Watch me build a startup live with Claude Code and Codex GPT 5

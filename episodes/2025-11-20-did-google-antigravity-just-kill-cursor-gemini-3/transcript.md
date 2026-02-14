@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -45,25 +69,6 @@ summary:
   - "(Gemini 3)
 
 Google has just released the best AI development environment on the entire market"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # Did Google Antigravity just kill Cursor? (Gemini 3)

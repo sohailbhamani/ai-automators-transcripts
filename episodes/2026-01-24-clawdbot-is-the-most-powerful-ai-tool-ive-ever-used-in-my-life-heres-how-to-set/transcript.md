@@ -10,6 +10,35 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "aws"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "notion"
+  - "opus"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -46,29 +75,6 @@ concepts:
   []
 summary:
   - "# ClawdBot is the most powerful AI tool I’ve ever used in my life"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "aws"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "notion"
-  - "opus"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
 ---
 
 # ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up

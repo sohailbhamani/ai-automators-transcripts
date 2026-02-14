@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,22 +58,6 @@ summary:
   - "# 5 secret Claude Code features you need to know about
 
 Flawed Code is the most powerful AI coding tool ever made"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 5 secret Claude Code features you need to know about

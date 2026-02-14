@@ -10,6 +10,33 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "sonnet"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -44,27 +71,6 @@ summary:
   - "# I built an AI image startup in 10 minutes using ChatGPT (image gen API)
 
 Breaking news"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "sonnet"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
 ---
 
 # I built an AI image startup in 10 minutes using ChatGPT (image gen API)

@@ -10,6 +10,38 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "jan"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "msty"
+  - "openai"
+  - "startups"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -58,32 +90,6 @@ concepts:
   - "Know what they want to build creatively know what direction they want to go in"
 summary:
   - "You're tuned in to the number one technology stream in the history of mankind"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "jan"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "msty"
-  - "openai"
-  - "startups"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
 ---
 
 # Building a Startup with Grok 4 LIVE!!!

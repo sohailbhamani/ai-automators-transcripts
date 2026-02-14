@@ -10,6 +10,27 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,22 +65,6 @@ summary:
   - "# Build your first AI agent in under 23 minutes (Cursor, no code)
 
 Instead of paying $200 a month for Chad GPT Pro or hundreds a month for Manis, you should just build your own AI agent for free"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
 ---
 
 # Build your first AI agent in under 23 minutes (Cursor, no code)

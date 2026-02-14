@@ -10,6 +10,30 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "product-management"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -46,25 +70,6 @@ summary:
 
 Six months ago, I launched my first AI app that I 100% solo built by myself, all with AI, no coding at all"
   - "Every step of the way i built out creator buddy, i shared my journey on social media"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "product-management"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
 ---
 
 # I launched an AI app that hit $100,000 in 15 minutes

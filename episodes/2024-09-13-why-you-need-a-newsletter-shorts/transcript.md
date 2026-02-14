@@ -10,6 +10,14 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "linkedin"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,11 +40,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "linkedin"
-  - "x"
-  - "youtube"
 ---
 
 # Why You NEED a Newsletter #shorts

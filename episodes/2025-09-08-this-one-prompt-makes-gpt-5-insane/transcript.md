@@ -10,6 +10,25 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "gpt-5"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,20 +55,6 @@ summary:
   - "# This one prompt makes GPT-5 INSANE
 
 Chad GPT5 is the best AI model ever released"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "gpt-5"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "youtube"
 ---
 
 # This one prompt makes GPT-5 INSANE

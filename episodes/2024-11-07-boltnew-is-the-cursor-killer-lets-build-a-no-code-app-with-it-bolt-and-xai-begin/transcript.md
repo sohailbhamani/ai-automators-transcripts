@@ -10,6 +10,26 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,21 +57,6 @@ concepts:
   []
 summary:
   - "new that's the URL put it into your browser the reason I'm excited to use bolt"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)

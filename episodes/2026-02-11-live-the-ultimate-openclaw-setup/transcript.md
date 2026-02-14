@@ -10,6 +10,36 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "lm-studio"
+  - "make"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "slack"
+  - "sonnet"
+  - "startups"
+  - "tesla"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -56,30 +86,6 @@ summary:
   - "# LIVE: The ULTIMATE OpenClaw setup
 
 Today, I am going to show you the ultimate OpenClaw setup"
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "lm-studio"
-  - "make"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "slack"
-  - "sonnet"
-  - "startups"
-  - "tesla"
-  - "workflows"
 ---
 
 # LIVE: The ULTIMATE OpenClaw setup

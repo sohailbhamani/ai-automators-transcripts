@@ -10,6 +10,35 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "tesla"
+  - "twitter"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,29 +83,6 @@ summary:
   - "# Building apps LIVE with my 24/7 AI employee Clawdbot
 
 Today we are going through what might just be in my opinion, and this isn't even hyperbole"
-keywords:
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "tesla"
-  - "twitter"
-  - "workflows"
-  - "x"
 ---
 
 # Building apps LIVE with my 24/7 AI employee Clawdbot

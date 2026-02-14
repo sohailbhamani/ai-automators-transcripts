@@ -10,6 +10,24 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "intel"
+  - "linkedin"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,19 +56,6 @@ summary:
   - "(Full demo)
 
 AI agents are here and they're absolutely insane"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "intel"
-  - "linkedin"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "x"
 ---
 
 # Manus AI is the most powerful AI Agent ever. UNREAL! (Full demo)

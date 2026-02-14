@@ -11,6 +11,12 @@ yt_tags:
   - "AI Tools"
   - "AI"
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-tools"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -31,9 +37,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "youtube"
 ---
 
 # Is This The Coolest AI Tool Ever? #shorts #ai

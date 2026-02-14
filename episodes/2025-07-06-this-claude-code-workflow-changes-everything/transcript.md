@@ -10,6 +10,34 @@ author: "Alex Finn"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,29 +72,6 @@ summary:
   - "# This Claude Code Workflow Changes EVERYTHING
 
 Everyone knows Claude Code is the most powerful AI coding tool ever made"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # This Claude Code Workflow Changes EVERYTHING
