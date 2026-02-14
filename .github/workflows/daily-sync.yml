@@ -2,8 +2,8 @@ name: Daily Transcript Sync
 
 on:
   schedule:
-    # 8 AM and 8 PM UTC (2 AM and 2 PM CST)
-    - cron: '0 8,20 * * *'
+    # Midnight and noon CST (6 AM and 6 PM UTC)
+    - cron: '0 6,18 * * *'
   workflow_dispatch:
 
 permissions:
