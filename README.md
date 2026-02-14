@@ -4,8 +4,9 @@ Transcript archive of [Alex Finn (OpenClaw)](https://www.youtube.com/@AlexFinn) 
 
 ## Stats
 
-- **Videos Downloaded**: 198 / 199
-- **Date Range**: Feb 17, 2023 - Feb 12, 2026
+- **Videos Downloaded**: 200
+- **Date Range**: Feb 17, 2023 - Feb 13, 2026
+- **Sync**: Automated via GitHub Actions (midnight + noon CST)
 - **Last Updated**: Feb 13, 2026
 
 ## Structure
@@ -15,7 +16,12 @@ alex-finn-transcripts/
 ├── README.md
 ├── index.json                    # Master index of all videos
 ├── video_ids.txt                 # All video IDs (one per line)
-├── index/                        # Topic-based index (98 topics)
+├── .github/
+│   ├── CODEOWNERS                # Require owner review on PRs
+│   └── workflows/
+│       ├── daily-sync.yml        # Automated transcript pipeline (2x daily)
+│       └── lint.yml              # Ruff lint check on PRs
+├── index/                        # Topic-based index
 │   ├── README.md                 # All topics with episode counts
 │   ├── ai-tools.md              # Episodes about AI tools
 │   ├── claude-code.md           # Episodes about Claude Code
@@ -25,6 +31,7 @@ alex-finn-transcripts/
 │   └── YYYY-MM-DD-video-title/
 │       └── transcript.md         # YAML frontmatter + full transcript
 └── scripts/
+    ├── discover.py               # RSS-based new video discovery
     ├── download.py               # Download transcripts (Supadata API)
     ├── enrich.py                 # AI enrichment (entities, topics, etc.)
     ├── create_index.py           # Generates index.json
