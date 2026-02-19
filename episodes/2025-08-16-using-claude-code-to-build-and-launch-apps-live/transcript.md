@@ -10,69 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -118,6 +55,33 @@ summary:
   - "# Using Claude Code to build and launch apps LIVE
 
 Welcome to the live stream"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Using Claude Code to build and launch apps LIVE

@@ -10,57 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "notion"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "twitter"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -102,6 +51,28 @@ concepts:
   []
 summary:
   - "# ChatGPT-5 vs Claude Code: best AI coding tool ever"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "notion"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 ---
 
 # ChatGPT-5 vs Claude Code: best AI coding tool ever?

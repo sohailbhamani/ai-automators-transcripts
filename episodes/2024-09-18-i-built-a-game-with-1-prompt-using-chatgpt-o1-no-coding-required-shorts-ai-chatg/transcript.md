@@ -10,36 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "cursor"
-  - "o1"
-  - "openai"
-  - "prompting"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -63,6 +33,14 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "cursor"
+  - "o1"
+  - "openai"
+  - "prompting"
 ---
 
 # I built a game with 1 prompt using ChatGPT o1 (no coding required) #shorts #ai #chatgpt  #coding

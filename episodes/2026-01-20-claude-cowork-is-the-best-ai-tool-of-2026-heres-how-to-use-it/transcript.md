@@ -10,66 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "claude-cowork"
-  - "coding"
-  - "cowork"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -103,6 +43,30 @@ concepts:
   []
 summary:
   - "Claude Co-work is going to be the biggest AI tool of 2026 and you're not even using 1% of its ability"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "claude-cowork"
+  - "coding"
+  - "cowork"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Claude Cowork is the best AI tool of 2026. Here's how to use it.

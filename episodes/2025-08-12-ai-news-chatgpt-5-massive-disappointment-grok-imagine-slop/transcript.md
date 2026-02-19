@@ -10,64 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "openai"
-  - "opus"
-  - "perplexity"
-  - "sonnet"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -109,6 +51,28 @@ concepts:
   []
 summary:
   - "So, for those who missed it, there has been a smattering reviews online"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "opus"
+  - "perplexity"
+  - "sonnet"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # AI NEWS: ChatGPT 5 Massive disappointment?  Grok Imagine Slop?

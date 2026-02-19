@@ -10,58 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -95,6 +43,29 @@ concepts:
   []
 summary:
   - "# The only Claude Code guide you'll ever need (Opus 4"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
+  - "workflows"
 ---
 
 # The only Claude Code guide you'll ever need (Opus 4.5)

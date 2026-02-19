@@ -4,8 +4,8 @@ Transcript archive of [Alex Finn (OpenClaw)](https://www.youtube.com/@AlexFinn) 
 
 ## Stats
 
-- **Videos Downloaded**: 200
-- **Date Range**: Feb 11, 2023 - Feb 13, 2026
+- **Videos Downloaded**: 204
+- **Date Range**: Feb 11, 2023 - Feb 18, 2026
 - **Sync**: Automated via GitHub Actions (midnight + noon CST)
 - **Last Updated**: Feb 19, 2026
 

@@ -10,63 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -99,6 +42,20 @@ summary:
   - "# How to find $1M AI SaaS ideas EASILY
 
 I came up with a $300,000 AI app idea just from solving a small day-to-day challenge I was facing"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # How to find $1M AI SaaS ideas EASILY

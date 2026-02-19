@@ -10,44 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "codex"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "haiku"
-  - "make"
-  - "openai"
-  - "opus"
-  - "tesla"
-  - "tutorials"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -80,6 +42,22 @@ summary:
   - "# How to run ClawdBot for DIRT CHEAP
 
 Claudebot is the most powerful AI tool in the world"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "codex"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "haiku"
+  - "make"
+  - "openai"
+  - "opus"
+  - "tesla"
+  - "tutorials"
+  - "youtube"
 ---
 
 # How to run ClawdBot for DIRT CHEAP

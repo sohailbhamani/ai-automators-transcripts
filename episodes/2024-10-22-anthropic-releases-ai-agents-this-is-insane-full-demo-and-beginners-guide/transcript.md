@@ -10,49 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -80,6 +37,20 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
 ---
 
 # ANTHROPIC RELEASES AI AGENTS! THIS IS INSANE! FULL DEMO AND BEGINNER’S GUIDE

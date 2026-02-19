@@ -10,55 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "v0"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -86,6 +37,19 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "v0"
 ---
 
 # Windsurf just KILLED Cursor AI and Bolt. The EASIEST way to build no-code apps EVER

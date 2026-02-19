@@ -10,78 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "canva"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "haiku"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "nano-banana"
-  - "openai"
-  - "prompting"
-  - "sonnet"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -128,6 +56,35 @@ concepts:
   []
 summary:
   - "# Building an entire app LIVE with Claude Code (Haiku 4"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "canva"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "haiku"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "nano-banana"
+  - "openai"
+  - "prompting"
+  - "sonnet"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Building an entire app LIVE with Claude Code (Haiku 4.5)

@@ -1,6 +1,6 @@
 # Leadership
 
-Episodes discussing **Leadership** (25 episodes):
+Episodes discussing **Leadership** (27 episodes):
 
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
 - [Using Claude Code to build startups LIVE!!!](../episodes/2026-01-10-using-claude-code-to-build-startups-live/transcript.md) (2026-01-10)
@@ -19,6 +19,7 @@ Episodes discussing **Leadership** (25 episodes):
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
 - [This Claude Code Workflow Changes EVERYTHING](../episodes/2025-07-06-this-claude-code-workflow-changes-everything/transcript.md) (2025-07-06)
 - [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
+- [Should you learn to code in 2025?](../episodes/2025-06-21-should-you-learn-to-code-in-2025/transcript.md) (2025-06-21)
 - [I used these 8 AI tools to launch a $300,000 App](../episodes/2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app/transcript.md) (2025-05-12)
 - [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
 - [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
@@ -27,3 +28,4 @@ Episodes discussing **Leadership** (25 episodes):
 - [NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide](../episodes/2024-12-06-new-chatgpt-model-is-a-game-changer-full-o1-demo-and-beginners-guide/transcript.md) (2024-12-06)
 - [Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)](../episodes/2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide/transcript.md) (2024-11-13)
 - [I Built a 2D Shooting Game Using AI (Cursor + no-code)](../episodes/2024-09-30-i-built-a-2d-shooting-game-using-ai-cursor-no-code/transcript.md) (2024-09-30)
+- [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)

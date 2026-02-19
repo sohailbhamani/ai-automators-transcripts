@@ -1,6 +1,28 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (2 episodes):
+Episodes discussing **Microsoft** (24 episodes):
 
-- [Unknown](../episodes/unknown-cigdfvsdmmu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-oeoierqkkeq/transcript.md) (unknown)
+- [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
+- [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
+- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
+- [Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE](../episodes/2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live/transcript.md) (2026-01-14)
+- [Building Apps with Claude Code and AI LIVE](../episodes/2025-12-20-building-apps-with-claude-code-and-ai-live/transcript.md) (2025-12-20)
+- [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)
+- [The ULTIMATE GPT 5.1 Prompting Guide!](../episodes/2025-11-16-the-ultimate-gpt-51-prompting-guide/transcript.md) (2025-11-16)
+- [Using Codex GPT 5.1 to build apps LIVE](../episodes/2025-11-14-using-codex-gpt-51-to-build-apps-live/transcript.md) (2025-11-14)
+- [CHATGPT 5.1 JUST DROPPED! TESTING IT LIVE](../episodes/2025-11-12-chatgpt-51-just-dropped-testing-it-live/transcript.md) (2025-11-12)
+- [Using Cursor 2.0 to build apps LIVE!](../episodes/2025-10-29-using-cursor-20-to-build-apps-live/transcript.md) (2025-10-29)
+- [Using Google AI Studio to build entire apps with AI LIVE!!!](../episodes/2025-10-27-using-google-ai-studio-to-build-entire-apps-with-ai-live/transcript.md) (2025-10-27)
+- [Claude Code vs Codex: Who can make the better trading bot LIVE?](../episodes/2025-10-24-claude-code-vs-codex-who-can-make-the-better-trading-bot-live/transcript.md) (2025-10-24)
+- [Testing BRAND NEW GPT 5 against world famous benchmarks](../episodes/2025-08-23-testing-brand-new-gpt-5-against-world-famous-benchmarks/transcript.md) (2025-08-23)
+- [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
+- [Building an app LIVE with Claude Code](../episodes/2025-08-19-building-an-app-live-with-claude-code/transcript.md) (2025-08-19)
+- [Using Claude Code to build and launch apps LIVE](../episodes/2025-08-16-using-claude-code-to-build-and-launch-apps-live/transcript.md) (2025-08-16)
+- [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
+- [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
+- [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
+- [Claude Code Beginner Guide – Get Started in 20 Minutes (2025)](../episodes/2025-06-16-claude-code-beginner-guide-get-started-in-20-minutes-2025/transcript.md) (2025-06-16)
+- [Claude Code is the most insane AI coding tool ever (full guide)](../episodes/2025-06-10-claude-code-is-the-most-insane-ai-coding-tool-ever-full-guide/transcript.md) (2025-06-10)
+- [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
+- [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
+- [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)

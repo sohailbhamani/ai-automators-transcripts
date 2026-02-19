@@ -10,71 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -111,6 +46,28 @@ summary:
   - "# I used these 8 AI tools to launch a $300,000 App
 
 3 months ago, I launched an AI business that's now making around $300,000 a year"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # I used these 8 AI tools to launch a $300,000 App

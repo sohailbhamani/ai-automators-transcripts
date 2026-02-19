@@ -10,51 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "mistral"
-  - "nvidia"
-  - "opus"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -89,6 +44,22 @@ concepts:
   []
 summary:
   - "I just spent $20,000 on OpenClaw and plan on spending another $100,000 on it by the end of the year"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "mistral"
+  - "nvidia"
+  - "opus"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # I just spent $20,000 on OpenClaw. Here's why...

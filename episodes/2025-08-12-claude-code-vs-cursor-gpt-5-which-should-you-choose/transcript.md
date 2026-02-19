@@ -10,51 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gpt-5"
-  - "make"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "uber"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -88,6 +43,22 @@ concepts:
   []
 summary:
   - "# Claude Code vs Cursor (GPT-5): Which should you choose"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gpt-5"
+  - "make"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "uber"
 ---
 
 # Claude Code vs Cursor (GPT-5): Which should you choose?

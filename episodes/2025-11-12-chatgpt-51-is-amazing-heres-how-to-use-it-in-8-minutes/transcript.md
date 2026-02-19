@@ -10,50 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -81,6 +37,21 @@ concepts:
   []
 summary:
   - "This is actually a pretty considerable update and I've really really been enjoying this model"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 ---
 
 # ChatGPT 5.1 is AMAZING. Here’s how to use it in 8 minutes

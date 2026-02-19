@@ -10,54 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -83,6 +35,18 @@ concepts:
   []
 summary:
   - "Swift okay so we have the new file we're going to name it expense"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # CHATGPT RELEASES A CODING BUDDY! FULL BEGINNER’S GUIDE

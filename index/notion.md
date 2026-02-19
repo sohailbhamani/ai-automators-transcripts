@@ -1,5 +1,29 @@
 # Notion
 
-Episodes discussing **Notion** (1 episodes):
+Episodes discussing **Notion** (25 episodes):
 
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
+- [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)
+- [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
+- [I was using Claude Code wrong... then I discovered this](../episodes/2025-12-30-i-was-using-claude-code-wrong-then-i-discovered-this/transcript.md) (2025-12-30)
+- [Claude Code just had a MAJOR update. Here's how to use it.](../episodes/2025-12-22-claude-code-just-had-a-major-update-heres-how-to-use-it/transcript.md) (2025-12-22)
+- [Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups](../episodes/2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups/transcript.md) (2025-12-06)
+- [Building an AMAZING AI app with Claude Opus 4.5 LIVE](../episodes/2025-12-04-building-an-amazing-ai-app-with-claude-opus-45-live/transcript.md) (2025-12-04)
+- [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)
+- [GROK 4.1 JUST DROPPED! TESTING AND BENCHMARKING LIVE](../episodes/2025-11-17-grok-41-just-dropped-testing-and-benchmarking-live/transcript.md) (2025-11-17)
+- [The ULTIMATE GPT 5.1 Prompting Guide!](../episodes/2025-11-16-the-ultimate-gpt-51-prompting-guide/transcript.md) (2025-11-16)
+- [Kimi K2 Thinking is the greatest AI model ever. Here’s why…](../episodes/2025-11-09-kimi-k2-thinking-is-the-greatest-ai-model-ever-heres-why/transcript.md) (2025-11-09)
+- [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
+- [I used Replit to build an AI agent that manages my life in 13 minutes](../episodes/2025-10-27-i-used-replit-to-build-an-ai-agent-that-manages-my-life-in-13-minutes/transcript.md) (2025-10-27)
+- [ChatGPT-5 vs Claude Code: best AI coding tool ever?](../episodes/2025-08-09-chatgpt-5-vs-claude-code-best-ai-coding-tool-ever/transcript.md) (2025-08-09)
+- [How I use Claude Code to automate my entire life (5 tricks)](../episodes/2025-07-30-how-i-use-claude-code-to-automate-my-entire-life-5-tricks/transcript.md) (2025-07-30)
+- [Building and launching an app with Claude Code LIVE](../episodes/2025-07-24-building-and-launching-an-app-with-claude-code-live/transcript.md) (2025-07-24)
+- [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
+- [Claude Code is the most insane AI coding tool ever (full guide)](../episodes/2025-06-10-claude-code-is-the-most-insane-ai-coding-tool-ever-full-guide/transcript.md) (2025-06-10)
+- [The craziest AI vibe coding workflow ever #claude #ai #vibecoding #programming](../episodes/2025-06-10-the-craziest-ai-vibe-coding-workflow-ever-claude-ai-vibecoding-programming/transcript.md) (2025-06-10)
+- [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
+- [Build your first App Using AI in 11 Minutes With Windsurf](../episodes/2025-04-04-build-your-first-app-using-ai-in-11-minutes-with-windsurf/transcript.md) (2025-04-04)
+- [Building a Notion Clone App with Ai](../episodes/2024-10-09-building-a-notion-clone-app-with-ai/transcript.md) (2024-10-09)
+- [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
+- [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
+- [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)

@@ -10,47 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "product-management"
-  - "tutorials"
-  - "whisper"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -87,6 +46,25 @@ summary:
   - "# This Google AI Studio workflow is INSANE
 
 Google just released what might be the most powerful AI app builder on the entire market"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "product-management"
+  - "tutorials"
+  - "whisper"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # This Google AI Studio workflow is INSANE

@@ -10,71 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "sonnet"
-  - "tesla"
-  - "twitter"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -119,6 +54,28 @@ summary:
   - "# Testing BRAND NEW GPT 5 against world famous benchmarks
 
 Sonic aka X AI because they won't reveal it, but I got the evidence"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "sonnet"
+  - "tesla"
+  - "twitter"
+  - "x"
 ---
 
 # Testing BRAND NEW GPT 5 against world famous benchmarks

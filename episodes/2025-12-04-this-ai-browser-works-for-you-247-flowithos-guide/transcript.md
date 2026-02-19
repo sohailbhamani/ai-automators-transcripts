@@ -10,70 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "atlas"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "shortcuts"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -114,6 +50,34 @@ summary:
   - "# This AI browser works for you 24/7 (FlowithOS guide)
 
 Flowwith OS is a brand new agentic browser from Flowith and it might just be the most powerful AI browser ever"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "atlas"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "shortcuts"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 ---
 
 # This AI browser works for you 24/7 (FlowithOS guide)

@@ -10,60 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -96,6 +42,24 @@ summary:
   - "# 5 insane ClawdBot uses cases you need to do immediately
 
 Claudebot is taking the entire internet by storm right now and for good reason"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # 5 insane ClawdBot uses cases you need to do immediately

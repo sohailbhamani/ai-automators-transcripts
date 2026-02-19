@@ -10,47 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "adobe"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "apple"
-  - "claude"
-  - "google"
-  - "make"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -80,6 +39,18 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "adobe"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "apple"
+  - "claude"
+  - "google"
+  - "make"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # How I got my first 1,000 subscribers in 24 days

@@ -10,48 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "figma"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "notion"
-  - "opus"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -83,6 +41,26 @@ concepts:
   []
 summary:
   - "Over the past month, Anthropic has released a ton of secret updates to Claude Code that you would only find out about if you were following specific Twitter accounts"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "figma"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "notion"
+  - "opus"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "x"
 ---
 
 # Claude Code just had a MAJOR update. Here's how to use it.

@@ -1,6 +1,6 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (15 episodes):
+Episodes discussing **Deep Dives** (16 episodes):
 
 - [How I made $500,000 with Claude Code (and how you can too)](../episodes/2026-01-22-how-i-made-500000-with-claude-code-and-how-you-can-too/transcript.md) (2026-01-22)
 - [ChatGPT 5.2 is INCREDIBLE. Here’s how to use it in 14 minutes](../episodes/2025-12-12-chatgpt-52-is-incredible-heres-how-to-use-it-in-14-minutes/transcript.md) (2025-12-12)
@@ -17,3 +17,4 @@ Episodes discussing **Deep Dives** (15 episodes):
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
 - [OpenAI Just ENDED Google with SearchGPT! (Full Beginner's Guide)](../episodes/2024-10-31-openai-just-ended-google-with-searchgpt-full-beginners-guide/transcript.md) (2024-10-31)
 - [Claude can now WRITE and RUN code!! MIND BLOWING! FULL DEMO AND BEGINNER'S GUIDE!](../episodes/2024-10-24-claude-can-now-write-and-run-code-mind-blowing-full-demo-and-beginners-guide/transcript.md) (2024-10-24)
+- [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)

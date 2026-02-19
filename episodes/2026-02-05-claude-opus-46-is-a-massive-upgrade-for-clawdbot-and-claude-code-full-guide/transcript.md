@@ -10,51 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -84,6 +39,22 @@ summary:
   - "6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)
 
 Claude Opus 4"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 ---
 
 # Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)

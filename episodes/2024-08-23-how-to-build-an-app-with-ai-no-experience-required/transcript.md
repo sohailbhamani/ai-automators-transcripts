@@ -10,57 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -85,6 +34,16 @@ concepts:
   []
 summary:
   - "0 but you can use whatever you want if you want to use chat GPT or Claude you can do that any of them work uh I just like to use grock it's the newest model grock 2"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "prompting"
+  - "tutorials"
 ---
 
 # How To Build An App With AI (no experience required)

@@ -10,48 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -77,6 +35,15 @@ summary:
   - "# I Built a No-Code Chess Game in 10 Mins (Cursor AI)
 
 I want to build a chess game and boom just like that you go to chess"
+keywords:
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
 ---
 
 # I Built a No-Code Chess Game in 10 Mins (Cursor AI)

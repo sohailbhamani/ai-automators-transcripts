@@ -10,70 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "stripe"
-  - "tesla"
-  - "tutorials"
-  - "whisper"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -121,6 +57,34 @@ concepts:
   []
 summary:
   - "# Using Google AI Studio to build entire apps with AI LIVE"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "stripe"
+  - "tesla"
+  - "tutorials"
+  - "whisper"
 ---
 
 # Using Google AI Studio to build entire apps with AI LIVE!!!

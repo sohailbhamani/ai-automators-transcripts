@@ -10,33 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "ai-news"
-  - "linkedin"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -60,6 +33,11 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-news"
+  - "linkedin"
+  - "x"
+  - "youtube"
 ---
 
 # Why You NEED a Newsletter #shorts

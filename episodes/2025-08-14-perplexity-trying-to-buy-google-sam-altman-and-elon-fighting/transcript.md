@@ -10,71 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "opus"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "sonnet"
-  - "tesla"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -130,6 +65,28 @@ summary:
   - "Sam Altman and Elon FIGHTING
 
 Sam Alman, Elon Musk in a total online battle"
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "opus"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "sonnet"
+  - "tesla"
 ---
 
 # Perplexity trying to buy Google? Sam Altman and Elon FIGHTING

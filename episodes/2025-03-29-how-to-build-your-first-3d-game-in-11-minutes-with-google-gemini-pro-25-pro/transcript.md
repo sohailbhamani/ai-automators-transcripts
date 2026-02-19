@@ -10,42 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "canvas"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -72,6 +36,20 @@ concepts:
   []
 summary:
   - "# How to Build Your First 3D Game in 11 Minutes With Google Gemini Pro 2"
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "canvas"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 ---
 
 # How to Build Your First 3D Game in 11 Minutes With Google Gemini Pro 2.5 Pro

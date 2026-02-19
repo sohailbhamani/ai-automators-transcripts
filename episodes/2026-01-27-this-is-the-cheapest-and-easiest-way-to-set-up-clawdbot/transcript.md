@@ -10,58 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "claude"
-  - "linkedin"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "opus"
-  - "product-management"
-  - "twitter"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -96,6 +44,22 @@ summary:
   - "# This is the CHEAPEST and EASIEST way to set up ClawdBot
 
 bot is the most important technology you should be using in 2026"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "claude"
+  - "linkedin"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "opus"
+  - "product-management"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 ---
 
 # This is the CHEAPEST and EASIEST way to set up ClawdBot

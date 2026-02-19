@@ -10,51 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -85,6 +40,22 @@ summary:
   - "# Claude Code for Web/Mobile just released and it’s INSANE (must watch)
 
 Anthropic finally did it"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 ---
 
 # Claude Code for Web/Mobile just released and it’s INSANE (must watch)

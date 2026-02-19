@@ -10,79 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "notion"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "shopify"
-  - "sonnet"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "workflows"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -134,6 +61,36 @@ summary:
   - "5 LIVE
 
 that we are going to build with claude code and claude opus 4"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "notion"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "shopify"
+  - "sonnet"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "workflows"
+  - "x"
 ---
 
 # Building an AMAZING AI app with Claude Opus 4.5 LIVE

@@ -10,33 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "apple"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -58,6 +31,8 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "apple"
 ---
 
 # The Apple Vision Pro will solve all of your relationship problems

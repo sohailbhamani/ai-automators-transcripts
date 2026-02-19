@@ -10,47 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-tools"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -76,6 +35,14 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-tools"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
 ---
 
 # Can I build 5 apps in 5 minutes with AI? (Cursor, no-code)

@@ -10,48 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "claude"
-  - "google"
-  - "make"
-  - "nvidia"
-  - "product-management"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -84,6 +42,19 @@ summary:
   - "# DO NOT use a VPS for OpenClaw (major warning)
 
 Yeah, so you're getting lied to"
+keywords:
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "claude"
+  - "google"
+  - "make"
+  - "nvidia"
+  - "product-management"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # DO NOT use a VPS for OpenClaw (major warning)

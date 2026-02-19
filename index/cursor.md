@@ -1,6 +1,6 @@
 # Cursor
 
-Episodes discussing **Cursor** (126 episodes):
+Episodes discussing **Cursor** (132 episodes):
 
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
@@ -92,6 +92,7 @@ Episodes discussing **Cursor** (126 episodes):
 - [Gemini CLI vs Claude Code: Which is the Best AI Coding Tool Ever?](../episodes/2025-06-28-gemini-cli-vs-claude-code-which-is-the-best-ai-coding-tool-ever/transcript.md) (2025-06-28)
 - [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
 - [Google Gemini CLI is an INSANE AI coding tool (full tutorial)](../episodes/2025-06-26-google-gemini-cli-is-an-insane-ai-coding-tool-full-tutorial/transcript.md) (2025-06-26)
+- [Should you learn to code in 2025?](../episodes/2025-06-21-should-you-learn-to-code-in-2025/transcript.md) (2025-06-21)
 - [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
 - [Claude Code Beginner Guide – Get Started in 20 Minutes (2025)](../episodes/2025-06-16-claude-code-beginner-guide-get-started-in-20-minutes-2025/transcript.md) (2025-06-16)
 - [How I made $19,000 in 15 minutes with AI #ai #cursor #chatgpt #entrepreneurship](../episodes/2025-06-12-how-i-made-19000-in-15-minutes-with-ai-ai-cursor-chatgpt-entrepreneurship/transcript.md) (2025-06-12)
@@ -128,3 +129,8 @@ Episodes discussing **Cursor** (126 episodes):
 - [Build a game with 1 prompt using AI (ChatGPT o1, no code)](../episodes/2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code/transcript.md) (2024-09-18)
 - [I built a game with 1 prompt using ChatGPT o1 (no coding required) #shorts #ai #chatgpt  #coding](../episodes/2024-09-18-i-built-a-game-with-1-prompt-using-chatgpt-o1-no-coding-required-shorts-ai-chatg/transcript.md) (2024-09-18)
 - [I Build a full game with AI using only a SCREENSHOT (Cursor, no code)](../episodes/2024-09-12-i-build-a-full-game-with-ai-using-only-a-screenshot-cursor-no-code/transcript.md) (2024-09-12)
+- [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
+- [I Built a No-Code Chess Game in 10 Mins (Cursor AI)](../episodes/2024-09-05-i-built-a-no-code-chess-game-in-10-mins-cursor-ai/transcript.md) (2024-09-05)
+- [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
+- [Can I build 5 apps in 5 minutes with AI? (Cursor, no-code)](../episodes/2024-08-30-can-i-build-5-apps-in-5-minutes-with-ai-cursor-no-code/transcript.md) (2024-08-30)
+- [Build A Game With AI In 10 Minutes (no code, Cursor)](../episodes/2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor/transcript.md) (2024-08-28)

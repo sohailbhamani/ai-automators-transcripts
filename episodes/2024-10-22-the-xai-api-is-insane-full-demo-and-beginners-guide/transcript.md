@@ -10,38 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -65,6 +33,16 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 ---
 
 # The xAI API IS INSANE: Full Demo And Beginner's Guide

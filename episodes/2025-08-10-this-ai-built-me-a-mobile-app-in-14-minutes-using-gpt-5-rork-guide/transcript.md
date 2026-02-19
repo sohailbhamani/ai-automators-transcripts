@@ -10,53 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -87,6 +40,24 @@ summary:
   - "# This AI built me a mobile app in 14 minutes using GPT 5 (Rork guide)
 
 I found an AI agent running on GPT5 that lets you build entire iOS and Android apps in one single prompt"
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 ---
 
 # This AI built me a mobile app in 14 minutes using GPT 5 (Rork guide)

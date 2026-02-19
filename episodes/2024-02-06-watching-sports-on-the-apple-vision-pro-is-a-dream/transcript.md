@@ -10,35 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "apple"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -62,6 +33,10 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "apple"
+  - "x"
+  - "youtube"
 ---
 
 # Watching Sports on the Apple Vision Pro is a Dream

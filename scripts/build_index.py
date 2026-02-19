@@ -4,8 +4,6 @@ Build topic index for Alex Finn transcripts.
 Creates index/ folder with topic-specific markdown files.
 """
 
-import os
-import re
 import yaml
 from pathlib import Path
 from collections import defaultdict
@@ -16,10 +14,30 @@ INDEX_DIR = BASE_DIR / "index"
 
 # Topic keywords mapping - maps keywords to canonical topic names
 TOPIC_KEYWORDS = {
-    "AI Agents": ["agent", "agents", "agentic", "autonomous", "automation", "multi-agent"],
-    "AI Strategy": ["strategy", "strategic", "enterprise", "business strategy", "adoption", "implementation"],
+    "AI Agents": [
+        "agent",
+        "agents",
+        "agentic",
+        "autonomous",
+        "automation",
+        "multi-agent",
+    ],
+    "AI Strategy": [
+        "strategy",
+        "strategic",
+        "enterprise",
+        "business strategy",
+        "adoption",
+        "implementation",
+    ],
     "AI Tools": ["tool", "tools", "cursor", "chatgpt", "claude", "copilot", "software"],
-    "Prompting": ["prompt", "prompting", "prompt engineering", "chain of thought", "few-shot"],
+    "Prompting": [
+        "prompt",
+        "prompting",
+        "prompt engineering",
+        "chain of thought",
+        "few-shot",
+    ],
     "AI News": ["news", "announcement", "launch", "release", "update", "breaking"],
     "Career": ["job", "career", "hiring", "interview", "resume", "skills", "salary"],
     "Product Management": ["product", "pm", "product manager", "roadmap", "feature"],
@@ -30,7 +48,15 @@ TOPIC_KEYWORDS = {
     "Google": ["google", "gemini", "deepmind", "sundar pichai", "bard"],
     "Microsoft": ["microsoft", "copilot", "satya nadella", "azure", "bing"],
     "Meta": ["meta", "facebook", "llama", "mark zuckerberg", "instagram"],
-    "Coding": ["code", "coding", "programming", "developer", "engineer", "cursor", "copilot"],
+    "Coding": [
+        "code",
+        "coding",
+        "programming",
+        "developer",
+        "engineer",
+        "cursor",
+        "copilot",
+    ],
     "Workflows": ["workflow", "automation", "process", "efficiency", "productivity"],
     "Frameworks": ["framework", "model", "mental model", "principles", "system"],
     "Deep Dives": ["deep dive", "breakdown", "explained", "analysis"],
@@ -81,7 +107,14 @@ def get_topics_for_episode(keywords, entities, content_type, primary_topic):
     if entities and isinstance(entities, dict):
         for company in entities.get("companies", []) or []:
             company_lower = company.lower()
-            if company_lower in ["openai", "anthropic", "google", "microsoft", "meta", "nvidia"]:
+            if company_lower in [
+                "openai",
+                "anthropic",
+                "google",
+                "microsoft",
+                "meta",
+                "nvidia",
+            ]:
                 topics.add(company_lower)
 
     return topics
@@ -89,19 +122,16 @@ def get_topics_for_episode(keywords, entities, content_type, primary_topic):
 
 def parse_frontmatter(content):
     """Parse YAML frontmatter from markdown content."""
-    if not content.startswith('---'):
+    if not content.startswith("---"):
         return {}, content
 
-    end = content.find('\n---', 3)
-    if end == -1:
+    parts = content.split("---", 2)
+    if len(parts) < 3:
         return {}, content
-
-    yaml_str = content[4:end]
-    rest = content[end + 4:]
 
     try:
-        data = yaml.safe_load(yaml_str) or {}
-        return data, rest
+        data = yaml.safe_load(parts[1]) or {}
+        return data, parts[2]
     except yaml.YAMLError:
         return {}, content
 
@@ -109,25 +139,26 @@ def parse_frontmatter(content):
 def update_frontmatter(file_path, new_fields):
     """Update frontmatter with new fields."""
     content = file_path.read_text()
-    if not content.startswith('---'):
+    if not content.startswith("---"):
         return
 
-    end = content.find('\n---', 3)
-    if end == -1:
+    parts = content.split("---", 2)
+    if len(parts) < 3:
         return
 
-    yaml_str = content[4:end]
-    rest = content[end:]
+    yaml_str = parts[1]
 
     # Check if keywords already exist
-    if 'keywords:' in yaml_str:
+    if "keywords:" in yaml_str:
         return  # Already has keywords
 
     # Add keywords before the closing ---
-    keywords_yaml = "keywords:\n" + "\n".join(f'  - "{k}"' for k in new_fields.get('keywords', []))
+    keywords_yaml = "keywords:\n" + "\n".join(
+        f'  - "{k}"' for k in new_fields.get("keywords", [])
+    )
 
     new_yaml = yaml_str.rstrip() + "\n" + keywords_yaml
-    new_content = f"---{new_yaml}{rest}"
+    new_content = f"---{new_yaml}\n---{parts[2]}"
 
     file_path.write_text(new_content)
 
@@ -143,7 +174,7 @@ def main():
     all_episodes = []
 
     for episode_dir in sorted(EPISODES_DIR.iterdir()):
-        if not episode_dir.is_dir() or episode_dir.name.startswith('.'):
+        if not episode_dir.is_dir() or episode_dir.name.startswith("."):
             continue
 
         transcript_file = episode_dir / "transcript.md"
@@ -153,34 +184,32 @@ def main():
         content = transcript_file.read_text()
         metadata, transcript_text = parse_frontmatter(content)
 
-        if not metadata.get('title'):
+        if not metadata.get("title"):
             continue
 
         # Extract keywords if not present
-        keywords = metadata.get('keywords', [])
+        keywords = metadata.get("keywords", [])
         if not keywords:
             keywords = extract_keywords(
-                metadata.get('title', ''),
-                transcript_text,
-                metadata.get('entities', {})
+                metadata.get("title", ""), transcript_text, metadata.get("entities", {})
             )
             # Update the file with keywords
-            update_frontmatter(transcript_file, {'keywords': keywords})
-            metadata['keywords'] = keywords
+            update_frontmatter(transcript_file, {"keywords": keywords})
+            metadata["keywords"] = keywords
 
         # Get topics for this episode
         topics = get_topics_for_episode(
             keywords,
-            metadata.get('entities', {}),
-            metadata.get('content_type', ''),
-            metadata.get('primary_topic', '')
+            metadata.get("entities", {}),
+            metadata.get("content_type", ""),
+            metadata.get("primary_topic", ""),
         )
 
         episode_info = {
-            'title': metadata.get('title', ''),
-            'folder': episode_dir.name,
-            'date': metadata.get('publish_date', ''),
-            'duration': metadata.get('duration', ''),
+            "title": metadata.get("title", ""),
+            "folder": episode_dir.name,
+            "date": metadata.get("publish_date", ""),
+            "duration": metadata.get("duration", ""),
         }
 
         all_episodes.append(episode_info)
@@ -196,18 +225,22 @@ def main():
         topic_file = INDEX_DIR / f"{topic}.md"
 
         # Sort episodes by date (newest first)
-        episodes_sorted = sorted(episodes, key=lambda x: x.get('date', ''), reverse=True)
+        episodes_sorted = sorted(
+            episodes, key=lambda x: x.get("date", ""), reverse=True
+        )
 
         lines = [
             f"# {topic.replace('-', ' ').title()}",
             "",
             f"Episodes discussing **{topic.replace('-', ' ').title()}** ({len(episodes)} episodes):",
-            ""
+            "",
         ]
 
         for ep in episodes_sorted:
-            date_str = f" ({ep['date']})" if ep.get('date') else ""
-            lines.append(f"- [{ep['title']}](../episodes/{ep['folder']}/transcript.md){date_str}")
+            date_str = f" ({ep['date']})" if ep.get("date") else ""
+            lines.append(
+                f"- [{ep['title']}](../episodes/{ep['folder']}/transcript.md){date_str}"
+            )
 
         topic_file.write_text("\n".join(lines) + "\n")
 
@@ -218,25 +251,29 @@ def main():
         f"Index of {len(all_episodes)} episodes across {len(topic_episodes)} topics.",
         "",
         "## Topics",
-        ""
+        "",
     ]
 
     # Sort topics by episode count
-    sorted_topics = sorted(topic_episodes.items(), key=lambda x: len(x[1]), reverse=True)
+    sorted_topics = sorted(
+        topic_episodes.items(), key=lambda x: len(x[1]), reverse=True
+    )
 
     for topic, episodes in sorted_topics:
-        topic_title = topic.replace('-', ' ').title()
+        topic_title = topic.replace("-", " ").title()
         readme_lines.append(f"- [{topic_title}]({topic}.md) ({len(episodes)} episodes)")
 
-    readme_lines.extend([
-        "",
-        "## Search",
-        "",
-        "```bash",
-        "# Search all transcripts",
-        'grep -r "your search term" ../episodes/',
-        "```"
-    ])
+    readme_lines.extend(
+        [
+            "",
+            "## Search",
+            "",
+            "```bash",
+            "# Search all transcripts",
+            'grep -r "your search term" ../episodes/',
+            "```",
+        ]
+    )
 
     (INDEX_DIR / "README.md").write_text("\n".join(readme_lines) + "\n")
 

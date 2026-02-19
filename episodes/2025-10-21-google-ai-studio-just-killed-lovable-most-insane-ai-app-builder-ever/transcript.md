@@ -10,63 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "bolt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "product-management"
-  - "prompting"
-  - "shopify"
-  - "sora"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -105,6 +48,27 @@ concepts:
   []
 summary:
   - "They released the easiest way to build apps with AI ever"
+keywords:
+  - "ai-news"
+  - "bolt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "product-management"
+  - "prompting"
+  - "shopify"
+  - "sora"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever

@@ -10,34 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "coding"
-  - "make"
-  - "prompting"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -59,6 +31,12 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "coding"
+  - "make"
+  - "prompting"
 ---
 
 # I built a stock tracking app with ONE PROMPT using AI #ai #stocks #shorts #coding

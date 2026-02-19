@@ -11,34 +11,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -62,7 +34,19 @@ entities:
 concepts:
   []
 summary:
-  - "The number one question I get asked is, "Should I learn how to code now that AI has made it so easy to build apps"
+  - "The number one question I get asked is, 'Should I learn how to code now that AI has made it so easy to build apps"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "leadership"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "youtube"
 ---
 
 # Should you learn to code in 2025?

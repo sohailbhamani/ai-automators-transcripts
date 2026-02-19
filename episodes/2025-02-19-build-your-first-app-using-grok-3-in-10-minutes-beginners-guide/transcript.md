@@ -10,54 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -83,6 +35,18 @@ concepts:
   []
 summary:
   - "comom download it allows you to paste in code and run it so get that installed pause the video now go to cursor"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "x"
 ---
 
 # Build your first app using Grok 3 in 10 minutes (Beginner's guide)

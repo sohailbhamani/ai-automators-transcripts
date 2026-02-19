@@ -10,70 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "adobe"
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "artifacts"
-  - "claude"
-  - "claude-code"
-  - "claude-cowork"
-  - "coding"
-  - "cowork"
-  - "google"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -111,6 +47,27 @@ summary:
   - "# Claude Cowork: from beginner to expert in 18 minutes
 
 Wow, it actually did all that research and created this amazing document"
+keywords:
+  - "adobe"
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "artifacts"
+  - "claude"
+  - "claude-code"
+  - "claude-cowork"
+  - "coding"
+  - "cowork"
+  - "google"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 ---
 
 # Claude Cowork: from beginner to expert in 18 minutes

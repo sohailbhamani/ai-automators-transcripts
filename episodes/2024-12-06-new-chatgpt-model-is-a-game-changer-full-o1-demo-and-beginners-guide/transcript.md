@@ -10,68 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -105,6 +43,25 @@ concepts:
   []
 summary:
   - "it is going to give me the command which is Python mario"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide

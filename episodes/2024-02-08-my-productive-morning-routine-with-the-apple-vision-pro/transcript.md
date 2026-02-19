@@ -10,38 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Product Managers"
-
-keywords:
-  - "apple"
-  - "make"
-  - "product-management"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -65,6 +33,13 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "apple"
+  - "make"
+  - "product-management"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # My Productive Morning Routine with the Apple Vision Pro

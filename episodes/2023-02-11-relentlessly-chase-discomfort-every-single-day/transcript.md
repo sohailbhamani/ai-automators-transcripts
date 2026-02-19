@@ -10,32 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -59,6 +33,8 @@ summary:
   - "# Relentlessly chase discomfort every single day
 
 foreign [Music] [Music]"
+keywords:
+
 ---
 
 # Relentlessly chase discomfort every single day

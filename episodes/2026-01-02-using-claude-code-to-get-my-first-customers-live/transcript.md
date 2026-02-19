@@ -10,76 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "notion"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -126,6 +56,33 @@ concepts:
   []
 summary:
   - "Today we are going to get our first customers for our claude code built app"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "notion"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "x"
 ---
 
 # Using Claude Code to get my first customers LIVE!!!

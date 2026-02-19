@@ -10,33 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "apple"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -58,6 +31,8 @@ concepts:
   []
 summary:
   - "# Finally getting use out of my NFTs thanks to the Apple Vision Pro"
+keywords:
+  - "apple"
 ---
 
 # Finally getting use out of my NFTs thanks to the Apple Vision Pro! $3,000,000 well spent!

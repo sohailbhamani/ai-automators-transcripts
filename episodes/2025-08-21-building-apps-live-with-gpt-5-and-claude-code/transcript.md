@@ -10,71 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "gpt-5"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "slack"
-  - "sonnet"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -120,6 +55,35 @@ summary:
   - "# Building apps live with GPT-5 and Claude Code
 
 Let's do it"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "gpt-5"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "slack"
+  - "sonnet"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 ---
 
 # Building apps live with GPT-5 and Claude Code

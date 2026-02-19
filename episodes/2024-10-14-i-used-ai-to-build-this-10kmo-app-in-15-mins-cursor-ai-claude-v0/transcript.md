@@ -10,62 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-  - "v0"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -96,6 +40,19 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
+  - "v0"
+  - "x"
+  - "youtube"
 ---
 
 # I Used AI To Build This $10K/mo App In 15 Mins (Cursor AI, Claude, v0)

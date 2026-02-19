@@ -10,31 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Product Managers"
-
-keywords:
-  - "ai-strategy"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -58,6 +33,12 @@ summary:
   - "# LIVE: My OpenClaw setup is incredible
 
 Hello everyone, and welcome to this quick tutorial"
+keywords:
+  - "ai-strategy"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
 ---
 
 # LIVE: My OpenClaw setup is incredible

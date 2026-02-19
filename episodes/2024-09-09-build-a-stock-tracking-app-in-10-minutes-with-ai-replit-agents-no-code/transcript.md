@@ -10,59 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "replit"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -91,6 +38,18 @@ summary:
   - "# Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)
 
 I want to build a stock dashboard"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "replit"
 ---
 
 # Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)

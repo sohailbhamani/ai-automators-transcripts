@@ -10,70 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "gpt-5"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -112,6 +48,27 @@ summary:
   - "# GPT-5 Codex: From Beginner to Expert in 17 minutes
 
 So, I've been using OpenAI's codecs the last few days, and I have figured out a workflow that is probably the best AI vibe coding workflow I've ev"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "gpt-5"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 ---
 
 # GPT-5 Codex: From Beginner to Expert in 17 minutes

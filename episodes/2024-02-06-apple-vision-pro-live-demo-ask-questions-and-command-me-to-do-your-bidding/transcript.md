@@ -10,57 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "apple"
-  - "google"
-  - "make"
-  - "meta"
-  - "notion"
-  - "tutorials"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -89,6 +38,16 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-news"
+  - "apple"
+  - "google"
+  - "make"
+  - "meta"
+  - "notion"
+  - "tutorials"
+  - "x"
+  - "youtube"
 ---
 
 # APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!

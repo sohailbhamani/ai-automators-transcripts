@@ -10,40 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "o3"
-  - "openai"
-  - "prompting"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -70,6 +36,18 @@ summary:
   - "# ChatGPT o3 Is INSANE For Building Games
 
 Chat GP03 just launched and it is absolutely incredible"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "o3"
+  - "openai"
+  - "prompting"
 ---
 
 # ChatGPT o3 Is INSANE For Building Games

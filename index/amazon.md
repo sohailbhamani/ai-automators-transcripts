@@ -1,5 +1,28 @@
 # Amazon
 
-Episodes discussing **Amazon** (1 episodes):
+Episodes discussing **Amazon** (24 episodes):
 
-- [Unknown](../episodes/unknown-cigdfvsdmmu/transcript.md) (unknown)
+- [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
+- [DO NOT use a VPS for OpenClaw (major warning)](../episodes/2026-02-12-do-not-use-a-vps-for-openclaw-major-warning/transcript.md) (2026-02-12)
+- [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
+- [You NEED a Mac Mini for ClawdBot](../episodes/2026-02-04-you-need-a-mac-mini-for-clawdbot/transcript.md) (2026-02-04)
+- [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
+- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
+- [This is the CHEAPEST and EASIEST way to set up ClawdBot](../episodes/2026-01-27-this-is-the-cheapest-and-easiest-way-to-set-up-clawdbot/transcript.md) (2026-01-27)
+- [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)
+- [Building apps LIVE with my 24/7 AI employee Clawdbot](../episodes/2026-01-23-building-apps-live-with-my-247-ai-employee-clawdbot/transcript.md) (2026-01-23)
+- [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)
+- [ChatGPT HAS ADS NOW!!! Is AI over???](../episodes/2026-01-17-chatgpt-has-ads-now-is-ai-over/transcript.md) (2026-01-17)
+- [USING CLAUDE CODE TO LAUNCH A STARTUP LIVE!!!](../episodes/2026-01-01-using-claude-code-to-launch-a-startup-live/transcript.md) (2026-01-01)
+- [Building mind blowing apps with Claude Code LIVE](../episodes/2025-12-29-building-mind-blowing-apps-with-claude-code-live/transcript.md) (2025-12-29)
+- [This AI browser works for you 24/7 (FlowithOS guide)](../episodes/2025-12-04-this-ai-browser-works-for-you-247-flowithos-guide/transcript.md) (2025-12-04)
+- [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)
+- [Is ChatPT 5.1 Pro Worth $200? Testing LIVE!!!](../episodes/2025-11-21-is-chatpt-51-pro-worth-200-testing-live/transcript.md) (2025-11-21)
+- [Gemini 3.0 Pro: Is this the GREATEST AI ever? LIVE testing!](../episodes/2025-11-19-gemini-30-pro-is-this-the-greatest-ai-ever-live-testing/transcript.md) (2025-11-19)
+- [Using Codex GPT 5.1 to build apps LIVE](../episodes/2025-11-14-using-codex-gpt-51-to-build-apps-live/transcript.md) (2025-11-14)
+- [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
+- [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
+- [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)
+- [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
+- [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
+- [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)

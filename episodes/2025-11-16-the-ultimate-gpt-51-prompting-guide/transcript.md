@@ -10,50 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "apple"
-  - "box"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "notion"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -81,6 +37,21 @@ concepts:
   []
 summary:
   - "The issue is if you don't prompt it correctly, your results will be horrible"
+keywords:
+  - "ai-news"
+  - "apple"
+  - "box"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "notion"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
 ---
 
 # The ULTIMATE GPT 5.1 Prompting Guide!

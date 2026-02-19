@@ -10,52 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tailwind"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -84,6 +38,23 @@ concepts:
   []
 summary:
   - "# The Ralph Wiggum plugin makes Claude Code 100x more powerful (WOW"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 ---
 
 # The Ralph Wiggum plugin makes Claude Code 100x more powerful (WOW!)

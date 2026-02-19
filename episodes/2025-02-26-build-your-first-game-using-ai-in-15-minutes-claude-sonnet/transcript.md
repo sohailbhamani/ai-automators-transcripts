@@ -10,59 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -95,6 +42,23 @@ summary:
   - "# Build Your First Game Using AI in 15 Minutes (Claude Sonnet)
 
 I am going to show you how to build an unbelievably fun 3D firstperson shooting game using grock 3 and Claude Sonet 3"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 ---
 
 # Build Your First Game Using AI in 15 Minutes (Claude Sonnet)

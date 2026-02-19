@@ -10,55 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -88,6 +39,19 @@ summary:
   - "# How to Become a Claude Code Master
 
 Over the last few months, Claude Code has added a ton of new features that aren't talked about or documented anywhere"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
 ---
 
 # How to Become a Claude Code Master

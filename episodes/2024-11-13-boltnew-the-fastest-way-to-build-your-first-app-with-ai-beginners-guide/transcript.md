@@ -10,57 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -91,6 +40,21 @@ summary:
   - "New: The FASTEST way to build your first app with AI (Beginner’s Guide)
 
 with bolt"
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
 ---
 
 # Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)

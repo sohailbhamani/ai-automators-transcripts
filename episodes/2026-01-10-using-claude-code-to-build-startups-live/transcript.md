@@ -10,76 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "anthropic-api"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "opus"
-  - "perplexity"
-  - "sonnet"
-  - "startups"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "whisper"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -125,6 +55,33 @@ concepts:
   []
 summary:
   - "Today we are going to build and launch an entire application from ideiation to creation to launch all on this live stream using Claude Code"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "anthropic-api"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "opus"
+  - "perplexity"
+  - "sonnet"
+  - "startups"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "whisper"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Using Claude Code to build startups LIVE!!!

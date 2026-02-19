@@ -10,60 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "opus"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -99,6 +45,24 @@ summary:
   - "# Claude Code is the most insane AI coding tool ever (full guide)
 
 Some of the things I'm going to show you in this video will change how you use AI forever"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "opus"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 ---
 
 # Claude Code is the most insane AI coding tool ever (full guide)

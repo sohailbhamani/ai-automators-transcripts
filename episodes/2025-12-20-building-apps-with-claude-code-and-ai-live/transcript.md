@@ -10,67 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "linkedin"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -116,6 +55,31 @@ summary:
   - "# Building Apps with Claude Code and AI LIVE
 
 Today we are going to be building and launching an entire app live using Claude code"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "linkedin"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # Building Apps with Claude Code and AI LIVE

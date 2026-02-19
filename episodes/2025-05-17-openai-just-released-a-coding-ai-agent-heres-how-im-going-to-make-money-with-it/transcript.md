@@ -10,47 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "codex"
-  - "coding"
-  - "github"
-  - "make"
-  - "openai"
-  - "projects"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-
 
 
 # AI-enriched metadata
@@ -80,6 +39,18 @@ summary:
   - "Here’s how I’m going to make money with it (Codex full demo)
 
 As we speak, there is an AI agent working completely by itself to build out this to-do list app you see here"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "codex"
+  - "coding"
+  - "github"
+  - "make"
+  - "openai"
+  - "projects"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 ---
 
 # OpenAI just released a coding AI agent. Here’s how I’m going to make money with it (Codex full demo)

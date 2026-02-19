@@ -1,5 +1,25 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (1 episodes):
+Episodes discussing **Nvidia** (21 episodes):
 
-- [Unknown](../episodes/unknown-cigdfvsdmmu/transcript.md) (unknown)
+- [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
+- [DO NOT use a VPS for OpenClaw (major warning)](../episodes/2026-02-12-do-not-use-a-vps-for-openclaw-major-warning/transcript.md) (2026-02-12)
+- [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
+- [I just spent $20,000 on OpenClaw. Here's why...](../episodes/2026-02-09-i-just-spent-20000-on-openclaw-heres-why/transcript.md) (2026-02-09)
+- [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
+- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
+- [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
+- [ChatGPT HAS ADS NOW!!! Is AI over???](../episodes/2026-01-17-chatgpt-has-ads-now-is-ai-over/transcript.md) (2026-01-17)
+- [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)
+- [Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups](../episodes/2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups/transcript.md) (2025-12-06)
+- [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)
+- [CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!](../episodes/2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live/transcript.md) (2025-11-24)
+- [Is ChatPT 5.1 Pro Worth $200? Testing LIVE!!!](../episodes/2025-11-21-is-chatpt-51-pro-worth-200-testing-live/transcript.md) (2025-11-21)
+- [Gemini 3.0 Pro: Is this the GREATEST AI ever? LIVE testing!](../episodes/2025-11-19-gemini-30-pro-is-this-the-greatest-ai-ever-live-testing/transcript.md) (2025-11-19)
+- [Using Codex GPT 5.1 to build apps LIVE](../episodes/2025-11-14-using-codex-gpt-51-to-build-apps-live/transcript.md) (2025-11-14)
+- [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
+- [Watch me build a startup live with Claude Code](../episodes/2025-11-05-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-11-05)
+- [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
+- [Launching an app with Claude Code LIVE](../episodes/2025-11-01-launching-an-app-with-claude-code-live/transcript.md) (2025-11-01)
+- [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
+- [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)

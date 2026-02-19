@@ -10,59 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "google"
-  - "make"
-  - "product-management"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -98,6 +45,23 @@ summary:
   - "# Vibe Coding Masterclass: Build your first app with AI in 37 minutes (Claude Code)
 
 Welcome to the Vibe Coding Master Class"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "google"
+  - "make"
+  - "product-management"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # Vibe Coding Masterclass: Build your first app with AI in 37 minutes (Claude Code)

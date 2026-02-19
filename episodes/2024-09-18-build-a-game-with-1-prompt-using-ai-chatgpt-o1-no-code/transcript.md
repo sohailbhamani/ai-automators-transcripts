@@ -10,54 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -86,6 +38,18 @@ summary:
   - "# Build a game with 1 prompt using AI (ChatGPT o1, no code)
 
 let's build a Pac-Man game using chat gp01 with a single prompt here we go I opened up chat gp"
+keywords:
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "workflows"
 ---
 
 # Build a game with 1 prompt using AI (ChatGPT o1, no code)

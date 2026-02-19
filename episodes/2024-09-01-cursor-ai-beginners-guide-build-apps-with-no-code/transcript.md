@@ -10,61 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -96,6 +41,20 @@ concepts:
   []
 summary:
   - "# Cursor AI Beginners Guide: Build Apps with NO CODE"
+keywords:
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "x"
 ---
 
 # Cursor AI Beginners Guide: Build Apps with NO CODE!

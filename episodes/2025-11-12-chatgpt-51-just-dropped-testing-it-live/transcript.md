@@ -10,68 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "sora"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -124,6 +62,32 @@ summary:
   - "TESTING IT LIVE
 
 Today we are going to continue our epic build of the vibe coded app store that we're going to be putting live very very soon"
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "sora"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # CHATGPT 5.1 JUST DROPPED! TESTING IT LIVE

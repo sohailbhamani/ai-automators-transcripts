@@ -10,64 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "haiku"
-  - "make"
-  - "mcp"
-  - "netflix"
-  - "product-management"
-  - "sonnet"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -105,6 +47,28 @@ summary:
   - "# 9 months of Claude Code Lessons in 19 minutes
 
 On February 24th, 2025, Claude Code released and not a single day has gone by where it hasn't been the best AI coding tool on the entire market"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "haiku"
+  - "make"
+  - "mcp"
+  - "netflix"
+  - "product-management"
+  - "sonnet"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # 9 months of Claude Code Lessons in 19 minutes

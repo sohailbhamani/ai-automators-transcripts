@@ -10,60 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -90,6 +36,19 @@ summary:
   - "# How to Find Purpose Through Content
 
 hey I'm Alex and this is the story of how I turned tweeting for a couple minutes a day after work into a full-time business so my entire life I really didn't kno"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "youtube"
 ---
 
 # How to Find Purpose Through Content

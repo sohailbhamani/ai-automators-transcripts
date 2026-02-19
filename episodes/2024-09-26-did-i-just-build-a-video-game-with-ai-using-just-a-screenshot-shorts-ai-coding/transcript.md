@@ -10,32 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "make"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -57,6 +31,10 @@ concepts:
   []
 summary:
   - "# Did I just build a video game with AI using just a screenshot"
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "make"
 ---
 
 # Did I just build a video game with AI using just a screenshot? #shorts #ai #coding

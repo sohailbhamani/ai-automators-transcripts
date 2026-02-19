@@ -10,42 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "anthropic"
-  - "anthropic-api"
-  - "apple"
-  - "career"
-  - "claude"
-  - "computer-use"
-  - "google"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -73,6 +37,20 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "anthropic"
+  - "anthropic-api"
+  - "apple"
+  - "career"
+  - "claude"
+  - "computer-use"
+  - "google"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
 ---
 
 # This AUTOMATED Social Media AI Agent is INSANE: Full Demo and Beginner’s Guide

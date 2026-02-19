@@ -10,63 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "box"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -101,6 +44,27 @@ concepts:
   []
 summary:
   - "# I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "box"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
+  - "youtube"
 ---
 
 # I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)

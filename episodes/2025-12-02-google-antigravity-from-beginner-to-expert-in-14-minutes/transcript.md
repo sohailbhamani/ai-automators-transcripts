@@ -10,63 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "artifacts"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tailwind"
-  - "v0"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -102,6 +45,27 @@ summary:
   - "# Google Antigravity: From Beginner to Expert in 14 Minutes
 
 Google Anti-gravity is an incredible AI coding tool, but only if you use it the right way"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "artifacts"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tailwind"
+  - "v0"
+  - "workflows"
 ---
 
 # Google Antigravity: From Beginner to Expert in 14 Minutes

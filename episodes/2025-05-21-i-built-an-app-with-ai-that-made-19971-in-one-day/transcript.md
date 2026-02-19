@@ -10,56 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "make"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -92,6 +42,20 @@ summary:
   - "# I built an app with AI that made $19,971 in one day
 
 So, here is my Stripe dashboard"
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "make"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # I built an app with AI that made $19,971 in one day

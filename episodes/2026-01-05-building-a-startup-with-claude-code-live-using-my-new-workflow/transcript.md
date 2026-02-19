@@ -10,75 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "mongodb"
-  - "opus"
-  - "product-management"
-  - "shortcuts"
-  - "startups"
-  - "tesla"
-  - "twitter"
-  - "whisper"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -126,6 +57,32 @@ summary:
   - "# Building a startup with Claude Code LIVE using my new workflow
 
 Today we are going to be doing something really cool"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "mongodb"
+  - "opus"
+  - "product-management"
+  - "shortcuts"
+  - "startups"
+  - "tesla"
+  - "twitter"
+  - "whisper"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Building a startup with Claude Code LIVE using my new workflow

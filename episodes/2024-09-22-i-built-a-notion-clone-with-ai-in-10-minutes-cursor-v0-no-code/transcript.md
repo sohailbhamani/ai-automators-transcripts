@@ -10,48 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "notion"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "v0"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -79,6 +37,19 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "notion"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "v0"
+  - "x"
 ---
 
 # I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)

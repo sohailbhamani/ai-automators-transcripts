@@ -10,60 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -96,6 +42,24 @@ summary:
   - "# How I made $500,000 with Claude Code (and how you can too)
 
 So, in 2025, I made half a million dollars off Claude Code"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # How I made $500,000 with Claude Code (and how you can too)

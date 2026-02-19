@@ -10,36 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "x"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -63,6 +33,14 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "x"
 ---
 
 # How to Build your first iOS Game in 10 minutes using Cursor AI

@@ -1,7 +1,7 @@
 ---title: "Unknown"
 video_id: "HjQ5ty3_X_0"
 youtube_url: "https://www.youtube.com/watch?v=HjQ5ty3_X_0"
-publish_date: "unknown"
+publish_date: "2026-02-17"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
@@ -9,6 +9,7 @@ author: "Alex Finn"
 
 yt_tags:
   []
+
 
 
 # AI-enriched metadata

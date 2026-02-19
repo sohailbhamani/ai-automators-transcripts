@@ -10,40 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -66,6 +32,18 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 ---
 
 # AI AGENTS ARE HERE! OPENAI RELEASES CHATGPT TASKS! COMPLETE BEGINNER’S GUIDE

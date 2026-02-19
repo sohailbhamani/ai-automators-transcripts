@@ -10,41 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "notion"
-  - "product-management"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
-# AI-enriched metadata
-  - "Engineers"
-
 
 
 # AI-enriched metadata
@@ -72,6 +37,19 @@ summary:
   - "# The craziest AI vibe coding workflow ever #claude #ai #vibecoding #programming
 
 This is the most powerful AI vibe coding workflow I've ever seen in my life"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "notion"
+  - "product-management"
+  - "workflows"
 ---
 
 # The craziest AI vibe coding workflow ever #claude #ai #vibecoding #programming

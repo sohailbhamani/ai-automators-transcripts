@@ -10,59 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "sonnet"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -92,6 +39,18 @@ summary:
   - "# Build A Game With AI In 10 Minutes (no code, Cursor)
 
 I'm going to teach you in under 15 minutes how to build your own video game with AI"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "sonnet"
+  - "tutorials"
 ---
 
 # Build A Game With AI In 10 Minutes (no code, Cursor)

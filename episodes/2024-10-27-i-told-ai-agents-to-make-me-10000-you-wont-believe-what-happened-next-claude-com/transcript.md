@@ -10,58 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -87,6 +35,22 @@ concepts:
   []
 summary:
   []
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 ---
 
 # I Told AI Agents to MAKE ME $10,000. You WON'T believe what happened next... (Claude Computer Use)

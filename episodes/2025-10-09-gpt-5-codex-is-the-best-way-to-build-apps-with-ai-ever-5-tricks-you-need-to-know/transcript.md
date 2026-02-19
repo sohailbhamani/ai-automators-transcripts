@@ -10,57 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "chatgpt"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "gpt-5"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -93,6 +42,21 @@ summary:
   - "# GPT-5 Codex is the best way to build apps with AI ever (5 tricks you need to know)
 
 Everyone is talking about OpenAI's codeex"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "chatgpt"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "gpt-5"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "workflows"
 ---
 
 # GPT-5 Codex is the best way to build apps with AI ever (5 tricks you need to know)

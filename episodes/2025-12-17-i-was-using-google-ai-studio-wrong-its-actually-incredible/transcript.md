@@ -10,53 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -90,6 +43,24 @@ summary:
   - "It’s actually incredible
 
 Google AI Studio is sneaky one of the best AI coding tools out there, but only if you use it the right way"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 ---
 
 # I was using Google AI Studio wrong. It’s actually incredible

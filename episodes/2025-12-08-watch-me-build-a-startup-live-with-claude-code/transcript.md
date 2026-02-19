@@ -10,72 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "adobe"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "bard"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "projects"
-  - "startups"
-  - "tesla"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -123,6 +57,29 @@ summary:
   - "# Watch me build a startup LIVE with Claude Code
 
 test test"
+keywords:
+  - "adobe"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "bard"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "projects"
+  - "startups"
+  - "tesla"
 ---
 
 # Watch me build a startup LIVE with Claude Code

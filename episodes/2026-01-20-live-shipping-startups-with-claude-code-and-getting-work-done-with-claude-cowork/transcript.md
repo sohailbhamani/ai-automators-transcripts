@@ -10,76 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "adobe"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "claude-cowork"
-  - "codex"
-  - "coding"
-  - "cowork"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "n8n"
-  - "openai"
-  - "product-management"
-  - "replit"
-  - "startups"
-  - "whisper"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -127,6 +57,33 @@ summary:
   - "# LIVE shipping startups with Claude Code and getting work done with Claude Cowork
 
 We are live today"
+keywords:
+  - "adobe"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "claude-cowork"
+  - "codex"
+  - "coding"
+  - "cowork"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "n8n"
+  - "openai"
+  - "product-management"
+  - "replit"
+  - "startups"
+  - "whisper"
+  - "workflows"
 ---
 
 # LIVE shipping startups with Claude Code and getting work done with Claude Cowork

@@ -10,54 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "apple"
-  - "bolt"
-  - "box"
-  - "career"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "deep-dives"
-  - "google"
-  - "langchain"
-  - "make"
-  - "openai"
-  - "openai-api"
-  - "tutorials"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -93,6 +45,25 @@ summary:
   - "# AI Agents clearly explained (and why it matters)
 
 AI agents are going to change the world in 2025"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "apple"
+  - "bolt"
+  - "box"
+  - "career"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "deep-dives"
+  - "google"
+  - "langchain"
+  - "make"
+  - "openai"
+  - "openai-api"
+  - "tutorials"
+  - "youtube"
 ---
 
 # AI Agents clearly explained (and why it matters)

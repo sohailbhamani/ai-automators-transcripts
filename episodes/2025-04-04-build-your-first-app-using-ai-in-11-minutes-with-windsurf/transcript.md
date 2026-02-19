@@ -10,55 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "notion"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -89,6 +40,19 @@ summary:
   - "# Build your first App Using AI in 11 Minutes With Windsurf
 
 In this video, I'm going to show you how to use Windsurf AI to build your very first application, even if you've never programmed a line of"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "notion"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
 ---
 
 # Build your first App Using AI in 11 Minutes With Windsurf

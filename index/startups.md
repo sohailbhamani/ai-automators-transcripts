@@ -1,6 +1,6 @@
 # Startups
 
-Episodes discussing **Startups** (34 episodes):
+Episodes discussing **Startups** (35 episodes):
 
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: Using ClawdBot to ship a FULL startup](../episodes/2026-02-02-live-using-clawdbot-to-ship-a-full-startup/transcript.md) (2026-02-02)
@@ -36,3 +36,4 @@ Episodes discussing **Startups** (34 episodes):
 - [I used these 8 AI tools to launch a $300,000 App](../episodes/2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app/transcript.md) (2025-05-12)
 - [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
 - [NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide](../episodes/2024-12-06-new-chatgpt-model-is-a-game-changer-full-o1-demo-and-beginners-guide/transcript.md) (2024-12-06)
+- [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)

@@ -10,75 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "gemini"
-  - "github"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "n8n"
-  - "notion"
-  - "openai"
-  - "openai-api"
-  - "shopify"
-  - "sora"
-  - "startups"
-  - "stripe"
-  - "tesla"
-  - "tutorials"
-  - "whisper"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -131,6 +62,32 @@ summary:
   - "TESTING AND BENCHMARKING LIVE
 
 Today we are going to build an amazing startup with Claude Code and Codeex"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "gemini"
+  - "github"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "n8n"
+  - "notion"
+  - "openai"
+  - "openai-api"
+  - "shopify"
+  - "sora"
+  - "startups"
+  - "stripe"
+  - "tesla"
+  - "tutorials"
+  - "whisper"
 ---
 
 # GROK 4.1 JUST DROPPED! TESTING AND BENCHMARKING LIVE

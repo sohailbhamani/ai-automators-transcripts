@@ -1,6 +1,6 @@
 # Meta
 
-Episodes discussing **Meta** (31 episodes):
+Episodes discussing **Meta** (33 episodes):
 
 - [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
@@ -33,3 +33,5 @@ Episodes discussing **Meta** (31 episodes):
 - [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
 - [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
 - [I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)](../episodes/2024-09-25-i-built-a-todoist-clone-with-ai-in-10-minutes-cursor-v0-chatgpt-api/transcript.md) (2024-09-25)
+- [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
+- [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)

@@ -1,6 +1,6 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (19 episodes):
+Episodes discussing **News Roundup** (20 episodes):
 
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [5 insane ClawdBot uses cases you need to do immediately](../episodes/2026-01-28-5-insane-clawdbot-uses-cases-you-need-to-do-immediately/transcript.md) (2026-01-28)
@@ -21,3 +21,4 @@ Episodes discussing **News Roundup** (19 episodes):
 - [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
 - [Why You NEED a Newsletter #shorts](../episodes/2024-09-13-why-you-need-a-newsletter-shorts/transcript.md) (2024-09-13)
+- [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)

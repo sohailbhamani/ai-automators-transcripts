@@ -10,59 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "box"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
-  - "v0"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -96,6 +43,23 @@ summary:
   - "# The EASIEST way to build apps with AI EVER (Google Firebase Studio)
 
 Google just released the easiest way to build apps without needing to write a single line of code ever"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "box"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
+  - "v0"
 ---
 
 # The EASIEST way to build apps with AI EVER (Google Firebase Studio)

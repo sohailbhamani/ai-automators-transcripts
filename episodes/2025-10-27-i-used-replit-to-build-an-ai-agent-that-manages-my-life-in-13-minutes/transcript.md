@@ -10,58 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "notion"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "replit"
-  - "tesla"
-  - "workflows"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
 
 
 # AI-enriched metadata
@@ -92,6 +40,22 @@ summary:
   - "# I used Replit to build an AI agent that manages my life in 13 minutes
 
 Replet might be the best AI agent builder in the entire game right now"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "notion"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "replit"
+  - "tesla"
+  - "workflows"
 ---
 
 # I used Replit to build an AI agent that manages my life in 13 minutes

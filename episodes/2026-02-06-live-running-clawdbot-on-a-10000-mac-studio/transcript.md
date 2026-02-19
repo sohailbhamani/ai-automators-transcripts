@@ -10,30 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "General"
-
-keywords:
-  - "tutorials"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
-# AI-enriched metadata
-  - "General"
-
 
 
 # AI-enriched metadata
@@ -57,6 +33,8 @@ summary:
   - "# LIVE: Running ClawdBot on a $10,000 Mac Studio
 
 Hello, this is a test transcription to demonstrate the JSON output format"
+keywords:
+  - "tutorials"
 ---
 
 # LIVE: Running ClawdBot on a $10,000 Mac Studio

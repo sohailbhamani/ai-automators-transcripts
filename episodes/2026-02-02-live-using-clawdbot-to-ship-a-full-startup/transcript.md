@@ -10,71 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "atlas"
-  - "box"
-  - "chatgpt"
-  - "chroma"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "make"
-  - "netflix"
-  - "openai"
-  - "opus"
-  - "sonnet"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-  - "x"
-  - "youtube"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -116,6 +51,28 @@ summary:
   - "# LIVE: Using ClawdBot to ship a FULL startup
 
 Today we are going to do some amazing things"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "atlas"
+  - "box"
+  - "chatgpt"
+  - "chroma"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "make"
+  - "netflix"
+  - "openai"
+  - "opus"
+  - "sonnet"
+  - "startups"
+  - "tutorials"
+  - "twitter"
+  - "x"
+  - "youtube"
 ---
 
 # LIVE: Using ClawdBot to ship a FULL startup

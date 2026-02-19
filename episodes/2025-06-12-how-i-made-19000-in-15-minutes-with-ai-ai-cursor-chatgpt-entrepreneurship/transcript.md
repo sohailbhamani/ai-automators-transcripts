@@ -10,54 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "openai"
-  - "startups"
-  - "tutorials"
-  - "twitter"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Founders"
-
 
 
 # AI-enriched metadata
@@ -86,6 +38,18 @@ summary:
   - "# How I made $19,000 in 15 minutes with AI #ai #cursor #chatgpt #entrepreneurship
 
 Here's how I made $19,000 in 15 minutes with AI"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "openai"
+  - "startups"
+  - "tutorials"
+  - "twitter"
 ---
 
 # How I made $19,000 in 15 minutes with AI #ai #cursor #chatgpt #entrepreneurship
