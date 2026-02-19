@@ -1,10 +1,230 @@
 {
-  "total_videos": 200,
+  "total_videos": 204,
   "date_range": {
-    "newest": "2024-09-25",
+    "newest": "unknown",
     "oldest": null
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "_kZCoW-Qxnc",
+      "youtube_url": "https://www.youtube.com/watch?v=_kZCoW-Qxnc",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThis is the video you've been waiting for"
+      ],
+      "transcript_chars": 40828,
+      "folder": "unknown-_kzcow-qxnc"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "CIgDfVSDmMU",
+      "youtube_url": "https://www.youtube.com/watch?v=CIgDfVSDmMU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Palantir",
+          "Box"
+        ],
+        "people": [
+          "Sam Altman",
+          "Greg Brockman",
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Codex",
+          "LM Studio",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Opus 4.5",
+          "Gemini",
+          "Mistral",
+          "PaLM",
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "This is the single biggest AI story of the year, period"
+      ],
+      "transcript_chars": 98768,
+      "folder": "unknown-cigdfvsdmmu"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "HjQ5ty3_X_0",
+      "youtube_url": "https://www.youtube.com/watch?v=HjQ5ty3_X_0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Apple",
+          "LinkedIn",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude Sonnet",
+          "Sonnet 4"
+        ]
+      },
+      "concepts": [
+        "You're going to get way more usage out of openclaw and claude code for a fraction of the price",
+        "It is just as good as a brain for tools like openclaw and clawed code"
+      ],
+      "summary": [
+        "6 and is faster, cheaper, and just as good as Opus at most agentic tasks"
+      ],
+      "transcript_chars": 14176,
+      "folder": "unknown-hjq5ty3_x_0"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "OEOiERQKKEQ",
+      "youtube_url": "https://www.youtube.com/watch?v=OEOiERQKKEQ",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Box",
+          "X",
+          "YouTube",
+          "Uber",
+          "AMD"
+        ],
+        "people": [
+          "Sam Altman",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Codex",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": [
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 3",
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "You can no longer use your Anthropic accounts with OpenClaw"
+      ],
+      "transcript_chars": 52354,
+      "folder": "unknown-oeoierqkkeq"
+    },
     {
       "itle": "I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)",
       "video_id": "if-a73onujI",
@@ -41,6 +261,8 @@
         "v0",
         "x",
         "youtube",
+        "Engineers",
+        "Product Managers",
         "Engineers",
         "Product Managers",
         "Engineers",
@@ -102,6 +324,7 @@
       "keywords": [
         "ai-tools",
         "youtube",
+        "General",
         "General",
         "General",
         "General",
