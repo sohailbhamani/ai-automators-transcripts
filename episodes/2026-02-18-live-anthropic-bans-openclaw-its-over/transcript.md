@@ -10,38 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amd"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "projects"
-  - "sonnet"
-  - "uber"
-  - "workflows"
-  - "x"
-  - "youtube"
-
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -85,6 +53,32 @@ concepts:
   []
 summary:
   - "You can no longer use your Anthropic accounts with OpenClaw"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amd"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "projects"
+  - "sonnet"
+  - "uber"
+  - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # Unknown

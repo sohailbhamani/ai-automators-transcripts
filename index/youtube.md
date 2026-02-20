@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (83 episodes):
+Episodes discussing **Youtube** (84 episodes):
 
+- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)

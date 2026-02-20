@@ -10,28 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "computer-use"
-  - "frameworks"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "opus"
-  - "sonnet"
-  - "tutorials"
-  - "x"
-
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -63,6 +41,24 @@ concepts:
   - "It is just as good as a brain for tools like openclaw and clawed code"
 summary:
   - "6 and is faster, cheaper, and just as good as Opus at most agentic tasks"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "computer-use"
+  - "frameworks"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "opus"
+  - "sonnet"
+  - "tutorials"
+  - "x"
 ---
 
 # Unknown

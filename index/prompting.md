@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (98 episodes):
+Episodes discussing **Prompting** (99 episodes):
 
+- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
 - [Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)](../episodes/2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide/transcript.md) (2026-02-05)
 - [How to make ClawdBot 10x better (5 easy steps)](../episodes/2026-01-31-how-to-make-clawdbot-10x-better-5-easy-steps/transcript.md) (2026-01-31)

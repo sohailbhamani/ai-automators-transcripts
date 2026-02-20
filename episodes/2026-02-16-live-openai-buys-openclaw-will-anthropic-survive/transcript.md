@@ -10,38 +10,6 @@ author: "Alex Finn"
 yt_tags:
   []
 
-# AI-enriched metadata
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
-  - "Founders"
-
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "computer-use"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "lm-studio"
-  - "make"
-  - "microsoft"
-  - "nano-banana"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "palantir"
-  - "product-management"
-  - "tesla"
-
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -91,6 +59,31 @@ concepts:
   []
 summary:
   - "This is the single biggest AI story of the year, period"
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "computer-use"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "lm-studio"
+  - "make"
+  - "microsoft"
+  - "nano-banana"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "palantir"
+  - "product-management"
+  - "tesla"
 ---
 
 # Unknown
