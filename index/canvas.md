@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (7 episodes):
+Episodes discussing **Canvas** (8 episodes):
 
+- [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
 - [ChatGPT 5.2 is INCREDIBLE. Here’s how to use it in 14 minutes](../episodes/2025-12-12-chatgpt-52-is-incredible-heres-how-to-use-it-in-14-minutes/transcript.md) (2025-12-12)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER](../episodes/2025-11-26-claude-code-for-desktop-is-the-best-way-to-build-apps-with-ai-ever/transcript.md) (2025-11-26)
 - [ChatGPT-5 vs Claude Code: best AI coding tool ever?](../episodes/2025-08-09-chatgpt-5-vs-claude-code-best-ai-coding-tool-ever/transcript.md) (2025-08-09)

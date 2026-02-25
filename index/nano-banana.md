@@ -1,7 +1,8 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (12 episodes):
+Episodes discussing **Nano Banana** (13 episodes):
 
+- [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
 - [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)

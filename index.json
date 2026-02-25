@@ -1,5 +1,5 @@
 {
-  "total_videos": 207,
+  "total_videos": 208,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -67,6 +67,57 @@
       ],
       "transcript_chars": 644,
       "folder": "unknown-p4jryx4ek0c"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "vxpuLIA17q4",
+      "youtube_url": "https://www.youtube.com/watch?v=vxpuLIA17q4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Artifacts",
+          "Projects",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nWhat I'm about to show you is how I have an army of AI agents working for me in Discord 24 hours a day, seven days a week, all autonomously running my business and making me money"
+      ],
+      "transcript_chars": 39008,
+      "folder": "unknown-vxpulia17q4"
     },
     {
       "title": "Unknown",
