@@ -1,5 +1,5 @@
 {
-  "total_videos": 208,
+  "total_videos": 209,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -38,6 +38,35 @@
       ],
       "transcript_chars": 12567,
       "folder": "unknown-aj6hoc9jali"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "bi4aavMOoGM",
+      "youtube_url": "https://www.youtube.com/watch?v=bi4aavMOoGM",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nHello, my name is Ian and I'm a researcher at the Georgia Tech Research Institute here in Atlanta"
+      ],
+      "transcript_chars": 1062,
+      "folder": "unknown-bi4aavmoogm"
     },
     {
       "title": "Unknown",

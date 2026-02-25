@@ -1,19 +1,19 @@
 # Alex Finn Podcast Index
 
-Index of 208 episodes across 100 topics.
+Index of 209 episodes across 100 topics.
 
 ## Topics
 
 - [Make](make.md) (189 episodes)
-- [Ai Tools](ai-tools.md) (182 episodes)
+- [Ai Tools](ai-tools.md) (183 episodes)
 - [Coding](coding.md) (173 episodes)
-- [Tutorial](tutorial.md) (166 episodes)
+- [Tutorial](tutorial.md) (167 episodes)
 - [Tutorials](tutorials.md) (145 episodes)
 - [Claude](claude.md) (143 episodes)
 - [Ai News](ai-news.md) (137 episodes)
 - [Cursor](cursor.md) (132 episodes)
 - [Anthropic](anthropic.md) (131 episodes)
-- [Frameworks](frameworks.md) (114 episodes)
+- [Frameworks](frameworks.md) (115 episodes)
 - [Claude Code](claude-code.md) (112 episodes)
 - [Product Management](product-management.md) (105 episodes)
 - [Google](google.md) (104 episodes)
@@ -26,7 +26,7 @@ Index of 208 episodes across 100 topics.
 - [Apple](apple.md) (74 episodes)
 - [Gemini](gemini.md) (72 episodes)
 - [Github](github.md) (71 episodes)
-- [Ai Strategy](ai-strategy.md) (68 episodes)
+- [Ai Strategy](ai-strategy.md) (69 episodes)
 - [Twitter](twitter.md) (67 episodes)
 - [Workflows](workflows.md) (66 episodes)
 - [Sonnet](sonnet.md) (62 episodes)
@@ -78,8 +78,8 @@ Index of 208 episodes across 100 topics.
 - [Github Copilot](github-copilot.md) (4 episodes)
 - [N8N](n8n.md) (4 episodes)
 - [O1](o1.md) (3 episodes)
-- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [Cowork](cowork.md) (3 episodes)
+- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [O3](o3.md) (2 episodes)
 - [Langchain](langchain.md) (2 episodes)
 - [Uber](uber.md) (2 episodes)
