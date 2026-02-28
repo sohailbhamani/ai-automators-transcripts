@@ -1,10 +1,39 @@
 {
-  "total_videos": 210,
+  "total_videos": 211,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "5zbsR03aGAE",
+      "youtube_url": "https://www.youtube.com/watch?v=5zbsR03aGAE",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nHello, this is a test of the video transcription system"
+      ],
+      "transcript_chars": 109,
+      "folder": "unknown-5zbsr03agae"
+    },
     {
       "title": "Unknown",
       "video_id": "Aj6hoC9JaLI",

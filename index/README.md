@@ -1,6 +1,6 @@
 # Alex Finn Podcast Index
 
-Index of 210 episodes across 100 topics.
+Index of 211 episodes across 100 topics.
 
 ## Topics
 
@@ -13,7 +13,7 @@ Index of 210 episodes across 100 topics.
 - [Ai News](ai-news.md) (138 episodes)
 - [Anthropic](anthropic.md) (132 episodes)
 - [Cursor](cursor.md) (132 episodes)
-- [Frameworks](frameworks.md) (115 episodes)
+- [Frameworks](frameworks.md) (116 episodes)
 - [Claude Code](claude-code.md) (113 episodes)
 - [Product Management](product-management.md) (106 episodes)
 - [Google](google.md) (104 episodes)
@@ -26,7 +26,7 @@ Index of 210 episodes across 100 topics.
 - [Apple](apple.md) (74 episodes)
 - [Github](github.md) (72 episodes)
 - [Gemini](gemini.md) (72 episodes)
-- [Ai Strategy](ai-strategy.md) (69 episodes)
+- [Ai Strategy](ai-strategy.md) (70 episodes)
 - [Workflows](workflows.md) (67 episodes)
 - [Twitter](twitter.md) (67 episodes)
 - [Sonnet](sonnet.md) (62 episodes)
@@ -56,9 +56,9 @@ Index of 210 episodes across 100 topics.
 - [Openai Api](openai-api.md) (11 episodes)
 - [Copilot](copilot.md) (11 episodes)
 - [Deep Dive](deep-dive.md) (9 episodes)
+- [Framework](framework.md) (9 episodes)
 - [V0](v0.md) (9 episodes)
 - [Haiku](haiku.md) (9 episodes)
-- [Framework](framework.md) (8 episodes)
 - [Computer Use](computer-use.md) (8 episodes)
 - [Canvas](canvas.md) (8 episodes)
 - [Lovable](lovable.md) (8 episodes)
@@ -78,8 +78,8 @@ Index of 210 episodes across 100 topics.
 - [Github Copilot](github-copilot.md) (4 episodes)
 - [N8N](n8n.md) (4 episodes)
 - [O1](o1.md) (3 episodes)
-- [Cowork](cowork.md) (3 episodes)
 - [Claude Cowork](claude-cowork.md) (3 episodes)
+- [Cowork](cowork.md) (3 episodes)
 - [O3](o3.md) (2 episodes)
 - [Langchain](langchain.md) (2 episodes)
 - [Uber](uber.md) (2 episodes)
