@@ -214,16 +214,6 @@
   ],
   "failed": [
     {
-      "id": "DWKPszM-bXk",
-      "reason": "No transcript content returned",
-      "time": "2026-02-13T09:10:23.369427"
-    },
-    {
-      "id": "DWKPszM-bXk",
-      "reason": "No transcript content returned",
-      "time": "2026-02-13T09:10:57.818219"
-    },
-    {
       "id": "d6TEqre0ueU",
       "reason": "RATE_LIMITED: Too many requests",
       "time": "2026-02-13T09:20:16.635193"
@@ -272,12 +262,11 @@
       "id": "HjQ5ty3_X_0",
       "reason": "SUPADATA_API_KEY environment variable not set",
       "time": "2026-02-18T18:37:23.466728"
-    },
-    {
-      "id": "5zbsR03aGAE",
-      "reason": "No transcript content returned",
-      "time": "2026-02-27T18:26:45.781649"
     }
   ],
-  "last_run": "2026-02-28T18:17:39.490426"
+  "last_run": "2026-02-28T18:17:39.490426",
+  "no_transcript": [
+    "5zbsR03aGAE",
+    "DWKPszM-bXk"
+  ]
 }
