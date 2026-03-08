@@ -1,8 +1,11 @@
 # N8N
 
-Episodes discussing **N8N** (4 episodes):
+Episodes discussing **N8N** (7 episodes):
 
-- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
-- [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)
-- [GROK 4.1 JUST DROPPED! TESTING AND BENCHMARKING LIVE](../episodes/2025-11-17-grok-41-just-dropped-testing-and-benchmarking-live/transcript.md) (2025-11-17)
-- [Watch me build a startup live with Claude Code](../episodes/2025-11-05-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-11-05)
+- [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
+- [Unlock DEEP AGENTS with an Agent Harness in n8n](../episodes/2026-01-06-unlock-deep-agents-with-an-agent-harness-in-n8n/transcript.md) (2026-01-06)
+- [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
+- [Build Database Agents That Get Smarter With Every Query (n8n)](../episodes/2025-12-08-build-database-agents-that-get-smarter-with-every-query-n8n/transcript.md) (2025-12-08)
+- [Build Database Agents That Get Smarter With Every Query (n8n)](../episodes/2025-12-04-build-database-agents-that-get-smarter-with-every-query-n8n/transcript.md) (2025-12-04)
+- [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
+- [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)

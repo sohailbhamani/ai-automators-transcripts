@@ -1,10 +1,46 @@
 {
-  "total_videos": 16,
+  "total_videos": 17,
   "date_range": {
-    "newest": "2026-03-02",
+    "newest": "unknown",
     "oldest": "2025-11-13"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "RhLpV6QDBFE",
+      "youtube_url": "https://www.youtube.com/watch?v=RhLpV6QDBFE",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nI'm about to show you how to give your open claw superpowers"
+      ],
+      "transcript_chars": 18941,
+      "folder": "unknown-rhlpv6qdbfe"
+    },
     {
       "title": "Are Agent Skills the New RAG?",
       "video_id": "4Tp6nPZa5is",
@@ -15,19 +51,39 @@
       "view_count": 7258,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "Anthropic",
+          "Slack",
+          "GitHub",
+          "X",
+          "Figma"
+        ],
         "people": [],
-        "products": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Artifacts",
+          "Projects"
+        ],
         "models": []
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "Even in fully local setups"
+      ],
+      "summary": [
+        "Agent skills have exploded in popularity in an incredibly short period of time"
+      ],
       "transcript_chars": 21850,
       "folder": "2026-03-02-are-agent-skills-the-new-rag"
     },
@@ -41,19 +97,47 @@
       "view_count": 3233,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Nvidia",
+          "Box",
+          "Hugging Face",
+          "LangChain"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Claude",
+          "Claude Code",
+          "LangChain",
+          "Hugging Face",
+          "LM Studio",
+          "Jan",
+          "Make",
+          "MCP",
+          "Opus",
+          "Haiku"
+        ],
+        "models": [
+          "Claude Haiku"
+        ]
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# I Built an AI Agent That Doesn't Leak Sensitive Data\nWhat if you could use the most powerful cloud-based AI models with your private company documents and not have a single piece of sensitive infor",
+        "You retain a mapping of these keys and values"
+      ],
       "transcript_chars": 77287,
       "folder": "2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data"
     },
@@ -67,19 +151,38 @@
       "view_count": 4484,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "OpenAI",
+          "Google",
+          "GitHub",
+          "Cursor"
+        ],
         "people": [],
-        "products": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
         "models": []
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "I want to commit this code to git"
+      ],
+      "summary": [
+        "Everyone's talking about agentic workflows at the moment where you can use tools like clawed code or anti-gravity to automate research, lead genen, document creation, and much more with nothing more t"
+      ],
       "transcript_chars": 28014,
       "folder": "2026-02-11-are-agentic-workflows-actually-a-game-changer"
     },
@@ -93,19 +196,48 @@
       "view_count": 10761,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Notion",
+          "GitHub",
+          "Cursor",
+          "Tailwind"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Whisper",
+          "Make",
+          "MCP",
+          "Opus",
+          "Haiku",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude Haiku",
+          "Opus 4.5",
+          "Whisper"
+        ]
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "Within the ai agent, it has the ability to traverse the knowledge base"
+      ],
+      "summary": [
+        "# Search Is Not Enough \u2014 Build AI Agents That Explore\nIf you've ever used clawed code to build an app, you've probably noticed that it doesn't just search your codebase"
+      ],
       "transcript_chars": 69794,
       "folder": "2026-02-08-search-is-not-enough-build-ai-agents-that-explore"
     },
@@ -119,19 +251,53 @@
       "view_count": 31959,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "OpenAI",
+          "Google",
+          "GitHub",
+          "Box",
+          "Mistral",
+          "Cursor",
+          "X",
+          "YouTube",
+          "Tailwind"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "LM Studio",
+          "Make",
+          "MCP",
+          "OpenAI API",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Opus 4.5",
+          "Gemini",
+          "Llama",
+          "Mistral"
+        ]
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "Different philosophies with ai assisted coding at the moment"
+      ],
+      "summary": [
+        "# The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack\nWelcome to our claude code agentic rag masterclass"
+      ],
       "transcript_chars": 141241,
       "folder": "2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack"
     },
@@ -145,19 +311,29 @@
       "view_count": 3873,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "Mistral"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini",
+          "Mistral"
+        ]
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# The Problem With Vision Language Models\nIf you're using vision language models for document extraction, there's something you need to know"
+      ],
       "transcript_chars": 1191,
       "folder": "2026-01-22-the-problem-with-vision-language-models"
     },
@@ -171,10 +347,12 @@
       "view_count": 6237,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
       "entities": {
         "companies": [],
         "people": [],
@@ -182,8 +360,9 @@
         "models": []
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# DEPLOY Fully Private + Local AI RAG Agents\nWhen you upload documents to an AI service, you're placing a lot of trust in that company"
+      ],
       "transcript_chars": 760,
       "folder": "2026-01-20-deploy-fully-private-local-ai-rag-agents"
     },
@@ -197,19 +376,29 @@
       "view_count": 4691,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
         "companies": [],
         "people": [],
-        "products": [],
+        "products": [
+          "Claude",
+          "Make",
+          "n8n",
+          "Canvas"
+        ],
         "models": []
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "The problem is that basic agents can't follow where they are in a business workflow"
+      ],
       "transcript_chars": 42476,
       "folder": "2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n"
     },
@@ -223,19 +412,26 @@
       "view_count": 8019,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "General"
+      ],
       "entities": {
         "companies": [],
         "people": [],
-        "products": [],
+        "products": [
+          "Make",
+          "n8n",
+          "Projects"
+        ],
         "models": []
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# Unlock DEEP AGENTS with an Agent Harness in n8n\nAn agent harness is a control layer or scaffolding for your AI agent"
+      ],
       "transcript_chars": 725,
       "folder": "2026-01-06-unlock-deep-agents-with-an-agent-harness-in-n8n"
     },
@@ -249,19 +445,50 @@
       "view_count": 61464,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "OpenAI",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Mistral",
+          "Cursor",
+          "X",
+          "IBM",
+          "AMD"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Make",
+          "n8n",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus",
+          "Opus 4.5",
+          "Gemini",
+          "Llama",
+          "Llama 3",
+          "Llama 3.2",
+          "Mistral"
+        ]
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# DEPLOY Fully Private + Local AI RAG Agents (Step by Step)\nWhen you upload documents to an AI service, you're placing a lot of trust in that company"
+      ],
       "transcript_chars": 56003,
       "folder": "2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step"
     },
@@ -275,19 +502,24 @@
       "view_count": 11314,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
       "entities": {
         "companies": [],
         "people": [],
-        "products": [],
+        "products": [
+          "n8n"
+        ],
         "models": []
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# Build Database Agents That Get Smarter With Every Query (n8n)\nHere's how to build database agents that get smarter over time"
+      ],
       "transcript_chars": 729,
       "folder": "2025-12-08-build-database-agents-that-get-smarter-with-every-query-n8n"
     },
@@ -301,19 +533,31 @@
       "view_count": 11162,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
         "companies": [],
         "people": [],
-        "products": [],
+        "products": [
+          "Make",
+          "n8n",
+          "MCP",
+          "Canvas"
+        ],
         "models": []
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "For step four here in the construct the query section we&amp;#39;re saying if the question cannot be answered from the database or if a query returns no rows reply with sorry i don&amp;#39;t know"
+      ],
+      "summary": [
+        "# Build Database Agents That Get Smarter With Every Query (n8n)\nIf you want your AI agents to be able to answer questions based on structured data such as spreadsheets or databases, then vector store"
+      ],
       "transcript_chars": 27754,
       "folder": "2025-12-04-build-database-agents-that-get-smarter-with-every-query-n8n"
     },
@@ -327,19 +571,37 @@
       "view_count": 12500,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "Slack",
+          "Mistral",
+          "IBM"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Make",
+          "n8n",
+          "MCP",
+          "Projects",
+          "Canvas"
+        ],
+        "models": [
+          "Llama",
+          "Mistral"
+        ]
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)\nThere's a myth in the AI world that vector search is the silver bullet to ground your AI agents in your private company knowledge"
+      ],
       "transcript_chars": 29370,
       "folder": "2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n"
     },
@@ -353,19 +615,28 @@
       "view_count": 5691,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "Google"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "A lot of people are saying Gemini File Search is a gamecher that's going to kill Rag"
+      ],
       "transcript_chars": 2100,
       "folder": "2025-11-24-is-gemini-file-search-actually-a-game-changer"
     },
@@ -379,10 +650,13 @@
       "view_count": 6835,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
         "companies": [],
         "people": [],
@@ -390,8 +664,9 @@
         "models": []
       },
       "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "summary": [
+        "# 9 Essential RAG Design Patterns You NEED to Know\nHere are the nine rag patterns you need to know if you're serious about building AI systems"
+      ],
       "transcript_chars": 1717,
       "folder": "2025-11-20-9-essential-rag-design-patterns-you-need-to-know"
     },
@@ -405,19 +680,38 @@
       "view_count": 23927,
       "author": "The AI Automators",
       "yt_tags": [],
-      "content_type": null,
-      "primary_topic": null,
-      "audience": [],
-      "difficulty": null,
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
       "entities": {
-        "companies": [],
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Box",
+          "AWS",
+          "Azure"
+        ],
         "people": [],
-        "products": [],
-        "models": []
+        "products": [
+          "Gemini",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Gemini"
+        ]
       },
-      "concepts": [],
-      "chapters": [],
-      "summary": [],
+      "concepts": [
+        "A generated hash of the file which is like a unique fingerprint of the file and the document id"
+      ],
+      "summary": [
+        "A lot of people are calling Gemini File Search a gamecher that's going to kill Rag"
+      ],
       "transcript_chars": 22864,
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
     }

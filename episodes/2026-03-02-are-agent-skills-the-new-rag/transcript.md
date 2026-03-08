@@ -11,35 +11,62 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "Career"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Slack"
+    - "GitHub"
+    - "X"
+    - "Figma"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Make"
+    - "MCP"
+    - "Artifacts"
+    - "Projects"
+  models:
+    []
+concepts:
+  - "Even in fully local setups"
+summary:
+  - "Agent skills have exploded in popularity in an incredibly short period of time"
 keywords:
   - "ai-agents"
   - "ai-tools"
   - "anthropic"
+  - "artifacts"
   - "career"
+  - "claude"
   - "coding"
   - "deep-dives"
+  - "figma"
   - "frameworks"
+  - "github"
   - "leadership"
+  - "make"
+  - "mcp"
   - "meta"
   - "microsoft"
   - "product-management"
+  - "projects"
   - "prompting"
+  - "slack"
   - "startups"
   - "tutorials"
   - "workflows"
+  - "x"
 ---
 
 # Are Agent Skills the New RAG?

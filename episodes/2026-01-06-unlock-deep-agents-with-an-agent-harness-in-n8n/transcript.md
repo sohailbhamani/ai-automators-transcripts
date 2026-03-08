@@ -11,23 +11,37 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "General"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Make"
+    - "n8n"
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Unlock DEEP AGENTS with an Agent Harness in n8n
+
+An agent harness is a control layer or scaffolding for your AI agent"
 keywords:
   - "ai-agents"
   - "deep-dives"
   - "frameworks"
+  - "make"
+  - "n8n"
+  - "projects"
   - "tutorials"
 ---
 

@@ -11,28 +11,73 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Apple"
+    - "Nvidia"
+    - "GitHub"
+    - "Mistral"
+    - "Cursor"
+    - "X"
+    - "IBM"
+    - "AMD"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Gemini"
+    - "Cursor"
+    - "Make"
+    - "n8n"
+    - "Opus"
+    - "Projects"
+  models:
+    - "Claude Opus"
+    - "Opus 4.5"
+    - "Gemini"
+    - "Llama"
+    - "Llama 3"
+    - "Llama 3.2"
+    - "Mistral"
+concepts:
+  []
+summary:
+  - "# DEPLOY Fully Private + Local AI RAG Agents (Step by Step)
+
+When you upload documents to an AI service, you're placing a lot of trust in that company"
 keywords:
   - "ai-agents"
   - "ai-tools"
+  - "amd"
   - "anthropic"
+  - "apple"
+  - "claude"
+  - "cursor"
   - "frameworks"
+  - "gemini"
+  - "github"
   - "google"
+  - "ibm"
+  - "make"
+  - "mistral"
+  - "n8n"
+  - "nvidia"
   - "openai"
+  - "opus"
+  - "projects"
   - "tutorials"
   - "workflows"
+  - "x"
 ---
 
 # DEPLOY Fully Private + Local AI RAG Agents (Step by Step)

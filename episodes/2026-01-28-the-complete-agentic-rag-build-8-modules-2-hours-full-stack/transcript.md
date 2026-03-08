@@ -11,33 +11,83 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Google"
+    - "GitHub"
+    - "Box"
+    - "Mistral"
+    - "Cursor"
+    - "X"
+    - "YouTube"
+    - "Tailwind"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Gemini"
+    - "Cursor"
+    - "LM Studio"
+    - "Make"
+    - "MCP"
+    - "OpenAI API"
+    - "Opus"
+    - "Projects"
+  models:
+    - "Opus 4.5"
+    - "Gemini"
+    - "Llama"
+    - "Mistral"
+concepts:
+  - "Different philosophies with ai assisted coding at the moment"
+summary:
+  - "# The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack
+
+Welcome to our claude code agentic rag masterclass"
 keywords:
   - "ai-agents"
   - "ai-strategy"
   - "ai-tools"
   - "anthropic"
+  - "box"
   - "career"
+  - "claude"
+  - "claude-code"
   - "coding"
+  - "cursor"
   - "deep-dives"
   - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
   - "leadership"
+  - "lm-studio"
+  - "make"
+  - "mcp"
+  - "mistral"
+  - "openai"
+  - "openai-api"
+  - "opus"
   - "product-management"
+  - "projects"
   - "prompting"
+  - "tailwind"
   - "tutorials"
   - "workflows"
+  - "x"
+  - "youtube"
 ---
 
 # The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack

@@ -11,23 +11,39 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Claude"
+    - "Make"
+    - "n8n"
+    - "Canvas"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "The problem is that basic agents can't follow where they are in a business workflow"
 keywords:
   - "ai-agents"
   - "ai-tools"
+  - "canvas"
+  - "claude"
   - "frameworks"
+  - "make"
+  - "n8n"
   - "product-management"
   - "tutorials"
   - "workflows"

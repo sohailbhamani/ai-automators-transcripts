@@ -11,28 +11,69 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Google"
+    - "Microsoft"
+    - "Notion"
+    - "GitHub"
+    - "Cursor"
+    - "Tailwind"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Cursor"
+    - "Whisper"
+    - "Make"
+    - "MCP"
+    - "Opus"
+    - "Haiku"
+    - "Artifacts"
+  models:
+    - "Claude Haiku"
+    - "Opus 4.5"
+    - "Whisper"
+concepts:
+  - "Within the ai agent, it has the ability to traverse the knowledge base"
+summary:
+  - "# Search Is Not Enough — Build AI Agents That Explore
+
+If you've ever used clawed code to build an app, you've probably noticed that it doesn't just search your codebase"
 keywords:
   - "ai-agents"
   - "ai-strategy"
   - "ai-tools"
   - "anthropic"
+  - "artifacts"
+  - "claude"
+  - "claude-code"
   - "coding"
+  - "cursor"
   - "frameworks"
+  - "github"
+  - "google"
+  - "haiku"
   - "leadership"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "notion"
+  - "opus"
+  - "tailwind"
   - "tutorials"
+  - "whisper"
 ---
 
 # Search Is Not Enough — Build AI Agents That Explore

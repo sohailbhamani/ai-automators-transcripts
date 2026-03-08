@@ -11,19 +11,36 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Google"
+    - "GitHub"
+    - "Cursor"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Cursor"
+    - "Make"
+    - "MCP"
+    - "Projects"
+  models:
+    []
+concepts:
+  - "I want to commit this code to git"
+summary:
+  - "Everyone's talking about agentic workflows at the moment where you can use tools like clawed code or anti-gravity to automate research, lead genen, document creation, and much more with nothing more t"
 keywords:
   - "ai-agents"
   - "ai-news"
@@ -31,9 +48,17 @@ keywords:
   - "ai-tools"
   - "anthropic"
   - "career"
+  - "claude"
+  - "claude-code"
   - "coding"
+  - "cursor"
   - "frameworks"
+  - "github"
   - "google"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "projects"
   - "prompting"
   - "workflows"
 ---

@@ -11,19 +11,29 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Deep Dive"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    []
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# 9 Essential RAG Design Patterns You NEED to Know
+
+Here are the nine rag patterns you need to know if you're serious about building AI systems"
 keywords:
   - "ai-agents"
   - "career"

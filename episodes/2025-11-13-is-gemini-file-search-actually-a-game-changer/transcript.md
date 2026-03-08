@@ -11,27 +11,48 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Google"
+    - "Box"
+    - "AWS"
+    - "Azure"
+  people:
+    []
+  products:
+    - "Gemini"
+    - "Make"
+    - "n8n"
+  models:
+    - "Gemini"
+concepts:
+  - "A generated hash of the file which is like a unique fingerprint of the file and the document id"
+summary:
+  - "A lot of people are calling Gemini File Search a gamecher that's going to kill Rag"
 keywords:
   - "ai-news"
   - "ai-strategy"
   - "ai-tools"
+  - "aws"
+  - "azure"
+  - "box"
   - "frameworks"
+  - "gemini"
   - "google"
   - "leadership"
+  - "make"
   - "microsoft"
+  - "n8n"
   - "openai"
   - "product-management"
   - "tutorials"

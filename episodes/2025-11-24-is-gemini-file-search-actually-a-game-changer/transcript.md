@@ -11,22 +11,30 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "General"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+  people:
+    []
+  products:
+    - "Gemini"
+  models:
+    - "Gemini"
+concepts:
+  []
+summary:
+  - "A lot of people are saying Gemini File Search is a gamecher that's going to kill Rag"
 keywords:
   - "ai-news"
   - "frameworks"
+  - "gemini"
   - "google"
   - "meta"
   - "product-management"

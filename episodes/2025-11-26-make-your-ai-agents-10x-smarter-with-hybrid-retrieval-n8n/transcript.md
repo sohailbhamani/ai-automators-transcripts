@@ -11,28 +11,54 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Slack"
+    - "Mistral"
+    - "IBM"
+  people:
+    []
+  products:
+    - "Make"
+    - "n8n"
+    - "MCP"
+    - "Projects"
+    - "Canvas"
+  models:
+    - "Llama"
+    - "Mistral"
+concepts:
+  []
+summary:
+  - "# Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)
+
+There's a myth in the AI world that vector search is the silver bullet to ground your AI agents in your private company knowledge"
 keywords:
   - "ai-agents"
   - "ai-strategy"
   - "ai-tools"
+  - "canvas"
   - "coding"
   - "frameworks"
+  - "ibm"
   - "leadership"
+  - "make"
+  - "mcp"
+  - "mistral"
+  - "n8n"
   - "product-management"
+  - "projects"
   - "prompting"
+  - "slack"
   - "tutorials"
 ---
 

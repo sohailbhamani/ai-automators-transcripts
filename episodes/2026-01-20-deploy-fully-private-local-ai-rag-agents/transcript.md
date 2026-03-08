@@ -11,19 +11,28 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "General"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    []
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# DEPLOY Fully Private + Local AI RAG Agents
+
+When you upload documents to an AI service, you're placing a lot of trust in that company"
 keywords:
   - "ai-agents"
   - "frameworks"

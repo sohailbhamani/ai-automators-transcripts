@@ -11,25 +11,37 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "General"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Mistral"
+  people:
+    []
+  products:
+    - "Gemini"
+  models:
+    - "Gemini"
+    - "Mistral"
+concepts:
+  []
+summary:
+  - "# The Problem With Vision Language Models
+
+If you're using vision language models for document extraction, there's something you need to know"
 keywords:
   - "ai-agents"
   - "ai-tools"
   - "career"
   - "frameworks"
+  - "gemini"
   - "google"
+  - "mistral"
 ---
 
 # The Problem With Vision Language Models

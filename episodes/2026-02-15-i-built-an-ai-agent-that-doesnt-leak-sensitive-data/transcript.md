@@ -11,28 +11,69 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Microsoft"
+    - "Nvidia"
+    - "Box"
+    - "Hugging Face"
+    - "LangChain"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "LangChain"
+    - "Hugging Face"
+    - "LM Studio"
+    - "Jan"
+    - "Make"
+    - "MCP"
+    - "Opus"
+    - "Haiku"
+  models:
+    - "Claude Haiku"
+concepts:
+  []
+summary:
+  - "# I Built an AI Agent That Doesn't Leak Sensitive Data
+
+What if you could use the most powerful cloud-based AI models with your private company documents and not have a single piece of sensitive infor"
+  - "You retain a mapping of these keys and values"
 keywords:
   - "ai-agents"
   - "ai-news"
   - "ai-tools"
   - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
   - "coding"
   - "frameworks"
   - "google"
+  - "haiku"
+  - "hugging-face"
+  - "jan"
+  - "langchain"
+  - "lm-studio"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "nvidia"
   - "openai"
+  - "opus"
   - "prompting"
   - "workflows"
 ---

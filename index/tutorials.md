@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (11 episodes):
+Episodes discussing **Tutorials** (12 episodes):
 
+- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)

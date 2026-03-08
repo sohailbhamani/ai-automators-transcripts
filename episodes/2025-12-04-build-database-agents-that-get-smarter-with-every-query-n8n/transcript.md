@@ -11,24 +11,42 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Make"
+    - "n8n"
+    - "MCP"
+    - "Canvas"
+  models:
+    []
+concepts:
+  - "For step four here in the construct the query section we&amp;#39;re saying if the question cannot be answered from the database or if a query returns no rows reply with sorry i don&amp;#39;t know"
+summary:
+  - "# Build Database Agents That Get Smarter With Every Query (n8n)
+
+If you want your AI agents to be able to answer questions based on structured data such as spreadsheets or databases, then vector store"
 keywords:
   - "ai-agents"
   - "ai-tools"
+  - "canvas"
   - "frameworks"
   - "leadership"
+  - "make"
+  - "mcp"
+  - "n8n"
   - "product-management"
   - "tutorials"
 ---

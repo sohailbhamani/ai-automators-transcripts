@@ -11,22 +11,32 @@ author: "The AI Automators"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Executives"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "n8n"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Build Database Agents That Get Smarter With Every Query (n8n)
+
+Here's how to build database agents that get smarter over time"
 keywords:
   - "ai-agents"
   - "leadership"
+  - "n8n"
   - "tutorials"
 ---
 
