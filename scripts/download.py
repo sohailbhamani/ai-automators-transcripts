@@ -112,7 +112,7 @@ def get_video_metadata(video_id):
             "view_count": int(stats.get("viewCount", 0)),
             "publish_date": pub_date,
             "description": snippet.get("description", ""),
-            "author": snippet.get("channelTitle", "Alex Finn"),
+            "author": snippet.get("channelTitle", "The AI Automators"),
             "keywords": snippet.get("tags", []),
         }
     except Exception as e:
@@ -185,7 +185,7 @@ publish_date: "{metadata.get("publish_date", "unknown")}"
 duration: "{metadata.get("duration", "unknown")}"
 duration_seconds: {metadata.get("duration_seconds", 0)}
 view_count: {metadata.get("view_count", 0)}
-author: "{metadata.get("author", "Alex Finn")}"
+author: "{metadata.get("author", "The AI Automators")}"
 
 yt_tags:
 {chr(10).join(f'  - "{tag}"' for tag in metadata.get("keywords", [])) or "  []"}
@@ -251,7 +251,7 @@ def main():
     # Parse arguments
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
-    print("=== Alex Finn Transcript Downloader (Supadata) ===")
+    print("=== The AI Automators Transcript Downloader (Supadata) ===")
     print(f"Rate limiting: {MIN_DELAY}-{MAX_DELAY}s between videos")
     print(
         f"Batch breaks: {BATCH_BREAK_MIN}-{BATCH_BREAK_MAX}s every {BATCH_SIZE} videos"

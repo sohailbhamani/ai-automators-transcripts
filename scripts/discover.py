@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Discover new Alex Finn videos via YouTube RSS feed.
+Discover new AI Automators videos via YouTube RSS feed.
 Compares against video_ids.txt and appends new IDs.
 No API key needed — RSS is public.
 """
@@ -11,7 +11,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-CHANNEL_ID = "UCfQNB91qRP_5ILeu_S_bSkg"
+CHANNEL_ID = "UCwvXnrOCRlhokHlJwohf2OA"
 RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 
 BASE_DIR = Path(__file__).parent.parent
@@ -25,7 +25,7 @@ def fetch_rss_video_ids(retries=3, backoff=5):
         try:
             req = urllib.request.Request(
                 RSS_URL,
-                headers={"User-Agent": "AlexFinnTranscripts/1.0"},
+                headers={"User-Agent": "AIAutomatorsTranscripts/1.0"},
             )
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = resp.read()
@@ -71,7 +71,7 @@ def load_existing_ids():
 
 
 def main():
-    print("=== Alex Finn Video Discovery (RSS) ===")
+    print("=== AI Automators Video Discovery (RSS) ===")
 
     existing = load_existing_ids()
     print(f"Existing videos: {len(existing)}")
