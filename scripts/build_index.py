@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build topic index for Alex Finn transcripts.
+Build topic index for AI Automators transcripts.
 Creates index/ folder with topic-specific markdown files.
 """
 
@@ -246,7 +246,7 @@ def main():
 
     # Create index README
     readme_lines = [
-        "# Alex Finn Podcast Index",
+        "# The AI Automators Podcast Index",
         "",
         f"Index of {len(all_episodes)} episodes across {len(topic_episodes)} topics.",
         "",
