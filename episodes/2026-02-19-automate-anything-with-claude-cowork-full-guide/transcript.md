@@ -7,6 +7,21 @@ duration: "20:02"
 duration_seconds: 1202
 view_count: 10497
 author: "The AI Automators"
+description: |
+  👉 Get ALL of our systems and resources: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=claude-cowork
+  
+  Claude Cowork lets Claude do real work directly on your computer without you needing to build agents or wire up workflow tools. It can access a working folder, read and create files, automate your browser, reuse Skills for repeatable workflows, and produce deliverables like Excel outputs, PowerPoint decks, and Word reports, all powered by the same planning and orchestration approach that made Claude Code popular.
+  
+  In this video, I’ll be talk you through Claude Cowork, its capabilities, its limitations, and how it fits in with other Claude apps and other workflow tools.
+  
+  Chapters:
+  0:00 - Cowork Overview
+  5:08 - Limitations
+  6:35 - Use case 1: Invoice PDFs → Excel (OCR + file moving)
+  8:53 - Use case 2: Connectors + Skills
+  13:58 - Use case 3: Research → PowerPoint deck (brand guidelines)
+  17:12 - Use case 4: Folder deep research → Document report
+  19:01 - Verdict
 
 yt_tags:
   []

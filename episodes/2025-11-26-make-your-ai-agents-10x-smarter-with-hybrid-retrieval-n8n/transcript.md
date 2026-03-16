@@ -7,6 +7,50 @@ duration: "28:17"
 duration_seconds: 1697
 view_count: 12500
 author: "The AI Automators"
+description: |
+  👉 Get access to our Hybrid Retrieval n8n workflows in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=retrieval-engineering
+  
+  Vector Search isn't the silver bullet everyone thinks it is.
+  
+  After working with hundreds of community members who are building production-grade RAG agents, we keep seeing the same failures. 
+  
+  Questions that should be simple get hallucinated answers. Queries that need exact matches return "similar" results. Systems that work in demos break in production.
+  
+  Vector search is brilliant for semantic queries—but there's an entire category of questions that need completely different retrieval strategies.
+  
+  In this deep-dive, I'll show you 9 real-world examples where Vector Search fails, and demonstrate the retrieval engineering strategies that actually work in production.
+  
+  🎯 What You'll Learn:
+  ✅ Why similarity ≠ relevance (and what to do about it)
+  ✅ 9 types of queries where vector search breaks down
+  ✅ Exact match strategies for error codes and IDs
+  ✅ Structured data approaches for tabular queries
+  ✅ Aggregation techniques for counting and computing
+  ✅ GraphRAG for global knowledge patterns
+  ✅ Multi-hop reasoning with knowledge graphs
+  ✅ Multimodal RAG for image retrieval
+  ✅ Handling false premise questions without hallucinations
+  ✅ Complete evaluation strategies using DeepEval
+  
+  🔗 Useful Links:
+  Amit Verma Article: https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later
+  IBM Know Your RAG Research - https://arxiv.org/html/2411.19710v1
+  CRAG Benchmark - https://arxiv.org/html/2406.04744v2
+  
+  ⏱️ Timestamps:
+  00:00 - The Vector Search Myth
+  05:20 - #1 Summary Questions
+  12:27 - #2 Simple Questions
+  15:25 - #3 Simple Questions with Conditions
+  19:55 - #4 Aggregation Questions
+  20:41 - #5 Global Questions
+  22:21 - #6 Multi-Hop Questions
+  23:59 - #7 Multi-Modal Questions
+  25:12 - #8 Post-Processing Questions
+  26:18 - #9 False Premise Questions
+  
+  💬 Questions or Comments?
+  What retrieval challenges are you facing in your RAG systems? Which of these 9 problems have you encountered? Drop your thoughts below!
 
 yt_tags:
   []

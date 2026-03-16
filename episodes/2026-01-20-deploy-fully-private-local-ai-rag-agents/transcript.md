@@ -7,6 +7,16 @@ duration: "0:42"
 duration_seconds: 42
 view_count: 6237
 author: "The AI Automators"
+description: |
+  When you upload documents to an AI service, you're placing a lot of trust in that company. Trust that they'll keep those documents secure and that they won't end up exposed in a data breach down the road.
+  
+  For companies handling sensitive information like financial, legal, medical, or client records, trust alone just isn't good enough.
+  
+  That's why more and more companies are looking to deploy fully local, air-gapped AI systems.
+  
+  With this type of system, you have complete data sovereignty with zero external API calls. And while there is an upfront cost to build out the infrastructure, your sensitive documents stay exactly where they belong: on your servers.
+  
+  If you'd like to learn how to build and deploy a fully local AI RAG agent, check out the link below.
 
 yt_tags:
   []

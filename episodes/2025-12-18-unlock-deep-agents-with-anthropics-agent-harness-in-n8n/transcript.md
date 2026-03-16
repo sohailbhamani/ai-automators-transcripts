@@ -7,6 +7,39 @@ duration: "27:28"
 duration_seconds: 1648
 view_count: 8929
 author: "The AI Automators"
+description: |
+  👉 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=agent_harness
+  
+  Most AI agents fail at complex, long-running projects. They excel at simple tasks but collapse when asked to conduct deep research, perform extended analysis, or create comprehensive reports.
+  The problem? AI models have limited context windows, and complex projects can't be completed in a single pass.
+  
+  Anthropic recently published their solution: the agent harness—a control layer that allows AI agents to create plans, save progress, and work toward goals over time.
+  In this tutorial, I'll show you how to build production-grade agent harnesses in n8n that can handle multi-hour research projects, synthesize data from multiple sources, and deliver comprehensive reports.
+  
+  https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+  
+  🎯 What You'll Learn:
+  ✅ What an agent harness is and why you need one
+  ✅ Two-stage architecture: initializer + task worker
+  ✅ Database schema design for task management
+  ✅ Sequential vs concurrent execution patterns
+  ✅ Multi-source data retrieval and synthesis
+  ✅ Progress tracking and artifact storage
+  ✅ Task orchestration with locking mechanisms
+  ✅ Building a deep research agent from scratch
+  ✅ 5 key questions for designing your agent harness
+  
+  ⏱️ Timestamps:
+  00:00 Overview
+  01:33 What Is an Agent Harness?
+  03:03 Two-Stage Architecture: Initializer + Task Harness
+  05:01 Database Schema & Structure
+  08:31 Task Worker Harness Execution
+  11:54 Synthesize & Write Report Routes
+  16:44 Concurrency Pattern Overview
+  19:21 Agent Harness: New Concept or Old Practice?
+  20:41 5 Key Design Questions
+  26:26 When to Use Agent Harnesses
 
 yt_tags:
   []

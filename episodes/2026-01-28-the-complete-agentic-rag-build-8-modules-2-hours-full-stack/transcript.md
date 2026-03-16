@@ -7,6 +7,47 @@ duration: "2:14:10"
 duration_seconds: 8050
 view_count: 31959
 author: "The AI Automators"
+description: |
+  👉 Get access to our complete code files for Modules 3-8 & join hundreds of builders creating production-grade RAG systems in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=claude-code-rag
+  
+  In this comprehensive masterclass, we collaborate with Claude Code to build a full-featured Agentic RAG application from the ground up. No frameworks, no shortcuts — just raw code and real-world implementation patterns.
+  
+  🔗 Get Started:
+  GitHub Repo (PRD, Prompts & Full Setup): https://github.com/theaiautomators/claude-code-agentic-rag-masterclass
+  Module 1 & 2 Code Files: https://drive.google.com/drive/folders/1jHdWmKSNOXRsA_Ga05stRlDFrA9pGAVw
+  
+  🎯 What You'll Learn:
+  ✅ Complete Agentic RAG architecture (React + Python + Supabase)
+  ✅ Claude Code development workflow — plan, build, validate, iterate
+  ✅ Document ingestion with DocLing (PDFs, DOCX, PPTX, images)
+  ✅ PG Vector embeddings with hybrid search & re-ranking
+  ✅ Metadata extraction for precision filtering
+  ✅ Text-to-SQL with database-level security
+  ✅ Sub-agents for full document analysis
+  ✅ Local model support (LM Studio, Qwen3) or cloud (OpenAI, OpenRouter)
+  ✅ LangSmith observability for debugging your RAG pipeline
+  ✅ Multi-user authentication with row-level security
+  
+  🔗 Links:
+  Supabase: https://supabase.com/
+  DocLing: https://docling.io/
+  LangSmith: https://smith.langchain.com/
+  OpenRouter: https://openrouter.ai/
+  LM Studio: https://lmstudio.ai/
+  
+  ⏱️ Timestamps:
+  
+  00:00:00 Intro
+  00:05:39 High Level Architecture
+  00:23:10 Module 1 - App Shell
+  00:51:51 Module 2 - RAG Ingestion
+  01:11:44 Module 3 & 4 - Records & Metadata
+  01:20:44 Module 5 & 6 - Docling & Hybrid Search
+  01:28:26 Module 7 - Additional Tools
+  01:36:31 Module 8 - RAG Sub-Agent
+  
+  💬 Questions or Comments?
+  Where do you stand on this — autonomous coding agents vs. actually collaborating and staying in the loop? Let me know below!
 
 yt_tags:
   []

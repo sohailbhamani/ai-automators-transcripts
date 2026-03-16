@@ -7,6 +7,14 @@ duration: "0:38"
 duration_seconds: 38
 view_count: 8019
 author: "The AI Automators"
+description: |
+  An agent harness is a control layer or scaffolding for your AI agent. Instead of just asking your agent to do everything at once, it can make a plan, break it up into different tasks, execute those tasks one by one, and then save progress externally to a database, file, or external system.
+  
+  This allows you to manage context across potentially thousands of tasks.
+  
+  Think of it like giving your AI agent access to a project management system. This kind of architecture allows you to build AI agents that can handle projects such as long-running deep research, advanced analysis, or comprehensive report generation.
+  
+  Most AI agents you see demoed online simply would not be able to handle those kinds of projects.
 
 yt_tags:
   []

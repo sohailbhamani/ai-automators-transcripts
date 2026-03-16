@@ -7,6 +7,31 @@ duration: "37:19"
 duration_seconds: 2239
 view_count: 4691
 author: "The AI Automators"
+description: |
+  👉 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=state_machine
+  
+  If your AI agent works great in short conversations but falls apart the moment you ask it to follow a real business process, this video is for you. Multi step workflows like support intake, product returns, troubleshooting, and much more, need the agent to reliably remember what step it is on, what actions to take on each step, and what information is still missing.
+  
+  The issue is not the model being “bad.” It is that basic agents do not manage state well. They rely on conversation history to track progress, which leads to skipped steps, lost context, and potentially declaring the job is done way before it actually is.
+  
+  The fix is a state machine. Think of it like giving your agent a checklist it must follow. In this tutorial, you will build two practical approaches in n8n so your agents can validate inputs, handle restarts, escalate when needed, and stay consistent across longer interactions.
+  
+  🎯 What You’ll Learn:
+  ✅ What state machines are and why agents need them in workflows
+  ✅ Two approaches in n8n: inside execution vs using data tables or a database
+  ✅ Validation loops with the Respond to Chat tool
+  ✅ Restart and escalation logic for edge cases
+  ✅ Persistent state with a configuration table plus a session tracking table
+  ✅ Guard conditions and subworkflows for step-specific actions
+  ✅ How to choose the right approach for your use case
+  
+  ⏱️ Timestamps:
+  00:00 - Overview
+  01:23 - Approach 1: State machine within execution
+  13:43 - Approach 2: State machine using datatables
+  29:14 - Advanced actions
+  35:28 - Comparing approaches
+  35:57 - Advanced state management techniques
 
 yt_tags:
   []

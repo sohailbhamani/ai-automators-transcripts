@@ -7,6 +7,63 @@ duration: "20:45"
 duration_seconds: 1245
 view_count: 7258
 author: "The AI Automators"
+description: |
+  👉 Get access to the full Agentic RAG codebase & join hundreds of AI builders in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cc-skills
+  
+  🔗 Get Started:
+  GitHub Repo: https://github.com/theaiautomators/claude-code-agentic-rag-series/tree/main/ep4-skills-sandbox-video
+  Agent Skills Open Standard: https://agentskills.io
+  LLM Sandbox: https://github.com/vndee/llm-sandbox
+  Vercel Skills Directory: https://skills.sh
+  Episode 1: https://www.youtube.com/watch?v=xgPWCuqLoek
+  
+  What if your AI agent could dynamically load specialist expertise on demand, then execute real code in isolated sandboxes to carry out meaningful tasks?
+  
+  In this video, we integrate agent skills and code execution sandboxes into our custom Python and React AI agent. 
+  
+  Skills transform a general-purpose LLM into a specialist that follows your exact workflows, and sandboxes give it a safe environment to actually execute them.
+  
+  We cover why progressive disclosure matters for protecting your context window, how to build a skill creator, and how to chain multiple skills together in a single conversation to produce real artifacts like Word documents and reports.
+  
+  📌 What's covered:
+  - Why LLMs need procedural knowledge, not just data (RAG alone is not enough)
+  - The evolution from ad hoc prompting to system prompt bloat to specialist agents to skills
+  What agent skills actually are: packaged folders with instructions, references, and step-by-step workflows
+  - Progressive disclosure: how to protect your context window as you scale to dozens of skills
+  - Daisy chaining skills within a single conversation for multi-step tasks
+  - Common skill patterns: sequential workflows, multi-tool coordination, iterative refinement, context-aware tool selection, domain-specific intelligence
+  - Setting up LLM Sandbox with Docker for safe code execution
+  - Building a skill creator so your team can define new skills without writing code
+  - Full demo: generating a customer service monthly report by loading weekly reports, extracting metrics via sub-agents, calculating in Python, and outputting a formatted Word document
+  - How to align with the open standard at agentskills.io for skill interoperability
+  
+  🔍 Tech stack:
+  
+  - Agent Skills (open standard via agentskills.io)
+  - LLM Sandbox (Docker-based code execution)
+  - Python backend / React frontend
+  - Sub-agents for document analysis and context protection
+  - Claude Code with Agent Teams
+  - Supabase (local Postgres + auth + storage)
+  - gVisor (recommended for hardened sandbox security)
+  
+  Key takeaway: RAG gives your agent knowledge, but skills give it expertise. 
+  
+  By packaging workflows as discoverable, progressively disclosed skill folders, you get repeatable outcomes from LLMs without needing to build an entire orchestration system in code.
+  
+  🔗 PRD and requirements available in the repo below
+  🔗 Full codebase available to AI Automators community members
+  
+  📌 This is part of our Agentic RAG series where we're building a full AI agent web app grounded in private company knowledge.
+  
+  ⏱️ Timestamps:
+  00:00 Why Skills Matter
+  05:23 The Demo
+  11:08 How Skills Work
+  14:33 Common Skill Patterns
+  19:02 Code Execution Sandboxes
+  
+  #AI #RAG #AgentSkills #CodeExecution #Docker #Sandboxes #ClaudeCode #AgenticRAG #LLM #AIAgents
 
 yt_tags:
   []

@@ -7,6 +7,25 @@ duration: "8:43"
 duration_seconds: 523
 view_count: 2684
 author: "The AI Automators"
+description: |
+  👉 Get ALL of our courses, systems and resources: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cowork-scheduled-tasks
+  
+  Claude Cowork can now run real workflows on autopilot with its new scheduled tasks feature. You can set up recurring tasks that send daily status updates to Slack, generate weekly reports from files on your system or Google Drive, research topics on a schedule, organize files automatically, or even control your browser to do work on your behalf. All without writing a single line of code or deploying anything.
+  
+  In this video, I walk you through how scheduled tasks work in Claude Cowork, how to set them up, and how to configure them for different use cases. I also cover the key advantages and limitations, including how they compare to fully deterministic agentic workflows built with tools like Claude Code or other automation platforms.
+  
+  Scheduled tasks are extremely easy to create. You can either convert an existing Cowork task into a scheduled one or use the /schedule command to build one from scratch. Once created, each task stores a prompt that Cowork runs on your chosen schedule using whichever model you select, from Haiku for lightweight jobs to Opus for complex ones. Tasks can work from a designated folder, giving you a persistence layer between runs, and they self-heal thanks to the underlying agent harness.
+  
+  The trade-off is that these tasks only run while your computer is on and the app is open, the context resets each run, and because they rely on a probabilistic model rather than a fixed script, results may not be 100% identical every time. For purely deterministic, no-AI workflows, a coded solution or visual tool might still be the better fit. But for flexible, intelligent automation that would otherwise require significant setup, scheduled tasks are a very welcome addition.
+  
+  Chapters:
+  0:00 - Overview
+  1:34 - Creating a scheduled task
+  2:11 - Scheduled task settings
+  3:46 - Slash command
+  4:29 - Pros
+  5:34 - Cons
+  8:17 - Verdict
 
 yt_tags:
   []

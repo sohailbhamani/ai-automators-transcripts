@@ -7,6 +7,24 @@ duration: "1:39"
 duration_seconds: 99
 view_count: 6835
 author: "The AI Automators"
+description: |
+  Here are the 9 RAG patterns you need to know if you're serious about building AI systems.
+   
+  1. Naive RAG
+  2. Query Transformation with RAG Fusion
+  3. Iterative Retrieval
+  4. Adaptive Retrieval
+  5. Agentic RAG
+  6. Hybrid RAG
+  7. Multi-Agent RAG
+  8. Sequential Agents
+  9. Agentic Routing
+  
+  Most developers start with Naive RAG and wonder why their production systems fall apart.
+  
+  There is no universal pattern that works for every scenario. The best RAG systems are the ones that match the retrieval strategy to the problem you are solving.
+   
+  Link to the full deep-dive in the comments below 👇
 
 yt_tags:
   []

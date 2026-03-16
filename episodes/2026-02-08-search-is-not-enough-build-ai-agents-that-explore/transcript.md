@@ -7,6 +7,47 @@ duration: "1:04:00"
 duration_seconds: 3840
 view_count: 10761
 author: "The AI Automators"
+description: |
+  👉 Get access to the full Agentic RAG codebase & join hundreds of AI builders in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cc-vectorless-rag
+  
+  🔗 Get Started:
+  GitHub Repo (GSD Planning Documents): https://github.com/theaiautomators/claude-code-agentic-rag-series/tree/main/knowledgebase-video
+  GSD Framework: https://github.com/glittercowboy/get-shit-done
+  Supabase Self-Hosted: https://supabase.com/docs/guides/self-hosting
+  Episode 1: https://www.youtube.com/watch?v=xgPWCuqLoek
+  Claude Code Tools: https://code.claude.com/docs/en/settings.md
+  
+  Claude Code doesn't just search your codebase — it explores it. It reads folders, opens files, forms theories, and digs deeper. So why aren't we using this approach for AI knowledge agents?
+  
+  In this video, I break down how Claude Code's exploration-based retrieval actually works (glob, grep, read, bash) and why structure itself encodes meaning. 
+  
+  Then I build a custom AI knowledge agent that can both explore AND search your private data — deciding which strategy to use depending on the question.
+  
+  This is episode two in our live build series where we're building a full agentic RAG system using Claude Code. You'll see real development — mistakes and all — plus my first time using the GSD framework for spec-driven development.
+  
+  📌 What You'll Learn
+  - How Claude Code retrieves information (glob, grep, read, bash tools)
+  - Why exploration-based retrieval beats pure semantic search for structured data
+  - When to use semantic search vs. exploration vs. hybrid retrieval
+  - How to build parameterized navigation tools for a custom knowledge base
+  - Three implementation approaches: Claude Cowork, MCP/API, and custom knowledge base
+  - Real Claude Code development workflow with the GSD framework
+  
+  🔍 Concepts Covered
+  - Why vector search has silent failures with structurally similar content
+  - How file/folder structure encodes meaning for free
+  - Metadata filtering: when it works and its limitations
+  - Hybrid retrieval: letting the agent decide the best strategy
+  - Building multi-user knowledge bases with proper isolation
+  
+  ⏱️ Timestamps
+  00:00:00 Intro
+  00:12:31 GSD Setup & Brainstorming
+  00:24:35 Phase 1 - Folder Setup
+  00:28:44 Phase 2-3 - Document Interface
+  00:36:52 Phase 4-6 - Agent Tools
+  00:45:12 Phase 7 - Explorer Sub-Agent
+  01:00:09 Demo & GSD Review
 
 yt_tags:
   []

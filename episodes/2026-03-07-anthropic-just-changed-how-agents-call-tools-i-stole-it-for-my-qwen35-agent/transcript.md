@@ -7,6 +7,63 @@ duration: "17:41"
 duration_seconds: 1061
 view_count: 79228
 author: "The AI Automators"
+description: |
+  👉 Get ALL of our systems & join hundreds of AI builders in our community 
+  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cc-tool-use
+  🔗 PRDs: GitHub Repo: https://github.com/theaiautomators/claude-code-agentic-rag-series/tree/main/ep5-advanced-tool-use
+  
+  What if your AI agent could cut its token usage dramatically by searching for tools on demand and writing code to orchestrate dozens of tool calls, instead of letting the LLM handle each one individually?
+  
+  In this video, we implement two advanced tool calling patterns from Anthropic's engineering post into our custom Python and React AI agent: the tool search tool and programmatic tool calling via code execution sandboxes. 
+  
+  These aren't Claude-exclusive features. They're universal agent design patterns you can use with any model or framework.
+  
+  We test both approaches side by side, comparing traditional tool calling against programmatic execution, and we run the same task on Claude Haiku and the brand new Qwen 3.5 27B running locally on an RTX 5090.
+  
+  🔗 Links:
+  GitHub Repo: https://github.com/theaiautomators/claude-code-agentic-rag-series
+  Anthropic Advanced Tool Use Post: https://www.anthropic.com/engineering/advanced-tool-use
+  LLM Sandbox: https://github.com/vndee/llm-sandbox
+  Cloudflare Code Mode : https://blog.cloudflare.com/code-mode/
+  Episode 4 (Skills & Sandboxes): https://www.youtube.com/watch?v=4Tp6nPZa5is
+  Full codebase available to AI Automators community members
+  
+  📌 What's covered:
+  
+  - The problem: tool definitions eating context before you even send a message
+  - Tool search: deferring tool loading so the agent discovers what it needs on demand
+  - Programmatic tool calling: letting the LLM write and execute code to orchestrate tool calls in a loop
+  - The tool bridge architecture: how the sandbox calls tools securely without direct internet access or API credentials
+  - Side-by-side comparison of traditional vs programmatic approaches on a budget compliance task (20 team members, 3 tools)
+  - Real results: traditional approach missed answers at 76K tokens; programmatic got them all correct
+  - Running Qwen 3.5 27B locally and comparing it against Claude Haiku
+  - Tool use examples: multi-shot prompting for complex parameter handling (72% to 90% accuracy improvement)
+  - When to use each pattern: context bloat, intermediate result pollution, or parameter accuracy issues
+  
+  🔍 Tech stack:
+  
+  - Python backend / React frontend
+  - LLM Sandbox (Docker-based isolated code execution)
+  - Langfuse (observability and token tracking)
+  - Qwen 3.5 27B via Ollama (local, RTX 5090) vs Claude Haiku via OpenRouter
+  - Tool bridge pattern for secure sandbox-to-API communication
+  - gVisor (recommended for production sandbox hardening)
+  
+  Key takeaway: Traditional tool calling breaks down as you scale to dozens of tools and hundreds of data points. 
+  
+  Tool search keeps your context lean, and programmatic tool calling lets the agent write efficient loops instead of burning tokens on repetitive LLM round trips. 
+  
+  These are model-agnostic patterns you can build into any agent system today.
+  
+  📌 This is Episode 5 of our AI Builder series where we're building a full AI agent web app from scratch using Claude Code.
+  
+  ⏱️ Timestamps:
+  00:00 Intro & Tool Search
+  03:56 Programmatic Tool Calling
+  10:19 Architecture Overview
+  15:47 Tool Use Examples
+  
+  #AI #ToolCalling #AIAgents #CodeExecution #Docker #Sandboxes #ClaudeCode #AgenticRAG #LLM #MCP #Qwen #Anthropic
 
 yt_tags:
   []

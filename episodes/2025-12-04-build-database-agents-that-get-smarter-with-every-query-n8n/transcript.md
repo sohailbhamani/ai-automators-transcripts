@@ -7,6 +7,38 @@ duration: "23:50"
 duration_seconds: 1430
 view_count: 11162
 author: "The AI Automators"
+description: |
+  👉 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=n8n_database_agent_2
+  
+  https://www.youtube.com/watch?v=75lwkzFxyLs
+  https://www.youtube.com/watch?v=U0Qia_zeQFk
+  https://www.youtube.com/watch?v=FgUJ2kzhmKQ
+  https://www.youtube.com/watch?v=l3d7Zw2bbCw
+  https://vanna.ai/docs
+  
+  If you want your AI agents to answer questions from real databases without hallucinating, this video walks through five practical ways to connect them to structured data using Natural Language Query (NLQ) instead of vector stores.
+  
+  🎯 What You'll Learn:
+  ✅ Why vector stores alone often fail for structured/tabular data
+  ✅ How to build a self-improving SQL agent that learns from past queries
+  ✅ Five concrete patterns for connecting agents to databases (MCP, direct Postgres, hard-coded schema, views, parameterized queries)
+  ✅ How to use a simple vector store as long-term memory for successful tool calls
+  ✅ When to favor exploratory “chat to your DB” patterns vs deterministic, locked-down workflows
+  ✅ Essential security practices for SQL agents, including RLS, least privilege, and safer CRUD access
+  
+  Using a simple ecommerce schema (orders, customers, products, categories, order items), you’ll see how to build a self-improving agent that learns from successful SQL queries over time and reuses those patterns for new, similar questions.
+  
+  We’ll compare five patterns you can mix and match: using MCP with Supabase to abstract schema access and execution, connecting directly to Postgres via API for more reliability and control, hard-coding your schema into the system prompt to cut latency and tighten focus, querying against a flattened database view so the agent never has to build complex joins, and finally using parameterized/prepared queries for ultra-deterministic, secure access (ideal for customer-facing or multi-tenant apps). Along the way, we also touch on security principles for SQL agents.
+  
+  Chapters:
+  0:00 - Overview
+  2:37 - Approach 1: MCP-powered self-improving SQL agent
+  13:44 - Approach 2: Direct Postgres API for schema + queries
+  16:38 - Approach 3: Hard-coded schema in the system prompt
+  18:08 - Approach 4: Flattened database views for simpler queries
+  20:09 - Approach 5: Parameterized queries for maximum control
+  22:00 - Security for SQL agents
+  23:36 - Next steps
 
 yt_tags:
   []

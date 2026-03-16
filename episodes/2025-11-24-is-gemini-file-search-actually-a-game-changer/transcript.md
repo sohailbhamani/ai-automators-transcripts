@@ -7,6 +7,24 @@ duration: "1:59"
 duration_seconds: 119
 view_count: 5691
 author: "The AI Automators"
+description: |
+  A lot of people are saying Gemini File Search is a game-changer that's going to kill RAG.
+  
+  But in reality, Gemini File Search is actually RAG just built into their API.
+  
+  After two days of testing, here are five key aspects that most people are overlooking:
+  
+  Number one: You still need data pipelines because the API doesn't check for duplicate files. I uploaded the same doc three times and ended up getting really bad responses from Gemini. So you still need to build a data pipeline that can check for uniqueness, create new documents, update existing documents, or skip documents that are already stored.
+  
+  Second: I would describe Gemini File Search as a midrange black box RAG system. It's better than naive RAG for sure, but it's lacking more advanced features like Hybrid Search, Reranking, and Context Expansion. When you're not getting the right grounded responses from Gemini, good luck trying to debug it since it's all abstracted away behind the API.
+  
+  Third: Google talked about using Dynamic Chunking. However, from my testing I found that they were splitting mid-sentence. Not only that, there was no markdown preservation so you were losing the document hierarchy. This is a real problem for complex documents.
+  
+  Fourth: Metadata enrichment is a nightmare because once you upload the file and it processes, you have no way of retrieving the extracted text so that you can analyze it and extract metadata values to enrich the chunks further. You end up having to rebuild features that are already abstracted away.
+  
+  Finally: There is total vendor lock-in. Your data lives on Google servers so you have to satisfy yourself around Data Retention Policies, Data Privacy, and Data Security. And there's no flexibility around using other model providers.
+  
+  The bottom line: This system has some great features and is ultra cheap, so it will be a great fit for certain use cases. But once you hit that ceiling in terms of response accuracy, there's no way to dive deep and customize it. Your only option will be to fully replatform into something you have more control over.
 
 yt_tags:
   []

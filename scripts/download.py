@@ -177,6 +177,14 @@ def save_transcript(metadata, transcript):
     episode_dir = EPISODES_DIR / folder_name
     episode_dir.mkdir(parents=True, exist_ok=True)
 
+    # Format description as YAML block scalar
+    desc = metadata.get("description", "")
+    if desc:
+        desc_lines = desc.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+        desc_yaml = "description: |\n" + "\n".join(f"  {line}" for line in desc_lines)
+    else:
+        desc_yaml = 'description: ""'
+
     yaml_content = f'''---
 title: "{metadata.get("title", "Unknown").replace('"', '\\"')}"
 video_id: "{metadata["video_id"]}"
@@ -186,6 +194,7 @@ duration: "{metadata.get("duration", "unknown")}"
 duration_seconds: {metadata.get("duration_seconds", 0)}
 view_count: {metadata.get("view_count", 0)}
 author: "{metadata.get("author", "The AI Automators")}"
+{desc_yaml}
 
 yt_tags:
 {chr(10).join(f'  - "{tag}"' for tag in metadata.get("keywords", [])) or "  []"}

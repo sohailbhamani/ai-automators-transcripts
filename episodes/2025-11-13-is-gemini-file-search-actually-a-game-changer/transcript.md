@@ -7,6 +7,41 @@ duration: "21:18"
 duration_seconds: 1278
 view_count: 23927
 author: "The AI Automators"
+description: |
+  👉 Get access to our Gemini File Search n8n workflows + advanced RAG blueprints in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=gemini-file-search
+  
+  Lots of people are calling Gemini File Search a "game-changer" that will "kill RAG." 
+  
+  But after two days of production testing and n8n integration, I've uncovered 5 key issues that nobody's talking about.
+  
+  In this deep-dive, I'll show you exactly what works, what doesn't, and where Gemini File Search actually fits in the RAG landscape.
+  
+  🎯 What You'll Learn:
+  ✅ How Gemini File Search actually works (ingestion, chunking, embeddings, retrieval)
+  ✅ The 5 critical limitations hitting production RAG systems
+  ✅ Why you still need data pipelines (duplicate handling, record management)
+  ✅ Metadata extraction challenges and workarounds
+  ✅ Real pricing comparison: Gemini vs OpenAI file search
+  ✅ Three different n8n integration approaches with pros/cons
+  ✅ Vendor lock-in considerations and data privacy implications
+  ✅ Complete production ingestion + inference workflows
+  
+  🔗 Useful Links:
+  Context Expansion & Document Hierarchy: https://www.youtube.com/watch?v=y72TrpffdSk
+  Gemini File Search: https://blog.google/technology/developers/file-search-gemini-api/
+  Gemini File Search Docs: https://ai.google.dev/gemini-api/docs/file-search
+  
+  ⏱️ Timestamps:
+  00:00 - What is Gemini File Search?
+  03:04 - #1 You Still Need Data Pipelines
+  10:07 - #2 Mid-Range Black Box RAG
+  11:25 - #3 No Markdown & Basic Chunking
+  13:38 - #4 Metadata Challenges
+  19:09 - #5 Vendor Lock-In & Data Privacy
+  20:02 - The Verdict
+  
+  💬 Questions or Comments?
+  Are you considering Gemini File Search for your RAG systems? What's your biggest concern about managed RAG solutions? Drop your thoughts below!
 
 yt_tags:
   []

@@ -7,6 +7,41 @@ duration: "24:22"
 duration_seconds: 1462
 view_count: 4484
 author: "The AI Automators"
+description: |
+  👉 Get ALL of our systems and resources: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cc-agentic-workflows
+  
+  🔗 Get the FREE repo for this video: https://github.com/theaiautomators/agentic-workflows
+  
+  In this video, you get a practical, no-hype breakdown of agentic workflows and how tools like Claude Code can be used to build real automation in code, when they are worth using, and when tools like n8n are still the better choice. A free GitHub repo is linked in the description so you can follow along and build the same workflows yourself.
+  
+  What's covered:
+  
+  - What agentic workflows actually are and how they differ from visual automation tools
+  - A simple workflow loop for coding agents: plan, build, test, and commit
+  - How Claude Code can scaffold, build, test, and version-control Python workflows with minimal input
+  - When agentic workflows are a good fit and where they introduce risk or complexity
+  - A clear comparison of n8n vs agentic workflows, including strengths and weaknesses of each
+  
+  Deploying workflows to the cloud
+  - Using Git for version control, rollback, and iteration
+  - Adding persistence with a SQLite database stored in Modal to avoid repeat results
+  
+  Tooling combinations:
+  - Using n8n as a safeguard layer for approvals and sensitive actions
+  - Leveraging n8n’s built-in integrations alongside code-based workflows
+  - Letting agentic workflows handle complex logic while n8n handles control and visibility
+  
+  If you want to start building agentic workflows, check out the free github repo in the description.
+  
+  Chapters:
+  0:00 - Overview
+  2:57 - n8n vs agentic workflows
+  6:00 - Building your first agentic workflow
+  13:34 - Deploying to Modal
+  17:47 - Database on Modal
+  19:17 - 2nd example
+  21:46 - Desktop UIs
+  22:31 - Combining n8n and agentic workflows
 
 yt_tags:
   []

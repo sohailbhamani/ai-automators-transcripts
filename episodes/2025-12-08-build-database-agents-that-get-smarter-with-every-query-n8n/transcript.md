@@ -7,6 +7,18 @@ duration: "0:40"
 duration_seconds: 40
 view_count: 11314
 author: "The AI Automators"
+description: |
+  Here's how to build database agents that get smarter over time.
+  
+  Every time your agent successfully executes a query, save that user question and its corresponding SQL query to a vector store.
+  
+  The next time a similar question comes up, your agent can adapt past successful queries to the current one.
+  
+  The more you use it, the better it gets at handling questions related to your data.
+  
+  This is a surprisingly simple pattern to implement and you can combine this with more advanced Hybrid RAG retrieval patterns.
+  
+  This type of design pattern can apply to lots of other different types of agents, not just database agents. It will help improve the speed and accuracy of your agent's responses over time.
 
 yt_tags:
   []

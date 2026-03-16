@@ -7,6 +7,58 @@ duration: "1:11:36"
 duration_seconds: 4296
 view_count: 3233
 author: "The AI Automators"
+description: |
+  👉 Get access to the full Agentic RAG codebase & join hundreds of AI builders in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=cc-redaction
+  
+  🔗 Get Started:
+  GitHub Repo: https://github.com/theaiautomators/claude-code-agentic-rag-series/tree/main/ep3-redaction-anonymization-video
+  Microsoft Persidio: https://microsoft.github.io/presidio/
+  Persidio Demo: https://huggingface.co/spaces/presidio/presidio_demo
+  Episode 1: https://www.youtube.com/watch?v=xgPWCuqLoek
+  
+  What if you could use powerful cloud AI models with your private company documents — without any sensitive data ever leaving your network? 
+  
+  In this video, we build a full redaction and anonymization system using Microsoft Presidio, local LLMs, and the Faker library, ensuring that cloud models like Claude Haiku never see real names, financials, or personal information.
+  
+  We cover the real-world challenges of entity resolution, surrogate data generation, and reversible anonymization — and show you honestly where things break down and how we fixed them.
+  
+  📌 What's covered:
+  
+  Why redaction and anonymization matter (GDPR, HIPAA, CCPA, PCI-DSS)
+  - The difference between hard redaction (irreversible) and reversible anonymization with surrogate data
+  - How Microsoft Presidio identifies PII using pattern matching, named entity recognition, and context enhancement
+  - The entity resolution problem — why "Margaret Thompson," "Maggie Thompson," and "M. Thompson" all need the same surrogate
+  - Using a local LLM (Qwen 3 8B) as a safety net for entity clustering and catching missed PII
+  - Building the full architecture with Claude Code and Agent Teams (Opus 4.6)
+  - End-to-end testing with Langfuse tracing to verify the cloud LLM never sees real data
+  - Hard lessons learned: why our first architecture was over-engineered and how we simplified it
+  
+  🔍 Tech stack:
+  
+  - Microsoft Presidio (open-source PII detection)
+  - Faker library (surrogate data generation)
+  - Qwen 3 8B (local LLM for entity resolution)
+  - Claude Haiku via OpenRouter (cloud LLM)
+  - Supabase (local Postgres + auth + storage)
+  - React frontend / Python backend
+  - Langfuse (self-hosted tracing)
+  - Claude Code with Agent Teams
+  
+  Key takeaway: Entity recognition is not perfect — even the best systems miss 5%+ of sensitive entities. You need defense in depth: technical safeguards, legal safeguards, and organizational policies working together.
+  
+  🔗 PRD and requirements available in the repo below
+  🔗 Full codebase available to AI Automators community members
+  
+  📌 This is part of our Agentic RAG series where we're building a full AI agent web app grounded in private company knowledge.
+  
+  ⏱️ Timestamps:
+  00:00:00 The Explainer 
+  00:16:43 Phase 1 Planning
+  00:33:10 Phase 1 Build
+  00:46:30 The Rebuild!
+  01:00:49 New Features & Demo
+  
+  #AI #RAG #Privacy #Redaction #Anonymization #MicrosoftPresidio #ClaudeCode #AgenticRAG #PII #GDPR
 
 yt_tags:
   []

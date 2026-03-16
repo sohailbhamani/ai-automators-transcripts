@@ -7,6 +7,49 @@ duration: "52:59"
 duration_seconds: 3179
 view_count: 61464
 author: "The AI Automators"
+description: |
+  👉 Get access to our Fully Local SOTA RAG system and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=sota-local-rag
+  
+  Every document you send to ChatGPT or Claude is a potential security liability.
+  
+  Legal contracts. Medical records. Financial statements. Client data. HR documents.
+  
+  The cloud-based AI tools we rely on every day are brilliant—but they're also third-party services with their own data policies, training practices, and potential breach vulnerabilities.
+  
+  For enterprises handling sensitive information, "trust me" isn't good enough.
+  
+  In this tutorial, I'll show you how to build a production-grade multimodal RAG system that never leaves your infrastructure. Zero external API calls. Complete data sovereignty.
+  
+  🔗 Get Started:
+  Our Forked Self Hosted AI Starter Kit: https://github.com/theaiautomators/self-hosted-ai-starter-kit
+  
+  🎯 What You'll Learn:
+  ✅ Complete air-gapped RAG architecture
+  ✅ Processing PDFs, images, tables, and audio locally
+  ✅ IBM Docling for zero-hallucination document extraction
+  ✅ Ollama + N8N + Docker local stack
+  ✅ GPU requirements for production deployment
+  ✅ Network deployment for team access
+  ✅ Standard vs VLM document processing pipelines
+  ✅ Maintaining semantic structure without cloud APIs
+  ✅ Real-world hardware cost breakdowns
+  
+  🔗 Links:
+  Docling Documentation: https://www.docling.ai/
+  Ollama Vision Models: https://ollama.com/
+  Qdrant: https://qdrant.tech/
+  
+  ⏱️ Timestamps:
+  00:00 Local AI + Docling
+  07:58 n8n + Docker
+  11:58 Setup Local AI Starter Kit
+  16:30 Building the RAG Ingestion
+  34:39 Building the AI Agent
+  46:56 Creating the Agent Frontend
+  50:17 Deploying to Local Network
+  
+  💬 Questions or Comments?
+  What's preventing you from deploying local AI in your organization? Hardware costs? Complexity? Performance concerns? Let me know below!
 
 yt_tags:
   []
