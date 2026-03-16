@@ -1,8 +1,7 @@
 # Github
 
-Episodes discussing **Github** (6 episodes):
+Episodes discussing **Github** (5 episodes):
 
-- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)

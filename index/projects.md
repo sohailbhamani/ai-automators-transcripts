@@ -1,8 +1,7 @@
 # Projects
 
-Episodes discussing **Projects** (7 episodes):
+Episodes discussing **Projects** (6 episodes):
 
-- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)

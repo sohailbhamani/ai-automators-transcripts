@@ -1,10 +1,7 @@
 # Make
 
-Episodes discussing **Make** (14 episodes):
+Episodes discussing **Make** (11 episodes):
 
-- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [I Built an AI Agent That Doesn't Leak Sensitive Data](../episodes/2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data/transcript.md) (2026-02-15)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
