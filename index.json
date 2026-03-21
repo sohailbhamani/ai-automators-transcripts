@@ -1,10 +1,55 @@
 {
-  "total_videos": 20,
+  "total_videos": 21,
   "date_range": {
-    "newest": "2026-03-07",
+    "newest": "unknown",
     "oldest": "2025-11-13"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "I2K81s0OQto",
+      "youtube_url": "https://www.youtube.com/watch?v=I2K81s0OQto",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub",
+          "Stripe",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 2"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nA lot of people are banking on 2026 to be the year where AI gets real work done and delivers real business value"
+      ],
+      "transcript_chars": 20774,
+      "folder": "unknown-i2k81s0oqto"
+    },
     {
       "title": "Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent",
       "video_id": "R7OCrqyGMeY",

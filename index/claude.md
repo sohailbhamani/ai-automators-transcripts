@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (11 episodes):
+Episodes discussing **Claude** (12 episodes):
 
+- [Unknown](../episodes/unknown-i2k81s0oqto/transcript.md) (unknown)
 - [Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent](../episodes/2026-03-07-anthropic-just-changed-how-agents-call-tools-i-stole-it-for-my-qwen35-agent/transcript.md) (2026-03-07)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)

@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (6 episodes):
+Episodes discussing **Github** (7 episodes):
 
+- [Unknown](../episodes/unknown-i2k81s0oqto/transcript.md) (unknown)
 - [Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent](../episodes/2026-03-07-anthropic-just-changed-how-agents-call-tools-i-stole-it-for-my-qwen35-agent/transcript.md) (2026-03-07)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
