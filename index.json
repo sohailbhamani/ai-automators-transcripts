@@ -1,10 +1,55 @@
 {
-  "total_videos": 21,
+  "total_videos": 22,
   "date_range": {
     "newest": "unknown",
     "oldest": "2025-11-13"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "9d5bzxVsocw",
+      "youtube_url": "https://www.youtube.com/watch?v=9d5bzxVsocw",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Stripe",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet",
+          "Artifacts"
+        ],
+        "models": [
+          "Opus 4.5",
+          "Sonnet 4"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nYesterday, Anthropic published a fascinating article on harness design for longrunning agents"
+      ],
+      "transcript_chars": 18862,
+      "folder": "unknown-9d5bzxvsocw"
+    },
     {
       "title": "Unknown",
       "video_id": "I2K81s0OQto",
