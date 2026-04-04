@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead."
 video_id: "I2K81s0OQto"
 youtube_url: "https://www.youtube.com/watch?v=I2K81s0OQto"
-publish_date: "unknown"
+publish_date: "2026-03-21"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

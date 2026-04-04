@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Anthropic Just Dropped the New Blueprint for Long-Running AI Agents."
 video_id: "9d5bzxVsocw"
 youtube_url: "https://www.youtube.com/watch?v=9d5bzxVsocw"
-publish_date: "unknown"
+publish_date: "2026-03-25"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
