@@ -29,7 +29,7 @@ entities:
     - "Stripe"
     - "YouTube"
   people:
-    []
+    - "Andrej Karpathy"
   products:
     - "Claude"
     - "Claude Code"

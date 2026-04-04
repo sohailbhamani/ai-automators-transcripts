@@ -2,8 +2,8 @@
 
 Episodes discussing **Frameworks** (20 episodes):
 
-- [Unknown](../episodes/unknown-9d5bzxvsocw/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-i2k81s0oqto/transcript.md) (unknown)
+- [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
+- [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent](../episodes/2026-03-07-anthropic-just-changed-how-agents-call-tools-i-stole-it-for-my-qwen35-agent/transcript.md) (2026-03-07)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
