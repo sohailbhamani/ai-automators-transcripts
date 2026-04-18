@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (6 episodes):
+Episodes discussing **Gemini** (7 episodes):
 
+- [Unknown](../episodes/unknown-yjce8hvzrxs/transcript.md) (unknown)
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)
 - [The Problem With Vision Language Models](../episodes/2026-01-22-the-problem-with-vision-language-models/transcript.md) (2026-01-22)

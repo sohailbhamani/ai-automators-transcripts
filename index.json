@@ -1,10 +1,63 @@
 {
-  "total_videos": 22,
+  "total_videos": 23,
   "date_range": {
-    "newest": "2026-03-25",
+    "newest": "unknown",
     "oldest": "2025-11-13"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "YJCe8hvZrxs",
+      "youtube_url": "https://www.youtube.com/watch?v=YJCe8hvZrxs",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Salesforce",
+          "GitHub",
+          "Zapier",
+          "AWS",
+          "Azure"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Copilot",
+          "LangChain",
+          "Zapier",
+          "Make",
+          "n8n",
+          "MCP"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThree of the biggest players in AI have all made moves in the agent space over the last seven days"
+      ],
+      "transcript_chars": 22573,
+      "folder": "unknown-yjce8hvzrxs"
+    },
     {
       "title": "Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.",
       "video_id": "9d5bzxVsocw",

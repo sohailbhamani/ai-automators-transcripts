@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (8 episodes):
+Episodes discussing **Ai News** (9 episodes):
 
+- [Unknown](../episodes/unknown-yjce8hvzrxs/transcript.md) (unknown)
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent](../episodes/2026-03-07-anthropic-just-changed-how-agents-call-tools-i-stole-it-for-my-qwen35-agent/transcript.md) (2026-03-07)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
