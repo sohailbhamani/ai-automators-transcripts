@@ -2,7 +2,7 @@
 
 Episodes discussing **N8N** (9 episodes):
 
-- [Unknown](../episodes/unknown-yjce8hvzrxs/transcript.md) (unknown)
+- [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
 - [Unlock DEEP AGENTS with an Agent Harness in n8n](../episodes/2026-01-06-unlock-deep-agents-with-an-agent-harness-in-n8n/transcript.md) (2026-01-06)
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
