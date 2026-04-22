@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make."
 video_id: "YJCe8hvZrxs"
 youtube_url: "https://www.youtube.com/watch?v=YJCe8hvZrxs"
-publish_date: "unknown"
+publish_date: "2026-04-18"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
