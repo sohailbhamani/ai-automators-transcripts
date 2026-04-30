@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (11 episodes):
+Episodes discussing **Workflows** (12 episodes):
 
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -13,3 +13,4 @@ Episodes discussing **Workflows** (11 episodes):
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
 - [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)

@@ -1,6 +1,6 @@
 # Claude
 
-Episodes discussing **Claude** (14 episodes):
+Episodes discussing **Claude** (15 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -16,3 +16,4 @@ Episodes discussing **Claude** (14 episodes):
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
 - [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)

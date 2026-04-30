@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (7 episodes):
+Episodes discussing **Ai Strategy** (8 episodes):
 
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
@@ -9,3 +9,4 @@ Episodes discussing **Ai Strategy** (7 episodes):
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)

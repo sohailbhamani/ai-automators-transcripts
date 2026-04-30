@@ -1,8 +1,8 @@
 {
-  "total_videos": 23,
+  "total_videos": 24,
   "date_range": {
     "newest": "2026-04-18",
-    "oldest": "2025-11-13"
+    "oldest": ""
   },
   "videos": [
     {
@@ -1024,6 +1024,49 @@
       ],
       "transcript_chars": 22864,
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
+    },
+    {
+      "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
+      "video_id": "5p6h23Md4Zw",
+      "youtube_url": "https://www.youtube.com/watch?v=5p6h23Md4Zw",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "GitHub",
+          "Box",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# OpenAI Just Open Sourced Their Agent Orchestrator"
+      ],
+      "transcript_chars": 12452,
+      "folder": "undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer"
     }
   ]
 }
