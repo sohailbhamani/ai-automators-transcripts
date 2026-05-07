@@ -1,5 +1,5 @@
 {
-  "total_videos": 24,
+  "total_videos": 25,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1067,6 +1067,51 @@
       ],
       "transcript_chars": 12452,
       "folder": "undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer"
+    },
+    {
+      "title": "Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.",
+      "video_id": "0TPq43Wpbz0",
+      "youtube_url": "https://www.youtube.com/watch?v=0TPq43Wpbz0",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Microsoft",
+          "Box",
+          "Pinecone"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "MCP",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Is that the user is not actually defining this artifact schema"
+      ],
+      "summary": [
+        "There has been a growing number of rag is dead headlines online over the last 12 months with potential successors coming from every direction"
+      ],
+      "transcript_chars": 28560,
+      "folder": "undated-pinecone-just-admitted-rag-is-broken-heres-the-pattern-replacing-it"
     }
   ]
 }
