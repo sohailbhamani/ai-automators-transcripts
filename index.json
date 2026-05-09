@@ -1,5 +1,5 @@
 {
-  "total_videos": 25,
+  "total_videos": 26,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1067,6 +1067,46 @@
       ],
       "transcript_chars": 12452,
       "folder": "undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer"
+    },
+    {
+      "title": "OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.",
+      "video_id": "mmBddcUFltU",
+      "youtube_url": "https://www.youtube.com/watch?v=mmBddcUFltU",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "How do you build this feature into your own agentic system? and when should you actually use it? at a high level, dreaming is a scheduled background process that runs between your active sessions"
+      ],
+      "summary": [
+        "Antropic just announced a new feature in their managed agents called dreaming to help their agents self-improve over time"
+      ],
+      "transcript_chars": 9677,
+      "folder": "undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now"
     },
     {
       "title": "Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.",
