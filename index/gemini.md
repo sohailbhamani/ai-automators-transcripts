@@ -1,6 +1,6 @@
 # Gemini
 
-Episodes discussing **Gemini** (7 episodes):
+Episodes discussing **Gemini** (8 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
@@ -9,3 +9,4 @@ Episodes discussing **Gemini** (7 episodes):
 - [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
+- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he/transcript.md)

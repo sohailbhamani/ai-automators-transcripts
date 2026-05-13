@@ -1,5 +1,5 @@
 {
-  "total_videos": 26,
+  "total_videos": 27,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1024,6 +1024,61 @@
       ],
       "transcript_chars": 22864,
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
+    },
+    {
+      "title": "Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.",
+      "video_id": "T8EW3mD626E",
+      "youtube_url": "https://www.youtube.com/watch?v=T8EW3mD626E",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "GitHub",
+          "Hugging Face"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude 4",
+          "Gemini",
+          "Gemini 3",
+          "PaLM"
+        ]
+      },
+      "concepts": [
+        "Different ways an llm can edit a file"
+      ],
+      "summary": [
+        "# Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents",
+        "You need an opinionated harness"
+      ],
+      "transcript_chars": 24288,
+      "folder": "undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he"
     },
     {
       "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",

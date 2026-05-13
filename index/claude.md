@@ -1,6 +1,6 @@
 # Claude
 
-Episodes discussing **Claude** (17 episodes):
+Episodes discussing **Claude** (18 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -16,6 +16,7 @@ Episodes discussing **Claude** (17 episodes):
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
 - [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
+- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he/transcript.md)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now/transcript.md)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/undated-pinecone-just-admitted-rag-is-broken-heres-the-pattern-replacing-it/transcript.md)
