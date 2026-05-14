@@ -1,5 +1,5 @@
 {
-  "total_videos": 27,
+  "total_videos": 28,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1024,6 +1024,49 @@
       ],
       "transcript_chars": 22864,
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
+    },
+    {
+      "title": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do",
+      "video_id": "6X2g4alL250",
+      "youtube_url": "https://www.youtube.com/watch?v=6X2g4alL250",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "GPT-5",
+          "Claude",
+          "Gemini",
+          "Opus"
+        ],
+        "models": [
+          "GPT-5",
+          "Claude 4",
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do\nLast month, Microsoft researchers published a paper that proves that even the best LLMs consistently corrupt documents when you deleg"
+      ],
+      "transcript_chars": 2116,
+      "folder": "undated-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do"
     },
     {
       "title": "Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.",
