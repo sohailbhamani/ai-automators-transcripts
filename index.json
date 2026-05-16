@@ -1,5 +1,5 @@
 {
-  "total_videos": 28,
+  "total_videos": 29,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1024,6 +1024,48 @@
       ],
       "transcript_chars": 22864,
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
+    },
+    {
+      "title": "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.",
+      "video_id": "0pkj4FRaKHw",
+      "youtube_url": "https://www.youtube.com/watch?v=0pkj4FRaKHw",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Apple"
+        ],
+        "people": [],
+        "products": [
+          "GPT-4",
+          "GPT-5",
+          "Make"
+        ],
+        "models": [
+          "GPT-4",
+          "GPT-5"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute"
+      ],
+      "transcript_chars": 12310,
+      "folder": "undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e"
     },
     {
       "title": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do",

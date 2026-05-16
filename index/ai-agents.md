@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (25 episodes):
+Episodes discussing **Ai Agents** (26 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -23,6 +23,7 @@ Episodes discussing **Ai Agents** (25 episodes):
 - [Build Database Agents That Get Smarter With Every Query (n8n)](../episodes/2025-12-04-build-database-agents-that-get-smarter-with-every-query-n8n/transcript.md) (2025-12-04)
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
 - [9 Essential RAG Design Patterns You NEED to Know](../episodes/2025-11-20-9-essential-rag-design-patterns-you-need-to-know/transcript.md) (2025-11-20)
+- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he/transcript.md)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now/transcript.md)
