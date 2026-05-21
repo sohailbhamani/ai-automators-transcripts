@@ -20,7 +20,6 @@ against the 10,000 unit daily quota.
 
 import json
 import os
-import sys
 import time
 import urllib.error
 import urllib.parse
