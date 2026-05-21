@@ -1,5 +1,5 @@
 {
-  "total_videos": 39,
+  "total_videos": 44,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1403,6 +1403,202 @@
       ],
       "transcript_chars": 30079,
       "folder": "2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n"
+    },
+    {
+      "title": "n8n + Redis \ud83d\udd25Worker Queue BEAST Mode",
+      "video_id": "jHlEj2yuY5Y",
+      "youtube_url": "https://www.youtube.com/watch?v=jHlEj2yuY5Y",
+      "publish_date": "2025-09-29",
+      "duration": "0:32",
+      "duration_seconds": 32,
+      "view_count": 14265,
+      "author": "The AI Automators",
+      "description": "\u26a1 97% performance boost with n8n worker queues... We spent 100 hours optimizing and the results speak for themselves: \n\n\u2192 100 files/hour to 5,000 files/hour \n\u2192 Total time: 26s to 0.7s per file \n\u2192 10GB data processed with 250K vector chunks \n\nThe game changer? \n\nRedis worker queues with 4 workers handling 40 files concurrently. \n\nParallel processing cut our total processing time by 97% \ud83c\udfaf \n\nThis is what real optimization looks like. \n\n#ai  #chatbots  #automation  #aiagents  #n8n  #rag\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# n8n + Redis \ud83d\udd25Worker Queue BEAST Mode\nWe just spent 100 hours scaling and tuning our AI workflow and achieved a 97% performance improvement"
+      ],
+      "transcript_chars": 476,
+      "folder": "2025-09-29-n8n-redis-worker-queue-beast-mode"
+    },
+    {
+      "title": "\ud83d\ude80 We Made Our n8n Workflow 97% FASTER - Here's How",
+      "video_id": "4-ir-6pgQ14",
+      "youtube_url": "https://www.youtube.com/watch?v=4-ir-6pgQ14",
+      "publish_date": "2025-09-24",
+      "duration": "0:42",
+      "duration_seconds": 42,
+      "view_count": 12339,
+      "author": "The AI Automators",
+      "description": "Most people think adding more resources = better performance... they're WRONG \u274c\n\n\u2705 Check execution logs for actual bottlenecks (not guessing!)\n\u2705 More workers can actually make it SLOWER\n\u2705 Sometimes you need to ditch official APIs and go direct to source\n\nOur Result: 97% speed improvement with parallel processing \ud83d\udd25\n\nThis breakthrough came after 100+ hours of scaling and tuning our N8N RAG workflows. The optimization rabbit hole goes deep!\n\nWhat's your biggest N8N bottleneck? Drop it in the comments \ud83d\udc47\n#n8n #rag #ai #aiagents #performance\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# \ud83d\ude80 We Made Our n8n Workflow 97% FASTER - Here's How\nSo, your N8 workflow is slow"
+      ],
+      "transcript_chars": 761,
+      "folder": "2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how"
+    },
+    {
+      "title": "We Unlocked n8n's BEAST Mode (5,000 Files/Hour)",
+      "video_id": "mJw4MJRGt24",
+      "youtube_url": "https://www.youtube.com/watch?v=mJw4MJRGt24",
+      "publish_date": "2025-09-22",
+      "duration": "25:36",
+      "duration_seconds": 1536,
+      "view_count": 6958,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=tuning_scaling_n8n\n\nMost people build RAG systems in n8n that work great for a couple of hundred files, but completely fall apart when you try to scale to thousands or more. \n\nProcessing files one-by-one, crashing servers, and waiting hours for imports \u2014 sound familiar?\n\nIn this deep-dive tutorial, I'll take you through our 100-hour journey of scaling our n8n RAG workflow from 100 files/hour to 5,000 files/hour \u2014 a 97% improvement in processing speed. \n\nWe processed 10GB of data with 250,000 chunks and broke everything along the way (n8n, Supabase, even Google Drive), so you don't have to.\n\n\ud83d\udd17 Related Links & Resources:\nAlan's Orchestrator Video: https://www.youtube.com/watch?v=sn0SjjkRhxI\nn8n Scaling Documentation: https://docs.n8n.io/hosting/scaling/\nRailway n8n Template: https://railway.com/\nn8n Workers Live Stream: https://www.youtube.com/watch?v=PnoE0xV8BX8\n\nWhat You'll Learn:\n\u2705 How to systematically benchmark and find bottlenecks in complex n8n workflows\n\u2705 The difference between vertical and horizontal scaling for n8n\n\u2705 Setting up n8n workers and Redis queuing for parallel processing\n\u2705 Building a resilient orchestrator with automatic retry logic\n\u2705 When to bypass APIs and go direct to databases (Supabase \u2192 PostgreSQL)\n\u2705 Infrastructure decisions: Railway, self-hosting, and resource allocation\n\u2705 The 7-step systematic approach to workflow optimization\n\nTimestamps:\n00:00 The Approach\n04:20 Tuning - Increase Batches Sizes\n08:29 Tuning - Optimizing Vector Store\n11:16 Scaling Infrastructure\n16:03 The Orchestrator\n18:04 Scaling & Further Tuning\n21:45 Lessons Learned\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Mistral"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n",
+          "Canvas"
+        ],
+        "models": [
+          "Mistral"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# We Unlocked n8n's BEAST Mode (5,000 Files/Hour)\nWe just spent 100 hours tuning and scaling our N8N rag workflows"
+      ],
+      "transcript_chars": 28064,
+      "folder": "2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour"
+    },
+    {
+      "title": "The KEY to Infinitely Scale Your n8n RAG Agents",
+      "video_id": "sn0SjjkRhxI",
+      "youtube_url": "https://www.youtube.com/watch?v=sn0SjjkRhxI",
+      "publish_date": "2025-09-17",
+      "duration": "31:37",
+      "duration_seconds": 1897,
+      "view_count": 5819,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=infinitely_scale_rag_workflows\n\nhttps://www.youtube.com/watch?v=75lwkzFxyLs\n\nChapters:\n0:00 - Overview\n0:41 - The Scaling Challenge\n2:25 - The Approach\n3:06 - Demo and High-Level Overview\n8:15 - Building the Orchestrator\n17:33 - Webhooks vs. Subworkflows\n20:16 - Adapting the Ingestion Workflow\n22:30 - Error handler workflow\n24:17 - Key Scaling Lessons\n29:51 - Managing Supabase Infrastructure\n30:12 - Next Steps\n\nImporting a small amount of files into your n8n RAG system is easy, but scaling it to 1,000s of files is challenging. In this tutorial, you'll learn how to scale your n8n workflows to reliably process thousands of files per hour using an orchestrator pattern. From handling parallel executions to retrying failed jobs and preventing crashes, we cover it all.\n\nWe start by breaking down common scaling issues: slow imports, memory overloads, API rate limits (e.g. OpenAI, Supabase), and system instability. Then we show you how to build an orchestrator workflow that:\n- Executes ingestion flows in parallel batches\n- Uses Supabase to track parent/child executions\n- Handles errors with automated retries\n- Avoids overloading your n8n instance or external APIs\n- Delivers massive throughput at high reliability\n\nYou'll see a full demo of this in action, processing documents in batches of 50, moving files with SFTP, and coordinating via webhook calls rather than sub-workflows (which significantly improves performance, while making tracking executions possible).\n\nYou\u2019ll also learn:\n- How to restructure your RAG ingestion workflow to receive input via webhook triggers\n- Why we're using webhooks instead of Execute Workflow nodes in this workflow\n- How to prevent database bloat by disabling execution logging for successful runs\n- The importance of layered error handling\n- Key Supabase configuration tips for scaling compute and storage\n- The top 5 lessons learned from scaling n8n to 5,000 file ingestions per hour\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Is that when an execution is successful, then it does not get saved in the execution history like you see over here and it does not bloat out the database with lots of additional data",
+        "I've created a separate error handler workflow"
+      ],
+      "summary": [
+        "# The KEY to Infinitely Scale Your n8n RAG Agents\nImporting a small amount of files into your Nitn Rag system is easy, but things can get really tricky when you want to start scaling things up",
+        "That when an execution is successful, then it does not get saved in the execution history like you see over here and it does not bloat out the database with lots of additional data"
+      ],
+      "transcript_chars": 35821,
+      "folder": "2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents"
+    },
+    {
+      "title": "The SMARTER Way to Build RAG Agents (n8n + DeepEval)",
+      "video_id": "eNkEA7Lqm_s",
+      "youtube_url": "https://www.youtube.com/watch?v=eNkEA7Lqm_s",
+      "publish_date": "2025-09-04",
+      "duration": "29:28",
+      "duration_seconds": 1768,
+      "view_count": 10715,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our fully-fledged n8n DeepEval System and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=deepeval\n\nMost people \"vibe test\" their AI agents in n8n \u2014 throw in random prompts, tweak the system prompt, swap models, and hope for the best. But that approach quickly turns into a game of whack-a-mole where fixing one problem creates another.\n\nIn this tutorial, I\u2019ll show you how to evaluate AI agents like a pro. Using DeepEval, one of the most popular open-source AI evaluation frameworks (10k+ GitHub stars), we\u2019ll set up a full testing system you can run directly from n8n \u2014 with proper datasets, metrics, and automated test runs.\n\n\ud83d\udd17 Related Links & Resources:\nDeepEval Wrapper Repo: https://github.com/theaiautomators/deepeval-wrapper\nDeepEval on GitHub: https://github.com/confident-ai/deepeval\nRender Free Tier: https://render.com/\n\n\ud83d\udea8 Stop guessing if your changes are improvements. Start using hard metrics to build reliable AI systems.\n\nWhat You\u2019ll Learn:\n\u2705 Why every serious AI project needs an evaluation dataset\n\u2705 How to define in-scope vs out-of-scope queries\n\u2705 Deploying DeepEval on Render (free tier)\n\u2705 Connecting DeepEval to n8n via API\n\u2705 Running tests with 40+ built-in metrics (faithfulness, answer relevancy, contextual relevancy, etc.)\n\u2705 Using custom G-Eval metrics for domain-specific accuracy\n\u2705 Logging results in Airtable\n\u2705 Generating synthetic test cases from your documents\n\nTimestamps:\n00:00 Intro\n03:27 Concept\n06:09 Datasets\n08:11 Benefits\n10:52 DeepEval\n13:44 API Setup on Render\n16:23 Testing Metrics in n8n\n21:33 End to End Test Runs\n26:22 Generating Synthetic Test Cases\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Notion",
+          "GitHub",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n",
+          "OpenAI API",
+          "Canvas"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "It means that you can carry out changes to your system with confidence with hard metrics telling you if things are going in the right direction or not",
+        "Dpv val comes with 40 readytouse metrics that you can plug into your system to start evaluating straight away"
+      ],
+      "summary": [
+        "# The SMARTER Way to Build RAG Agents (n8n + DeepEval)\nYou know the drill"
+      ],
+      "transcript_chars": 32437,
+      "folder": "2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval"
     },
     {
       "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",

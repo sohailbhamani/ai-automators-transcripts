@@ -1,6 +1,6 @@
 # Google
 
-Episodes discussing **Google** (18 episodes):
+Episodes discussing **Google** (22 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -17,6 +17,10 @@ Episodes discussing **Google** (18 episodes):
 - [800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)](../episodes/2025-11-10-800-hours-of-learning-rag-agentic-design-in-42-mins-n8n-masterclass/transcript.md) (2025-11-10)
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [🚀 We Made Our n8n Workflow 97% FASTER - Here's How](../episodes/2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how/transcript.md) (2025-09-24)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
+- [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)
 - [Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do](../episodes/2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do/transcript.md)

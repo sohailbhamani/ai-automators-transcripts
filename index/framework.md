@@ -1,6 +1,6 @@
 # Framework
 
-Episodes discussing **Framework** (9 episodes):
+Episodes discussing **Framework** (11 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -10,4 +10,6 @@ Episodes discussing **Framework** (9 episodes):
 - [Dense vs Sparse Embeddings in RAG Systems](../episodes/2025-10-16-dense-vs-sparse-embeddings-in-rag-systems/transcript.md) (2025-10-16)
 - [80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG](../episodes/2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag/transcript.md) (2025-10-15)
 - [Think Your RAG Agent is Hallucinating? You Might Be Wrong](../episodes/2025-10-07-think-your-rag-agent-is-hallucinating-you-might-be-wrong/transcript.md) (2025-10-07)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
 - [Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do](../episodes/2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do/transcript.md)

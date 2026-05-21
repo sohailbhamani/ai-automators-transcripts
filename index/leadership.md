@@ -1,6 +1,6 @@
 # Leadership
 
-Episodes discussing **Leadership** (18 episodes):
+Episodes discussing **Leadership** (21 episodes):
 
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Automate Anything With Claude Cowork (Full Guide)](../episodes/2026-02-19-automate-anything-with-claude-cowork-full-guide/transcript.md) (2026-02-19)
@@ -18,5 +18,8 @@ Episodes discussing **Leadership** (18 episodes):
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
 - [Think Your RAG Agent is Hallucinating? You Might Be Wrong](../episodes/2025-10-07-think-your-rag-agent-is-hallucinating-you-might-be-wrong/transcript.md) (2025-10-07)
 - [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
+- [n8n + Redis 🔥Worker Queue BEAST Mode](../episodes/2025-09-29-n8n-redis-worker-queue-beast-mode/transcript.md) (2025-09-29)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)

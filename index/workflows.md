@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (19 episodes):
+Episodes discussing **Workflows** (24 episodes):
 
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -16,6 +16,11 @@ Episodes discussing **Workflows** (19 episodes):
 - [80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG](../episodes/2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag/transcript.md) (2025-10-15)
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
 - [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
+- [n8n + Redis 🔥Worker Queue BEAST Mode](../episodes/2025-09-29-n8n-redis-worker-queue-beast-mode/transcript.md) (2025-09-29)
+- [🚀 We Made Our n8n Workflow 97% FASTER - Here's How](../episodes/2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how/transcript.md) (2025-09-24)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
+- [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

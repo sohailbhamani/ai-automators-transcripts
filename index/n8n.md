@@ -1,6 +1,6 @@
 # N8N
 
-Episodes discussing **N8N** (13 episodes):
+Episodes discussing **N8N** (18 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
@@ -15,3 +15,8 @@ Episodes discussing **N8N** (13 episodes):
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
 - [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
+- [n8n + Redis 🔥Worker Queue BEAST Mode](../episodes/2025-09-29-n8n-redis-worker-queue-beast-mode/transcript.md) (2025-09-29)
+- [🚀 We Made Our n8n Workflow 97% FASTER - Here's How](../episodes/2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how/transcript.md) (2025-09-24)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
+- [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)

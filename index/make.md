@@ -1,6 +1,6 @@
 # Make
 
-Episodes discussing **Make** (26 episodes):
+Episodes discussing **Make** (30 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -23,6 +23,10 @@ Episodes discussing **Make** (26 episodes):
 - [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [🚀 We Made Our n8n Workflow 97% FASTER - Here's How](../episodes/2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how/transcript.md) (2025-09-24)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
+- [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)

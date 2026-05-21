@@ -1,6 +1,6 @@
 # Mistral
 
-Episodes discussing **Mistral** (7 episodes):
+Episodes discussing **Mistral** (8 episodes):
 
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)
 - [The Problem With Vision Language Models](../episodes/2026-01-22-the-problem-with-vision-language-models/transcript.md) (2026-01-22)
@@ -9,3 +9,4 @@ Episodes discussing **Mistral** (7 episodes):
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
 - [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
 - [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
+- [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
