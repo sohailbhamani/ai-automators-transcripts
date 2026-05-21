@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (13 episodes):
+Episodes discussing **Ai Strategy** (15 episodes):
 
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
@@ -12,6 +12,8 @@ Episodes discussing **Ai Strategy** (13 episodes):
 - [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
 - [5 Advanced RAG Context Expansion Techniques](../episodes/2025-10-21-5-advanced-rag-context-expansion-techniques/transcript.md) (2025-10-21)
 - [Dense vs Sparse Embeddings in RAG Systems](../episodes/2025-10-16-dense-vs-sparse-embeddings-in-rag-systems/transcript.md) (2025-10-16)
+- [80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG](../episodes/2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag/transcript.md) (2025-10-15)
+- [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

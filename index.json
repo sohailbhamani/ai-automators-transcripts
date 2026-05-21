@@ -1,5 +1,5 @@
 {
-  "total_videos": 34,
+  "total_videos": 39,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1222,6 +1222,187 @@
       ],
       "transcript_chars": 800,
       "folder": "2025-10-16-dense-vs-sparse-embeddings-in-rag-systems"
+    },
+    {
+      "title": "80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG",
+      "video_id": "2kSKc9Bpv8M",
+      "youtube_url": "https://www.youtube.com/watch?v=2kSKc9Bpv8M",
+      "publish_date": "2025-10-15",
+      "duration": "0:32",
+      "duration_seconds": 32,
+      "view_count": 5746,
+      "author": "The AI Automators",
+      "description": "80 to 90% of all enterprise data is in unstructured format. We're talking about PDFs, Word documents, emails, meeting transcripts.\n\nBy and large, this can be very messy data.\n\nWith RAG systems, it's garbage in, garbage out. So it's crucial that you preprocess your data using techniques like OCR and metadata extraction to represent that data cleanly in your vector stores.\n\nThis is the difference between a clean proof of concept and the messy reality of a production RAG system.\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG\n80 to 90% of all data in enterprise is in unstructured formats"
+      ],
+      "transcript_chars": 496,
+      "folder": "2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag"
+    },
+    {
+      "title": "This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)",
+      "video_id": "y72TrpffdSk",
+      "youtube_url": "https://www.youtube.com/watch?v=y72TrpffdSk",
+      "publish_date": "2025-10-13",
+      "duration": "34:35",
+      "duration_seconds": 2075,
+      "view_count": 22181,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our n8n Context Expansion engine and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=context_expansion\n\nYour RAG agent is probably lying to you.\n\nNot because it's hallucinating \u2014 but because it's making decisions with incomplete information. \n\nVector search returns isolated chunks, but strips away the document structure that gives those chunks meaning.\n\nYour agent sees \"tennis elbow is covered by the insurance policy\" but has no idea it's reading from the Policy Exclusions section. \n\nThat's the fundamental problem with RAG systems: lost context.\n\nIn this video, I'll show you how to solve it with Context Expansion \u2014 the ability for your AI agent to intelligently retrieve sections, subsections, or entire documents based on document structure, not just isolated chunks.\n\nWe built 5 different context expansion approaches in n8n:\n\n\u2705 Full Document Expansion \u2014 Load the entire file when chunks point to the right doc\n\u2705 Neighbor Expansion \u2014 Fetch chunks before and after the candidate chunk\n\u2705 Section Expansion \u2014 Pull complete sections based on markdown headings\n\u2705 Parent Expansion \u2014 Retrieve everything under a parent heading\n\u2705 Agentic Expansion \u2014 Use document hierarchy to navigate and fetch multiple sections\n\nThe secret? \n\nA custom chunking system that extracts document structure, maps it to chunk indexes, and injects contextual metadata \u2014 so your agent always knows where it is in the document.\n\n\ud83d\udd17 Related Links & Resources:\n\nContextual Embeddings Deep Dive: https://www.youtube.com/watch?v=61dvzowuIlA\nRAG at Scale Tutorial: https://www.youtube.com/watch?v=mJw4MJRGt24\nMarkdown Splitting Guide: https://python.langchain.com/docs/how_to/markdown_header_metadata_splitter/\n\nWhat You'll Learn:\n\u2705 Why vector search alone causes RAG hallucinations\n\u2705 The 5 approaches to context expansion (and when to use each)\n\u2705 How to extract and map document structure to chunk indexes\n\u2705 Building smart markdown chunking in n8n (headings first, then recursive split)\n\u2705 Using Supabase edge functions for dynamic context retrieval\n\u2705 Injecting contextual snippets without per-chunk LLM calls\n\u2705 Creating document hierarchies that agents can navigate\n\u2705 Tracking page numbers for traceability\n\nTimestamps:\n00:00 Demo\n04:16 The Problem\n07:06 Option 1: Full Document Expansion\n13:19 Option 2: Neighbor Expansion\n16:09 Option 3&4: Section & Parent Expansion\n28:53 Option 5: Agentic Expansion\n\nThis isn't just theory \u2014 this is production-grade context expansion that reduces hallucinations, delivers comprehensive answers, and scales without burning through LLM costs.\n\nIf you want accurate RAG systems, context expansion isn't optional. It's essential.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Box",
+          "Mistral"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Mistral"
+        ]
+      },
+      "concepts": [
+        "We're getting back doc id and that's the unique identifier"
+      ],
+      "summary": [
+        "# This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)\nThe biggest reason rag agents fail is that they can't see the big picture"
+      ],
+      "transcript_chars": 36425,
+      "folder": "2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n"
+    },
+    {
+      "title": "Think Your RAG Agent is Hallucinating? You Might Be Wrong",
+      "video_id": "uiI3oE-ap1s",
+      "youtube_url": "https://www.youtube.com/watch?v=uiI3oE-ap1s",
+      "publish_date": "2025-10-07",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 9332,
+      "author": "The AI Automators",
+      "description": "So your RAG agent gives you a wrong answer, and you might assume that it's hallucinating, but you might be diagnosing the wrong problem.\n\nHallucinations are when an AI model makes things up, whereas faithfulness means it's trusting bad data coming from the knowledge base.\n\nMaybe the documents retrieved from the vector store had errors, or chunking cut off some crucial context.\n\nIn this case, the AI is actually being faithful to the bad data.\n\nSo it's important that you test faithfulness separately from accuracy, that way you can fix the source of the problem, and not just assume the model is making things up. #AI #Chatbots #Automation #AIAgent #n8n #rag\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "You Might Be Wrong\nSo, your rag agent gives you a wrong answer"
+      ],
+      "transcript_chars": 612,
+      "folder": "2025-10-07-think-your-rag-agent-is-hallucinating-you-might-be-wrong"
+    },
+    {
+      "title": "The SMARTER Way to Evaluate AI Agents",
+      "video_id": "-WySHF4FCEE",
+      "youtube_url": "https://www.youtube.com/watch?v=-WySHF4FCEE",
+      "publish_date": "2025-10-04",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 10917,
+      "author": "The AI Automators",
+      "description": "When you\u2019re testing AI agents, think of it like a basketball court. Green shots are correct answers, red shots are misses. But here\u2019s what most people miss: the boundaries are more important than the shots. Your agent might answer a general knowledge question, but if you\u2019re building an ecommerce bot that is irrelevant and out of bounds. The pros do not waste time evaluating out-of-bounds answers. They map the entire court first, then practice those shots systematically to improve their AI agent.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The SMARTER Way to Evaluate AI Agents\nWhen you're testing AI agents, you should think of it like a basketball court"
+      ],
+      "transcript_chars": 529,
+      "folder": "2025-10-04-the-smarter-way-to-evaluate-ai-agents"
+    },
+    {
+      "title": "Your RAG Agent Needs a Hybrid Search Engine (n8n)",
+      "video_id": "FgUJ2kzhmKQ",
+      "youtube_url": "https://www.youtube.com/watch?v=FgUJ2kzhmKQ",
+      "publish_date": "2025-10-01",
+      "duration": "28:44",
+      "duration_seconds": 1724,
+      "view_count": 18520,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our n8n Hybrid RAG Search Engine and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=dynamic_hybrid_search\n\nMost RAG tutorials stop at vectors. But if you\u2019ve ever tried to search for product codes, IDs, or buried details inside messy PDFs, you know that vectors alone just don\u2019t cut it.\n\nDense embeddings miss exact matches. Sparse retrieval gets messy with tokenization. And your AI agent ends up hallucinating when it can\u2019t find the right chunk.\n\nThat\u2019s why we built a Hybrid RAG Search Engine in n8n \u2014 combining:\n\nDense embeddings (semantic search)\nSparse retrieval (BM25, lexical search)\nPattern matching (wildcards, trigrams, fuzzy search)\n\nAnd we made it dynamic \u2014 the AI agent can shift retrieval weights depending on the type of question. Codes and IDs? Pattern matching wins. Conceptual queries? Dense embeddings dominate.\n\nIn this video, I\u2019ll walk you through exactly how we built it using Supabase, Pinecone, and n8n \u2014 and why you should never rely on vectors alone for serious RAG systems.\n\n\ud83d\udd17 Related Links & Resources:\nHybrid Search Tutorial: https://www.youtube.com/watch?v=2-6ckhW3Hmo\nSupabase Full Text Search: https://supabase.com/docs/guides/ai/hybrid-search\nPinecone Sparse Retrieval: https://www.pinecone.io/learn/sparse-retrieval/\n\nWhat You\u2019ll Learn:\n\u2705 Why dense embeddings fail for exact matches like product codes\n\u2705 How sparse retrieval (BM25 / lexical search) really works\n\u2705 Using pattern matching (wildcards, trigrams, fuzzy search) as a fallback\n\u2705 How to dynamically weight different retrieval methods inside an AI agent\n\u2705 Building a Hybrid RAG Search Engine with n8n + Supabase + Pinecone\n\u2705 How Reciprocal Rank Fusion (RRF) combines multiple search results\n\nTimestamps:\n00:00 Why Vectors Aren\u2019t Enough\n06:15 Dense Vector Embeddings\n10:10 Sparse Lexical Retrieval\n21:20 Pattern-Based Retrieval\n26:07 Dynamic Hybrid Search\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Box",
+          "Mistral"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "n8n",
+          "Operator"
+        ],
+        "models": [
+          "Gemini",
+          "Mistral"
+        ]
+      },
+      "concepts": [
+        "An information retrieval challenge"
+      ],
+      "summary": [
+        "# Your RAG Agent Needs a Hybrid Search Engine (n8n)\nBuilding an effective rag agent is fundamentally an information retrieval challenge",
+        "These numbers capture the semantic meaning of the text"
+      ],
+      "transcript_chars": 30079,
+      "folder": "2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n"
     },
     {
       "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",

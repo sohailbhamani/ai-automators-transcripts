@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (16 episodes):
+Episodes discussing **Workflows** (19 episodes):
 
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -13,6 +13,9 @@ Episodes discussing **Workflows** (16 episodes):
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
 - [DEPLOY Fully Private + Local AI RAG Agents (Step by Step)](../episodes/2025-12-15-deploy-fully-private-local-ai-rag-agents-step-by-step/transcript.md) (2025-12-15)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
+- [80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG](../episodes/2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag/transcript.md) (2025-10-15)
+- [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

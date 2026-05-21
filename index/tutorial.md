@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (22 episodes):
+Episodes discussing **Tutorial** (25 episodes):
 
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
@@ -21,6 +21,9 @@ Episodes discussing **Tutorial** (22 episodes):
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
 - [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
+- [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [The SMARTER Way to Evaluate AI Agents](../episodes/2025-10-04-the-smarter-way-to-evaluate-ai-agents/transcript.md) (2025-10-04)
+- [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-/transcript.md)

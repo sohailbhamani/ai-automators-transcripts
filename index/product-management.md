@@ -1,6 +1,6 @@
 # Product Management
 
-Episodes discussing **Product Management** (22 episodes):
+Episodes discussing **Product Management** (25 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -19,6 +19,9 @@ Episodes discussing **Product Management** (22 episodes):
 - [800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)](../episodes/2025-11-10-800-hours-of-learning-rag-agentic-design-in-42-mins-n8n-masterclass/transcript.md) (2025-11-10)
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
 - [Dense vs Sparse Embeddings in RAG Systems](../episodes/2025-10-16-dense-vs-sparse-embeddings-in-rag-systems/transcript.md) (2025-10-16)
+- [80% of Enterprise Data is Unstructured - Here's Why That Breaks RAG](../episodes/2025-10-15-80-of-enterprise-data-is-unstructured-heres-why-that-breaks-rag/transcript.md) (2025-10-15)
+- [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)

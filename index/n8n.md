@@ -1,6 +1,6 @@
 # N8N
 
-Episodes discussing **N8N** (11 episodes):
+Episodes discussing **N8N** (13 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
@@ -13,3 +13,5 @@ Episodes discussing **N8N** (11 episodes):
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
 - [800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)](../episodes/2025-11-10-800-hours-of-learning-rag-agentic-design-in-42-mins-n8n-masterclass/transcript.md) (2025-11-10)
 - [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
+- [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
+- [Your RAG Agent Needs a Hybrid Search Engine (n8n)](../episodes/2025-10-01-your-rag-agent-needs-a-hybrid-search-engine-n8n/transcript.md) (2025-10-01)

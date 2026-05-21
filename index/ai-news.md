@@ -1,6 +1,6 @@
 # Ai News
 
-Episodes discussing **Ai News** (13 episodes):
+Episodes discussing **Ai News** (14 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
@@ -11,6 +11,7 @@ Episodes discussing **Ai News** (13 episodes):
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
+- [This RAG Trick Makes Your AI Agents WAY More Accurate (n8n)](../episodes/2025-10-13-this-rag-trick-makes-your-ai-agents-way-more-accurate-n8n/transcript.md) (2025-10-13)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do](../episodes/2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do/transcript.md)
