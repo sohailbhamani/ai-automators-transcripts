@@ -1,6 +1,6 @@
 # Mcp
 
-Episodes discussing **Mcp** (12 episodes):
+Episodes discussing **Mcp** (15 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -13,4 +13,7 @@ Episodes discussing **Mcp** (12 episodes):
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)
 - [Build Database Agents That Get Smarter With Every Query (n8n)](../episodes/2025-12-04-build-database-agents-that-get-smarter-with-every-query-n8n/transcript.md) (2025-12-04)
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
-- [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/undated-pinecone-just-admitted-rag-is-broken-heres-the-pattern-replacing-it/transcript.md)
+- [800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)](../episodes/2025-11-10-800-hours-of-learning-rag-agentic-design-in-42-mins-n8n-masterclass/transcript.md) (2025-11-10)
+- [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
+- [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
+- [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)

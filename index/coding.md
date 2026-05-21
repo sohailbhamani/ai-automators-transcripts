@@ -1,6 +1,6 @@
 # Coding
 
-Episodes discussing **Coding** (17 episodes):
+Episodes discussing **Coding** (18 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -14,8 +14,9 @@ Episodes discussing **Coding** (17 episodes):
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)
 - [Unlock DEEP AGENTS with Anthropic’s Agent Harness in n8n](../episodes/2025-12-18-unlock-deep-agents-with-anthropics-agent-harness-in-n8n/transcript.md) (2025-12-18)
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
-- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e/transcript.md)
-- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he/transcript.md)
-- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)
-- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now/transcript.md)
-- [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/undated-pinecone-just-admitted-rag-is-broken-heres-the-pattern-replacing-it/transcript.md)
+- [Dense vs Sparse Embeddings in RAG Systems](../episodes/2025-10-16-dense-vs-sparse-embeddings-in-rag-systems/transcript.md) (2025-10-16)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
+- [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
+- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
+- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)
+- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-/transcript.md)

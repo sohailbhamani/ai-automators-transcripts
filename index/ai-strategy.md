@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (10 episodes):
+Episodes discussing **Ai Strategy** (13 episodes):
 
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
@@ -9,6 +9,9 @@ Episodes discussing **Ai Strategy** (10 episodes):
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
-- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he/transcript.md)
-- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)
-- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now/transcript.md)
+- [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
+- [5 Advanced RAG Context Expansion Techniques](../episodes/2025-10-21-5-advanced-rag-context-expansion-techniques/transcript.md) (2025-10-21)
+- [Dense vs Sparse Embeddings in RAG Systems](../episodes/2025-10-16-dense-vs-sparse-embeddings-in-rag-systems/transcript.md) (2025-10-16)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
+- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
+- [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

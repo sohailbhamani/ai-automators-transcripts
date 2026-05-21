@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (19 episodes):
+Episodes discussing **Tutorials** (20 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -20,4 +20,5 @@ Episodes discussing **Tutorials** (19 episodes):
 - [Build Database Agents That Get Smarter With Every Query (n8n)](../episodes/2025-12-04-build-database-agents-that-get-smarter-with-every-query-n8n/transcript.md) (2025-12-04)
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
-- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e/transcript.md)
+- [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
+- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-/transcript.md)

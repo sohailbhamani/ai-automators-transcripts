@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (20 episodes):
+Episodes discussing **Tutorial** (22 episodes):
 
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
@@ -19,6 +19,8 @@ Episodes discussing **Tutorial** (20 episodes):
 - [Make Your AI Agents 10x Smarter with Hybrid Retrieval (n8n)](../episodes/2025-11-26-make-your-ai-agents-10x-smarter-with-hybrid-retrieval-n8n/transcript.md) (2025-11-26)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-24-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-24)
 - [Is Gemini File Search Actually a Game-Changer?](../episodes/2025-11-13-is-gemini-file-search-actually-a-game-changer/transcript.md) (2025-11-13)
-- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e/transcript.md)
-- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer/transcript.md)
-- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now/transcript.md)
+- [Neo4j + MCP - Chat to Your Graph Database](../episodes/2025-10-30-neo4j-mcp-chat-to-your-graph-database/transcript.md) (2025-10-30)
+- [UNLOCK the Power of Graph Agents with Neo4J and n8n](../episodes/2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n/transcript.md) (2025-10-23)
+- [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
+- [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
+- [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-/transcript.md)

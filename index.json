@@ -1,5 +1,5 @@
 {
-  "total_videos": 29,
+  "total_videos": 34,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1026,9 +1026,207 @@
       "folder": "2025-11-13-is-gemini-file-search-actually-a-game-changer"
     },
     {
-      "title": "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.",
-      "video_id": "0pkj4FRaKHw",
-      "youtube_url": "https://www.youtube.com/watch?v=0pkj4FRaKHw",
+      "title": "800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)",
+      "video_id": "HAFqyN7RExc",
+      "youtube_url": "https://www.youtube.com/watch?v=HAFqyN7RExc",
+      "publish_date": "2025-11-10",
+      "duration": "42:03",
+      "duration_seconds": 2523,
+      "view_count": 23727,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our advanced RAG workflows and learn how to implement these patterns in n8n, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=design_patterns\n\nThere's no one-size-fits-all approach to RAG \u2013 and choosing the wrong pattern from the start sets you up to fail.\n\nIn this comprehensive deep-dive, you'll learn the 9 essential RAG design patterns that cover every use case, from basic naive RAG to state-of-the-art multi-agent systems. \n\nI'll show you exactly when to use each pattern, why your model selection dictates your entire system design, and how to balance the critical trade-offs between intelligence, speed, and cost.\n\n\ud83c\udfaf What You'll Master:\n\n\u2705 Why model selection (small vs frontier LLMs) fundamentally shapes your RAG architecture\n\u2705 How to match RAG patterns to your specific use case priorities\n\u2705 When to prioritize speed vs accuracy vs cost in your system design\n\u2705 9 complete RAG design patterns with real n8n implementations\n\u2705 Advanced multi-agent orchestration strategies\n\u2705 Query routing, transformation, RAG fusion and verification techniques\n\u2705 How to avoid the pitfalls that make RAG systems unreliable\n\n\ud83d\udca1 Real-World Use Cases Covered:\n1. Customer-Facing Chatbot - Lightning-fast responses with query routing and answer verification\n2. AI Assistant/Co-Pilot - Deep accuracy for legal departments with iterative retrieval\n3. AI Automation - Background RAG systems embedded in content workflows\n4. Fully Local RAG - Resource-constrained systems with optimal model selection\n\n\ud83d\udccb The 9 RAG Design Patterns:\n\n1. Naive RAG - The foundation (and why it's rarely enough)\n2. Query Transformation, RAG Fusion & Verify Answer - Ensuring grounded, accurate responses\n3. Iterative Retrieval - When one pass isn't enough\n4. Adaptive Retrieval - Dynamic decision-making for retrieval\n5. Agentic RAG - Non-deterministic systems with control over retrieval.\n6. Hybrid RAG - Systems that can retrieve from different types of knowledgebases (graph, structured, semantic etc)  \n7. Multi-Agent RAG with Sub-Agents - Distributing cognitive load\n8. Multi-Agent RAG with Sequential Chaining - Specialized agents in deterministic flows\n9. Multi-Agent RAG with Routing - Intelligent query distribution\nPlus bonus coverage of: Self-RAG, CorrectiveRAG, Guardrails, Human-in-the-Loop, Context Expansion, and Deep RAG patterns!\n\n\ud83d\udd17 Useful Links:\nContext Expansion Video: https://www.youtube.com/watch?v=y72TrpffdSk\nRAG at Scale Video: https://www.youtube.com/watch?v=sn0SjjkRhxI&t=285s\nDynamic Hybrid Search: https://www.youtube.com/watch?v=FgUJ2kzhmKQ&t=613s\n\n\u23f1\ufe0f Timestamps:\n00:00 - Intro\n02:48 - Use Cases & Priorities\n07:21 - 1. Naive RAG\n10:13 - 2. Query Transformation & Verify Answer\n19:48 - 3. Iterative Retrieval\n21:14 - 4. Adaptive Retrieval\n25:25 - 5-6. Agentic + Hybrid RAG\n31:24 - 7. Multi-Agent RAG with Sub-Agent\n36:10 - 8. Multi-Agent RAG with Sequential Chaining\n38:28 - 9. Multi-Agent RAG with Routing\n40:02 - Bonus: Other Patterns\n\n\ud83d\udcac Questions or Comments?\nDrop them below! I read every comment and love hearing about what RAG systems you're building and which patterns work best for your use cases.\n\n\ud83d\udce2 If you found this valuable:\n\ud83d\udc4d Like this video\n\ud83d\udd14 Subscribe for more advanced AI automation content\n\ud83d\udce4 Share with someone building RAG systems\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "Slack",
+          "Perplexity",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Perplexity",
+          "Make",
+          "n8n",
+          "MCP",
+          "Sonnet"
+        ],
+        "models": [
+          "Claude 4",
+          "Claude Sonnet",
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 2"
+        ]
+      },
+      "concepts": [
+        "Is you have the ability to load up an entire document into context if the query actually requires it"
+      ],
+      "summary": [
+        "# 800+ Hours of Learning RAG + Agentic Design in 42 mins (n8n Masterclass)\nThere's no one-sizefits-all approach when it comes to building rag systems",
+        "You have the ability to load up an entire document into context if the query actually requires it"
+      ],
+      "transcript_chars": 42975,
+      "folder": "2025-11-10-800-hours-of-learning-rag-agentic-design-in-42-mins-n8n-masterclass"
+    },
+    {
+      "title": "Neo4j + MCP - Chat to Your Graph Database",
+      "video_id": "k-EVFzm8zI8",
+      "youtube_url": "https://www.youtube.com/watch?v=k-EVFzm8zI8",
+      "publish_date": "2025-10-30",
+      "duration": "0:54",
+      "duration_seconds": 54,
+      "view_count": 16161,
+      "author": "The AI Automators",
+      "description": "Knowledge Graphs are incredibly powerful. However, learning complex query languages like Cypher has always been a steep barrier to entry.\n\nAll of that is history now, thanks to Neo4j, MCP and Claude desktop.\n\nYou can now literally chat to your graph database using natural language. You could say \"give me a list of all orders from Michael Chen along with any open support tickets.\"\n\nThe AI automatically generates the Cypher query, executes it against the graph database, and returns the results in plain English.\n\nAnd if it gets the query wrong, it can correct itself and try again.\n\nCypher is quite a readable language, so you get to view and approve each query to make sure nothing goes off track. You can always set up a read-only user to ensure it does not do anything destructive.\n\nThe AI uses the MCP server to interact with and understand the graph schema to dynamically create queries.\n\nThis completely removes the barrier to entry for those working with knowledge graphs.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Neo4j + MCP - Chat to Your Graph Database\nKnowledge graphs are incredibly powerful"
+      ],
+      "transcript_chars": 1015,
+      "folder": "2025-10-30-neo4j-mcp-chat-to-your-graph-database"
+    },
+    {
+      "title": "UNLOCK the Power of Graph Agents with Neo4J and n8n",
+      "video_id": "MUN1eAlL0lc",
+      "youtube_url": "https://www.youtube.com/watch?v=MUN1eAlL0lc",
+      "publish_date": "2025-10-23",
+      "duration": "38:48",
+      "duration_seconds": 2328,
+      "view_count": 31362,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our n8n GraphAgent workflows and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=graph_agents\n\nUnlock the true potential of AI agents by giving them the power to understand and navigate complex data relationships. \n\nIn this comprehensive tutorial, you'll learn how to build knowledge graph-powered AI agents that can intelligently traverse your data to retrieve exactly what you need.\n\n\ud83c\udfaf What You'll Learn:\n\u2705 What knowledge graphs are and why they're game-changing for AI agents\n\u2705 How to set up Neo4j graph database (self-hosted on Elestio)\n\u2705 Configure the Neo4j MCP with Claude Desktop in minutes\n\u2705 Build AI agents that can query graphs using natural language (no Cypher required!)\n\u2705 Implement graph enrichment for enhanced data connections\n\u2705 Use N8N to automate graph creation and queries\n\n\ud83d\udca1 Real-World Use Cases Covered:\n\nCustomer 360 Agent - Navigate customer orders, support tickets, and interactions seamlessly\nDocument Structure Agent - Intelligently traverse complex legal documents and contracts with cross-references\n\n\ud83d\udee0\ufe0f Tools & Technologies:\n\nNeo4j (Graph Database)\nClaude Desktop + Neo4j MCP\nElestio (for hosting)\nN8N (workflow automation)\nSupabase (vector storage)\n\nNo prior knowledge of Cypher or graph databases required \u2013 I'll walk you through everything step by step!\n\n\ud83d\udd17 Useful Links:\nNeo4j MCP Repository: https://github.com/neo4j/mcp\nElestio: https://elest.io/\nMedium Article: https://medium.com/enterprise-rag/legal-document-rag-multi-graph-multi-agent-recursive-retrieval-through-legal-clauses-c90e073e0052\nContext Expansion Video: https://www.youtube.com/watch?v=y72TrpffdSk\n\nAPOC Configuration Lines\n# Add these APOC lines:\n- NEO4J_PLUGINS=[\"apoc\"]\n- NEO4J_apoc_export_file_enabled=true\n- NEO4J_apoc_import_file_enabled=true\n- NEO4J_apoc_import_file_use__neo4j__config=true\n- NEO4J_dbms_security_procedures_unrestricted=apoc.*\n\n\u23f1\ufe0f Timestamps:\n0:00 - Introduction\n06:10 - Create Your First GraphAgent\n18:54 - Customer360 GraphAgent\n28:22 - Document Structure GraphAgent\n\n\ud83d\udcac Questions or Comments?\n\nDrop them below! I read every comment and love hearing about what you're building with n8n and knowledge graphs.\n\n\ud83d\udce2 If you found this valuable:\n\ud83d\udc4d Like this video\n\ud83d\udd14 Subscribe for more AI automation content\n\ud83d\udce4 Share with someone building AI agents\n\n#KnowledgeGraphs #AIAgents #Neo4j #ClaudeAI #AI #Automation #MachineLearning #GraphDatabase #RAG #N8N\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Shopify",
+          "GitHub",
+          "Stripe",
+          "Mistral",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "n8n",
+          "MCP",
+          "Sonnet"
+        ],
+        "models": [
+          "Mistral"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# UNLOCK the Power of Graph Agents with Neo4J and n8n\nAI agents are powerful, but they're missing something critical"
+      ],
+      "transcript_chars": 41444,
+      "folder": "2025-10-23-unlock-the-power-of-graph-agents-with-neo4j-and-n8n"
+    },
+    {
+      "title": "5 Advanced RAG Context Expansion Techniques",
+      "video_id": "3pR4i0_UDtU",
+      "youtube_url": "https://www.youtube.com/watch?v=3pR4i0_UDtU",
+      "publish_date": "2025-10-21",
+      "duration": "0:46",
+      "duration_seconds": 46,
+      "view_count": 10985,
+      "author": "The AI Automators",
+      "description": "Vector search with basic chunking may be killing the accuracy of your RAG agent.\n\nHere are five context expansion methods that can solve this problem for structured documents:\n\n1. Full document expansion: You provide the entire file to the agent to answer the question.\n\n2. Neighbor expansion: You grab adjacent chunks to what were initially retrieved from the vector store.\n\n3. Section expansion: You pull in both sibling and child chunks based on the document structure.\n\n4. Parent expansion: You grab all of the chunks of the parent heading.\n\n5. Agentic expansion: An agent can intelligently traverse the document structure and figure out which parts of the document it needs to accurately answer the question.\n\nImplementing dynamic retrieval like this will dramatically improve your AI agent's accuracy.\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 5 Advanced RAG Context Expansion Techniques\nVector search with basic chunking may be killing the accuracy of your rag agent"
+      ],
+      "transcript_chars": 878,
+      "folder": "2025-10-21-5-advanced-rag-context-expansion-techniques"
+    },
+    {
+      "title": "Dense vs Sparse Embeddings in RAG Systems",
+      "video_id": "EDlhk1KCRFk",
+      "youtube_url": "https://www.youtube.com/watch?v=EDlhk1KCRFk",
+      "publish_date": "2025-10-16",
+      "duration": "0:46",
+      "duration_seconds": 46,
+      "view_count": 6853,
+      "author": "The AI Automators",
+      "description": "Which retrieval approach is better for your AI agent? Vector embeddings or keyword search?\n\nDense vector embeddings understand that the word \"car\" is related to \"vehicle\" and \"automobile.\" This is great for semantic-style search.\n\nBut it can fail miserably when looking for product codes, IDs, or words that are not well represented in its training data.\n\nSparse retrieval or keyword search, on the other hand, extracts tokens from the words it ingests and looks for exact matches on those tokens.\n\nIf you're building a RAG agent, you most likely need both. Semantic search for understanding concepts and lexical search for exact, precise matches.\n\nThis is why hybrid search usually isn't optional. It's essential in production RAG systems.\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Dense vs Sparse Embeddings in RAG Systems\nWhich retrieval approach is better for your AI agent"
+      ],
+      "transcript_chars": 800,
+      "folder": "2025-10-16-dense-vs-sparse-embeddings-in-rag-systems"
+    },
+    {
+      "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
+      "video_id": "5p6h23Md4Zw",
+      "youtube_url": "https://www.youtube.com/watch?v=5p6h23Md4Zw",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -1038,39 +1236,40 @@
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Agents",
-      "difficulty": "Advanced",
+      "difficulty": "Intermediate",
       "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
+        "Engineers"
       ],
       "entities": {
         "companies": [
-          "Anthropic",
-          "Apple"
+          "OpenAI",
+          "Meta",
+          "GitHub",
+          "Box",
+          "Cursor",
+          "X"
         ],
         "people": [],
         "products": [
-          "GPT-4",
-          "GPT-5",
-          "Make"
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "Projects"
         ],
-        "models": [
-          "GPT-4",
-          "GPT-5"
-        ]
+        "models": []
       },
       "concepts": [],
       "summary": [
-        "# Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute"
+        "# OpenAI Just Open Sourced Their Agent Orchestrator"
       ],
-      "transcript_chars": 12310,
-      "folder": "undated-apple-just-showed-every-ai-builder-how-to-stop-tool-calling-errors-before-they-e"
+      "transcript_chars": 12452,
+      "folder": "2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th"
     },
     {
-      "title": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do",
-      "video_id": "6X2g4alL250",
-      "youtube_url": "https://www.youtube.com/watch?v=6X2g4alL250",
+      "title": "Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.",
+      "video_id": "0TPq43Wpbz0",
+      "youtube_url": "https://www.youtube.com/watch?v=0TPq43Wpbz0",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -1078,37 +1277,79 @@
       "author": "The AI Automators",
       "description": "",
       "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Tools",
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
       "difficulty": "Intermediate",
       "audience": [
+        "Engineers",
+        "Executives",
         "Product Managers"
       ],
       "entities": {
         "companies": [
+          "Google",
           "Microsoft",
-          "GitHub"
+          "Box",
+          "Pinecone"
         ],
         "people": [],
         "products": [
-          "GPT-5",
           "Claude",
-          "Gemini",
-          "Opus"
+          "Claude Code",
+          "Make",
+          "MCP",
+          "Artifacts"
         ],
-        "models": [
-          "GPT-5",
-          "Claude 4",
-          "Gemini",
-          "Gemini 3"
-        ]
+        "models": []
       },
-      "concepts": [],
-      "summary": [
-        "# Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do\nLast month, Microsoft researchers published a paper that proves that even the best LLMs consistently corrupt documents when you deleg"
+      "concepts": [
+        "Is that the user is not actually defining this artifact schema"
       ],
-      "transcript_chars": 2116,
-      "folder": "undated-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do"
+      "summary": [
+        "There has been a growing number of rag is dead headlines online over the last 12 months with potential successors coming from every direction"
+      ],
+      "transcript_chars": 28560,
+      "folder": "2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone"
+    },
+    {
+      "title": "OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.",
+      "video_id": "mmBddcUFltU",
+      "youtube_url": "https://www.youtube.com/watch?v=mmBddcUFltU",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "How do you build this feature into your own agentic system? and when should you actually use it? at a high level, dreaming is a scheduled background process that runs between your active sessions"
+      ],
+      "summary": [
+        "Antropic just announced a new feature in their managed agents called dreaming to help their agents self-improve over time"
+      ],
+      "transcript_chars": 9677,
+      "folder": "2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi"
     },
     {
       "title": "Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.",
@@ -1163,12 +1404,12 @@
         "You need an opinionated harness"
       ],
       "transcript_chars": 24288,
-      "folder": "undated-microsoft-researchers-just-found-frontier-models-corrupt-25-of-your-documents-he"
+      "folder": "2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents"
     },
     {
-      "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
-      "video_id": "5p6h23Md4Zw",
-      "youtube_url": "https://www.youtube.com/watch?v=5p6h23Md4Zw",
+      "title": "Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do",
+      "video_id": "6X2g4alL250",
+      "youtube_url": "https://www.youtube.com/watch?v=6X2g4alL250",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -1176,42 +1417,42 @@
       "author": "The AI Automators",
       "description": "",
       "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Agents",
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
-        "Engineers"
+        "Product Managers"
       ],
       "entities": {
         "companies": [
-          "OpenAI",
-          "Meta",
-          "GitHub",
-          "Box",
-          "Cursor",
-          "X"
+          "Microsoft",
+          "GitHub"
         ],
         "people": [],
         "products": [
+          "GPT-5",
           "Claude",
-          "Claude Code",
-          "Cursor",
-          "Make",
-          "Projects"
+          "Gemini",
+          "Opus"
         ],
-        "models": []
+        "models": [
+          "GPT-5",
+          "Claude 4",
+          "Gemini",
+          "Gemini 3"
+        ]
       },
       "concepts": [],
       "summary": [
-        "# OpenAI Just Open Sourced Their Agent Orchestrator"
+        "# Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do\nLast month, Microsoft researchers published a paper that proves that even the best LLMs consistently corrupt documents when you deleg"
       ],
-      "transcript_chars": 12452,
-      "folder": "undated-openai-just-open-sourced-their-agent-orchestrator-the-real-lesson-is-the-3-layer"
+      "transcript_chars": 2116,
+      "folder": "2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do"
     },
     {
-      "title": "OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.",
-      "video_id": "mmBddcUFltU",
-      "youtube_url": "https://www.youtube.com/watch?v=mmBddcUFltU",
+      "title": "Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.",
+      "video_id": "0pkj4FRaKHw",
+      "youtube_url": "https://www.youtube.com/watch?v=0pkj4FRaKHw",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -1221,47 +1462,7 @@
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Agents",
-      "difficulty": "Beginner",
-      "audience": [
-        "Engineers",
-        "Executives"
-      ],
-      "entities": {
-        "companies": [
-          "Anthropic",
-          "GitHub",
-          "Box"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "How do you build this feature into your own agentic system? and when should you actually use it? at a high level, dreaming is a scheduled background process that runs between your active sessions"
-      ],
-      "summary": [
-        "Antropic just announced a new feature in their managed agents called dreaming to help their agents self-improve over time"
-      ],
-      "transcript_chars": 9677,
-      "folder": "undated-openclaw-shipped-it-first-anthropic-just-copied-it-your-stack-needs-this-now"
-    },
-    {
-      "title": "Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.",
-      "video_id": "0TPq43Wpbz0",
-      "youtube_url": "https://www.youtube.com/watch?v=0TPq43Wpbz0",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "The AI Automators",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
+      "difficulty": "Advanced",
       "audience": [
         "Engineers",
         "Executives",
@@ -1269,29 +1470,26 @@
       ],
       "entities": {
         "companies": [
-          "Google",
-          "Microsoft",
-          "Box",
-          "Pinecone"
+          "Anthropic",
+          "Apple"
         ],
         "people": [],
         "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "MCP",
-          "Artifacts"
+          "GPT-4",
+          "GPT-5",
+          "Make"
         ],
-        "models": []
+        "models": [
+          "GPT-4",
+          "GPT-5"
+        ]
       },
-      "concepts": [
-        "Is that the user is not actually defining this artifact schema"
-      ],
+      "concepts": [],
       "summary": [
-        "There has been a growing number of rag is dead headlines online over the last 12 months with potential successors coming from every direction"
+        "# Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute"
       ],
-      "transcript_chars": 28560,
-      "folder": "undated-pinecone-just-admitted-rag-is-broken-heres-the-pattern-replacing-it"
+      "transcript_chars": 12310,
+      "folder": "2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-"
     }
   ]
 }
