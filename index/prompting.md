@@ -1,6 +1,6 @@
 # Prompting
 
-Episodes discussing **Prompting** (14 episodes):
+Episodes discussing **Prompting** (15 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
@@ -15,4 +15,5 @@ Episodes discussing **Prompting** (14 episodes):
 - [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
 - [How to Build Smarter RAG Database Agents (n8n)](../episodes/2025-08-06-how-to-build-smarter-rag-database-agents-n8n/transcript.md) (2025-08-06)
 - [The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag](../episodes/2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag/transcript.md) (2025-07-25)
+- [The One RAG Method for Incredibly Accurate Responses (n8n)](../episodes/2025-07-24-the-one-rag-method-for-incredibly-accurate-responses-n8n/transcript.md) (2025-07-24)
 - [Apple Just Showed Every AI Builder How To Stop Tool-Calling Errors Before They Execute.](../episodes/2026-05-16-apple-quietly-solved-a-problem-every-tool-calling-agent-has-/transcript.md)

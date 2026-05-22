@@ -1,6 +1,6 @@
 # Box
 
-Episodes discussing **Box** (14 episodes):
+Episodes discussing **Box** (15 episodes):
 
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Automate Anything With Claude Cowork (Full Guide)](../episodes/2026-02-19-automate-anything-with-claude-cowork-full-guide/transcript.md) (2026-02-19)
@@ -13,6 +13,7 @@ Episodes discussing **Box** (14 episodes):
 - [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](../episodes/2025-08-26-import-everything-into-your-rag-agent-docling-llamaparse/transcript.md) (2025-08-26)
 - [Make your AI Agents 10x Smarter with GraphRAG (n8n)](../episodes/2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n/transcript.md) (2025-07-30)
 - [The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag](../episodes/2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag/transcript.md) (2025-07-25)
+- [The One RAG Method for Incredibly Accurate Responses (n8n)](../episodes/2025-07-24-the-one-rag-method-for-incredibly-accurate-responses-n8n/transcript.md) (2025-07-24)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)

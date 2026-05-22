@@ -1,5 +1,5 @@
 {
-  "total_videos": 49,
+  "total_videos": 50,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1810,6 +1810,54 @@
       ],
       "transcript_chars": 1790,
       "folder": "2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag"
+    },
+    {
+      "title": "The One RAG Method for Incredibly Accurate Responses (n8n)",
+      "video_id": "WcdBSOigrT8",
+      "youtube_url": "https://www.youtube.com/watch?v=WcdBSOigrT8",
+      "publish_date": "2025-07-24",
+      "duration": "23:18",
+      "duration_seconds": 1398,
+      "view_count": 16299,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Upgrade your n8n AI Agents with our Advanced RAG workflows https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=metadata\n\nhttps://www.youtube.com/watch?v=75lwkzFxyLs\nhttps://www.youtube.com/watch?v=61dvzowuIlA\nhttps://www.youtube.com/watch?v=2-6ckhW3Hmo\nhttps://www.youtube.com/watch?v=wU847FkGe5A\nhttps://www.youtube.com/watch?v=5aCi42dVOTA\nhttps://www.youtube.com/watch?v=U0Qia_zeQFk\nhttps://www.youtube.com/watch?v=WmG-PanaaSk\n\nChapters:\n0:00 - Overview\n1:38 - Demo\n2:39 - Dynamic Filter Creation\n3:15 - Dynamic JSON Schema\n3:42 - Hybrid Search & Reranking\n4:52 - Supabase Metadata Ingestion\n8:55 - Supabase Metadata Filtering\n12:12 - Supabase Edge Function\n15:36 - Pinecone Metadata Ingestion\n19:17 - Pinecone Metadata Filtering\n\nDiscover how to take your RAG agents to the next level by implementing dynamic metadata filtering for vastly improved retrieval accuracy. In this video, we walk through how to build intelligent agents that enrich and filter your vector data on the fly using both Supabase and Pinecone, with advanced workflows that go far beyond the default n8n nodes.\n\nYou'll learn how to automatically enrich documents during the ingestion phase with metadata like document date, department, and category. See how this metadata is used in real-time to construct highly targeted filters based on user queries\u2014ensuring only the most relevant data is retrieved.\n\nWe explore how to set up metadata tables in Supabase, auto-generate filters from user questions using JSON schema and structured output parsers, and enable hybrid search with dense and sparse embeddings. The video also demonstrates using Cohere for re-ranking search results and how to implement these same filtering techniques in Pinecone, including Unix timestamp handling for date filtering.\n\nWhether you're working with company policies, product categories, or time-sensitive documents, this video equips you with the tools to significantly increase your RAG agent\u2019s precision and reliability.\n\nIf you're serious about building scalable, high-performing RAG pipelines with advanced filtering and hybrid search, this video is packed with everything you need.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Make",
+          "n8n",
+          "Operator"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 2"
+        ]
+      },
+      "concepts": [
+        "For our purposes, we're passing this entire metadata filter that was generated from the llm chain earlier",
+        "Here, we see we have these metadata filters as required"
+      ],
+      "summary": [
+        "# The One RAG Method for Incredibly Accurate Responses (n8n)\nRag agents are very powerful, but often the results from your vector store could be very out ofd or based on an entirely wrong category of"
+      ],
+      "transcript_chars": 28548,
+      "folder": "2025-07-24-the-one-rag-method-for-incredibly-accurate-responses-n8n"
     },
     {
       "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",

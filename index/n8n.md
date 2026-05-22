@@ -1,6 +1,6 @@
 # N8N
 
-Episodes discussing **N8N** (23 episodes):
+Episodes discussing **N8N** (24 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [The KEY to Building Reliable AI Agents in n8n](../episodes/2026-01-14-the-key-to-building-reliable-ai-agents-in-n8n/transcript.md) (2026-01-14)
@@ -25,3 +25,4 @@ Episodes discussing **N8N** (23 episodes):
 - [How to Build Smarter RAG Database Agents (n8n)](../episodes/2025-08-06-how-to-build-smarter-rag-database-agents-n8n/transcript.md) (2025-08-06)
 - [Make your AI Agents 10x Smarter with GraphRAG (n8n)](../episodes/2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n/transcript.md) (2025-07-30)
 - [The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag](../episodes/2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag/transcript.md) (2025-07-25)
+- [The One RAG Method for Incredibly Accurate Responses (n8n)](../episodes/2025-07-24-the-one-rag-method-for-incredibly-accurate-responses-n8n/transcript.md) (2025-07-24)

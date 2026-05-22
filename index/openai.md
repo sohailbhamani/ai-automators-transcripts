@@ -1,6 +1,6 @@
 # Openai
 
-Episodes discussing **Openai** (19 episodes):
+Episodes discussing **Openai** (20 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [I Built an AI Agent That Doesn't Leak Sensitive Data](../episodes/2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data/transcript.md) (2026-02-15)
@@ -17,6 +17,7 @@ Episodes discussing **Openai** (19 episodes):
 - [I Deployed a Secure Multi-User AI Agent in n8n](../episodes/2025-08-19-i-deployed-a-secure-multi-user-ai-agent-in-n8n/transcript.md) (2025-08-19)
 - [How to Build Smarter RAG Database Agents (n8n)](../episodes/2025-08-06-how-to-build-smarter-rag-database-agents-n8n/transcript.md) (2025-08-06)
 - [Make your AI Agents 10x Smarter with GraphRAG (n8n)](../episodes/2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n/transcript.md) (2025-07-30)
+- [The One RAG Method for Incredibly Accurate Responses (n8n)](../episodes/2025-07-24-the-one-rag-method-for-incredibly-accurate-responses-n8n/transcript.md) (2025-07-24)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)
 - [Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do](../episodes/2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do/transcript.md)
