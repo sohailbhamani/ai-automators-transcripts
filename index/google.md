@@ -1,6 +1,6 @@
 # Google
 
-Episodes discussing **Google** (22 episodes):
+Episodes discussing **Google** (24 episodes):
 
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -21,6 +21,8 @@ Episodes discussing **Google** (22 episodes):
 - [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
 - [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
 - [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
+- [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](../episodes/2025-08-26-import-everything-into-your-rag-agent-docling-llamaparse/transcript.md) (2025-08-26)
+- [Make your AI Agents 10x Smarter with GraphRAG (n8n)](../episodes/2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n/transcript.md) (2025-07-30)
 - [Pinecone Just Admitted RAG Is Broken. Here's the Pattern Replacing It.](../episodes/2026-05-07-andrej-karpathy-s-wiki-idea-was-just-shipped-by-pinecone/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)
 - [Claude, GPT-5, Gemini 3: Only 1 of 52 Jobs They Can Actually Do](../episodes/2026-05-14-claude-gpt-5-gemini-3-only-1-of-52-jobs-they-can-actually-do/transcript.md)

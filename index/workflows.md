@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (24 episodes):
+Episodes discussing **Workflows** (29 episodes):
 
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
@@ -21,6 +21,11 @@ Episodes discussing **Workflows** (24 episodes):
 - [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
 - [The KEY to Infinitely Scale Your n8n RAG Agents](../episodes/2025-09-17-the-key-to-infinitely-scale-your-n8n-rag-agents/transcript.md) (2025-09-17)
 - [The SMARTER Way to Build RAG Agents (n8n + DeepEval)](../episodes/2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval/transcript.md) (2025-09-04)
+- [Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)](../episodes/2025-08-26-import-everything-into-your-rag-agent-docling-llamaparse/transcript.md) (2025-08-26)
+- [I Deployed a Secure Multi-User AI Agent in n8n](../episodes/2025-08-19-i-deployed-a-secure-multi-user-ai-agent-in-n8n/transcript.md) (2025-08-19)
+- [How to Build Smarter RAG Database Agents (n8n)](../episodes/2025-08-06-how-to-build-smarter-rag-database-agents-n8n/transcript.md) (2025-08-06)
+- [Make your AI Agents 10x Smarter with GraphRAG (n8n)](../episodes/2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n/transcript.md) (2025-07-30)
+- [The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag](../episodes/2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag/transcript.md) (2025-07-25)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

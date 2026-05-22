@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (18 episodes):
+Episodes discussing **Ai Strategy** (19 episodes):
 
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
@@ -17,6 +17,7 @@ Episodes discussing **Ai Strategy** (18 episodes):
 - [n8n + Redis 🔥Worker Queue BEAST Mode](../episodes/2025-09-29-n8n-redis-worker-queue-beast-mode/transcript.md) (2025-09-29)
 - [🚀 We Made Our n8n Workflow 97% FASTER - Here's How](../episodes/2025-09-24-we-made-our-n8n-workflow-97-faster-heres-how/transcript.md) (2025-09-24)
 - [We Unlocked n8n's BEAST Mode (5,000 Files/Hour)](../episodes/2025-09-22-we-unlocked-n8ns-beast-mode-5000-fileshour/transcript.md) (2025-09-22)
+- [The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag](../episodes/2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag/transcript.md) (2025-07-25)
 - [OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.](../episodes/2026-04-30-openai-just-showed-us-what-comes-after-the-harness-here-s-th/transcript.md)
 - [OpenClaw Shipped It First. Anthropic Just Copied It. Your Stack Needs This Now.](../episodes/2026-05-09-anthropic-quietly-shipped-the-memory-layer-your-agent-was-mi/transcript.md)
 - [Microsoft Researchers Just Found Frontier Models Corrupt 25% Of Your Documents. Here's The Fix.](../episodes/2026-05-13-i-analyzed-the-hidden-flaw-breaking-long-running-agents/transcript.md)

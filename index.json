@@ -1,5 +1,5 @@
 {
-  "total_videos": 44,
+  "total_videos": 49,
   "date_range": {
     "newest": "2026-04-18",
     "oldest": ""
@@ -1599,6 +1599,217 @@
       ],
       "transcript_chars": 32437,
       "folder": "2025-09-04-the-smarter-way-to-build-rag-agents-n8n-deepeval"
+    },
+    {
+      "title": "Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)",
+      "video_id": "eHw_6jhK8AM",
+      "youtube_url": "https://www.youtube.com/watch?v=eHw_6jhK8AM",
+      "publish_date": "2025-08-26",
+      "duration": "31:15",
+      "duration_seconds": 1875,
+      "view_count": 43681,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=import_everything_rag\n\nhttps://www.youtube.com/watch?v=75lwkzFxyLs\nhttps://www.youtube.com/watch?v=U0Qia_zeQFk\nhttps://www.youtube.com/watch?v=5aCi42dVOTA\nhttps://www.youtube.com/watch?v=EUG65dIY-2k\n\nChapters:\n0:00 - Overview\n3:11 - Setting Up LlamaParse\n5:23 - Integrating LlamaParse with n8n\n17:45 - Integrating into RAG Pipeline\n19:31 - Introduction to Docling\n20:25 - Deploying Docling\n29:14 - Mistral OCR\n\nIn this video, you\u2019ll learn how to import and parse 95+ file types (including docs, slides, spreadsheets, images, and audio) so your AI agents can understand and act on all of it. We compare three approaches: LlamaParse (quick to set up, broad compatibility, rich Markdown), Docling (open-source, self-hosted project by IBM, no external APIs\u2014great for privacy/cost control), and Mistral OCR (PDF-only but fast, affordable, and easy to integrate). You\u2019ll see why OCR + native parsing preserves images, layout, tables, and structure far better than naive n8n nodes.\n\nWe build an end-to-end ingestion pipeline in n8n: watch files from Google Drive, send to a parser, get back consistent Markdown, then chunk \u2192 embed \u2192 store in a Supabase vector table using text-embedding-3-small. From there, an agent queries the vector DB for semantically relevant context and answers user questions. You\u2019ll see both webhook and polling strategies for LlamaCloud\u2019s async jobs, plus practical settings that improve results: agentic mode, high-res OCR, adaptive long-table handling, outline/table extraction, and optional HTML tables. We also cover pricing basics (free-tier credits and per-page costs) so you can forecast usage.\n\nNext, we spin up Docling with a Render deploy so you can test via a simple UI and hit the API (v1/convert) from n8n. We talk through trade-offs, speed and memory usage vs. cost/privacy, and show a gateway pattern (basic auth + API key) to keep your Docling instance private while exposing a controlled public endpoint.\n\nFinally, we revisit Mistral OCR for fast, good-quality PDF parsing, including an option to return extracted images for multimodal RAG.\n\nBy the end, you\u2019ll have the pieces to: accept nearly any file type, normalize it to Markdown, index it in your vector DB without duplication, enrich with metadata, and chat with the content through an agent, safely and at a cost that fits your use case.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "GitHub",
+          "Box",
+          "Mistral",
+          "X",
+          "IBM",
+          "LlamaIndex"
+        ],
+        "people": [],
+        "products": [
+          "LlamaIndex",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Llama",
+          "Mistral"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Import EVERYTHING Into Your RAG Agent (Docling & LlamaParse)\nIn this video, I'm going to show you how you can import everything into your AI agents"
+      ],
+      "transcript_chars": 36213,
+      "folder": "2025-08-26-import-everything-into-your-rag-agent-docling-llamaparse"
+    },
+    {
+      "title": "I Deployed a Secure Multi-User AI Agent in n8n",
+      "video_id": "OFZmezsx9bA",
+      "youtube_url": "https://www.youtube.com/watch?v=OFZmezsx9bA",
+      "publish_date": "2025-08-19",
+      "duration": "37:22",
+      "duration_seconds": 2242,
+      "view_count": 18937,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our Secure Multi-User AI Agent and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=multi-user\n\nMost AI agent tutorials show you how to build basic chatbots, but what about agents that handle sensitive customer data? \n\nIn this deep-dive tutorial, I'll show you how to build a production-ready multi-user AI agent for an e-commerce store that can safely access order history, generate invoices, and escalate support tickets - all while maintaining strict data isolation between users.\n\n\ud83d\udea8 Get this wrong = major data breach. Get this right = powerful self-service tool that reduces costs.\n\nWhat You'll Learn:\n\n\u2705 Complete multi-user AI agent architecture walkthrough\n\u2705 7 critical security strategies for data isolation\n\u2705 How to implement secure authentication with JWT tokens\n\u2705 Setting up Row Level Security (RLS) in Supabase\n\u2705 Creating secure proxy layers with WordPress\n\u2705 Step-up authentication for sensitive operations\n\u2705 Compliance considerations (GDPR, CCPA)\n\u2705 N8N licensing requirements for commercial use\n\n\ud83d\udd17 Related Links & Resources:\nn8n Native Chat Embed: https://www.npmjs.com/package/@n8n/chat\nn8n Self Hosted Plans: https://plans.n8n.io/\nn8n Licenses: https://docs.n8n.io/sustainable-use-license/\n\nTimestamps:\n00:00 Demo\n04:15 n8n + Supabase Setup\n06:34 Multi-User vs Multi-Instance\n08:59 Problems with n8n Embed\n12:55 Chat Proxy\n15:21 Verify Origin\n18:40 Lock Down Supabase\n20:39 MFA\n24:05 PLP\n26:39 DB RLS\n30:41 Other Techniques\n32:15 Compliance & Data Anonymization\n35:12 n8n Licensing\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Shopify",
+          "Netflix",
+          "Azure",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# I Deployed a Secure Multi-User AI Agent in n8n\nMost AI agent tutorials online show you how to build generic chat bots that give the same responses to all users",
+        "To secure it, which leads me on to seven strategies to enforce data isolation and secure this type of architecture"
+      ],
+      "transcript_chars": 39593,
+      "folder": "2025-08-19-i-deployed-a-secure-multi-user-ai-agent-in-n8n"
+    },
+    {
+      "title": "How to Build Smarter RAG Database Agents (n8n)",
+      "video_id": "l3d7Zw2bbCw",
+      "youtube_url": "https://www.youtube.com/watch?v=l3d7Zw2bbCw",
+      "publish_date": "2025-08-06",
+      "duration": "19:52",
+      "duration_seconds": 1192,
+      "view_count": 25221,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our State-of-the-Art n8n RAG Systems and learn how to customize them, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=n8n_database_agent\n\nhttps://www.youtube.com/watch?v=75lwkzFxyLs\nhttps://www.youtube.com/watch?v=U0Qia_zeQFk\nhttps://www.youtube.com/watch?v=5aCi42dVOTA\nhttps://www.youtube.com/watch?v=EUG65dIY-2k\nhttps://www.youtube.com/watch?v=61dvzowuIlA\nhttps://www.youtube.com/watch?v=2-6ckhW3Hmo\nhttps://www.youtube.com/watch?v=wU847FkGe5A\nhttps://www.youtube.com/watch?v=WmG-PanaaSk\n\nCreating read-only users on Supabase/Postgres: https://docs.visuo.ai/guides/supabase\n\nChapters:\n0:00 - Overview\n1:00 - Demo\n2:44 - NLQ explained\n4:28 - Building the Agent\n5:50 - The System Prompt\n9:01 - Creating the Schema View\n10:07 - Advanced Filtering\n11:06 - Optimizations: Hardcoding Schema\n11:52 - Approach: Creating Views\n14:48 - Approach: Prepared Queries\n17:51 - Security & SQL Injection\n18:55 - Combining with RAG\n\nIn this video, you'll learn how to create a powerful AI agent that can intelligently and securely query relational databases using natural language. The tutorial goes far beyond typical SEO agent demos, diving deep into database structure understanding, SQL query generation, and real-world deployment techniques.\n\nThe walkthrough starts with a working demo using a Supabase-hosted Postgres database, demonstrating how the AI agent constructs complex SQL queries on the fly. You'll see how it interprets relationships between tables like customers, orders, and products without any hardcoded schema, using a specialized tool to dynamically retrieve and process schema metadata.\n\nI'll also show you how to secure your AI agent against SQL injection. The video covers multiple architectural approaches for integrating natural language query (NLQ) into your systems, ranging from using dynamic tools for schema context to optimizing with static views and predefined query nodes for more deterministic, secure setups.\n\nYou'll also learn how to enhance the system prompt to guide the AI in building accurate and efficient SQL queries, and why providing context through views or hardcoded schemas can drastically improve both speed and reliability. Several techniques are demonstrated to ensure the AI handles distinct value filtering, and joins correctly, making it highly robust even in normalized or complex schemas.\n\nIn the latter part of the video, you\u2019ll see how to build flattened database views to simplify querying and allow cheaper AI models to perform well. Alternatively, the tutorial explains how to limit the AI's capabilities to only specific prepared queries for added safety and reliability.\n\nFor advanced use cases, the video explores hybrid agentic RAG setups, combining relational querying with vector or graph database lookups. This enables the AI to seamlessly handle both structured and unstructured information in the same agent workflow.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "I've selected a reasoning model"
+      ],
+      "summary": [
+        "# How to Build Smarter RAG Database Agents (n8n)\nIn this video, I'll show you how to create an AI agent that can query databases effectively"
+      ],
+      "transcript_chars": 23930,
+      "folder": "2025-08-06-how-to-build-smarter-rag-database-agents-n8n"
+    },
+    {
+      "title": "Make your AI Agents 10x Smarter with GraphRAG (n8n)",
+      "video_id": "EUG65dIY-2k",
+      "youtube_url": "https://www.youtube.com/watch?v=EUG65dIY-2k",
+      "publish_date": "2025-07-30",
+      "duration": "35:44",
+      "duration_seconds": 2144,
+      "view_count": 147068,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Get our State-of-the-Art n8n RAG System and learn how to customize it, in our community https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=graphRAG\n\nIn this video, I dive deep into how you can transform your AI agents using Knowledge Graphs, combined with Retrieval Augmented Generation (GraphRAG). \n\nTraditional AI search often misses context and relationships between data, but with this system, your AI gets a rich, structured understanding of your documents \u2014 delivering smarter, more accurate, and context-aware responses.\n\n\ud83d\udd17 Related Links & Resources:\nn8n RAG Masterclass: https://www.youtube.com/watch?v=75lwkzFxyLs\nLightRAG Github Repo: https://github.com/HKUDS/LightRAG\nLightRAG Docker Image URL: ghcr.io/hkuds/lightrag:latest\nRender: https://render.com/\nn8n*: http://theaiautomators.com/go/n8n\n\n\ud83e\udde0 What You\u2019ll Learn:\n- What is a Knowledge Graph and why it\u2019s a game changer for AI agents\n- How GraphRAG improves upon traditional RAG with multi-hop reasoning and relationship awareness\n- Step-by-step demo of LightRag: auto-building and visualizing your Knowledge Graph from documents\n- How to integrate LightRag with N8N workflows for seamless AI agent query handling\n- Discussing real-world business use cases where this system shines: compliance, customer support, research, marketing, and more\n- Setup guide: deploy LightRag, configure environment variables, connect with N8N, and tune retrieval parameters\n- Benefits of hybrid search and re-ranking for precision and depth in AI-generated answers\n\n\ud83d\udccc Timestamps\n00:00 Intro\n01:27 What are Knowledge Graphs\n04:21 What is GraphRAG\n08:11 Microsoft GraphRAG vs LightRAG\n12:06 LightRAG Server Setup\n16:15 LightRAG Document Processing\n20:18 LightRAG Graph Demo\n25:35 n8n Connection\n28:58 n8n vs LightRAG\n30:58 State of the Art n8n RAG Agent\n34:10 GraphRAG Demo\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "Apple",
+          "GitHub",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Make your AI Agents 10x Smarter with GraphRAG (n8n)\nGraph rag is one of the best ways to improve the accuracy and reliability of your AI agents",
+        "You don&amp;#39;t need to learn cipher to actually get this system up and running"
+      ],
+      "transcript_chars": 39981,
+      "folder": "2025-07-30-make-your-ai-agents-10x-smarter-with-graphrag-n8n"
+    },
+    {
+      "title": "The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag",
+      "video_id": "6wY1vLEMFyg",
+      "youtube_url": "https://www.youtube.com/watch?v=6wY1vLEMFyg",
+      "publish_date": "2025-07-25",
+      "duration": "1:29",
+      "duration_seconds": 89,
+      "view_count": 15446,
+      "author": "The AI Automators",
+      "description": "Take your RAG agents to the next level with dynamic metadata filtering for dramatically improved accuracy.\nLearn how to enrich and filter data on the fly using Supabase, Pinecone, and n8n - with workflows that go far beyond the defaults.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The One RAG Method for Incredibly Accurate Responses (n8n) #n8n #aiagents #rag\nRag agents are very powerful"
+      ],
+      "transcript_chars": 1790,
+      "folder": "2025-07-25-the-one-rag-method-for-incredibly-accurate-responses-n8n-n8n-aiagents-rag"
     },
     {
       "title": "OpenAI Just Open Sourced Their Agent Orchestrator. The Real Lesson Is The 3 Layers Underneath.",
