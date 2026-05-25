@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (20 episodes):
+Episodes discussing **Ai Strategy** (21 episodes):
 
+- [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
 - [The Complete Agentic RAG Build: 8 Modules, 2+ Hours, Full Stack](../episodes/2026-01-28-the-complete-agentic-rag-build-8-modules-2-hours-full-stack/transcript.md) (2026-01-28)

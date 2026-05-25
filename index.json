@@ -1,10 +1,51 @@
 {
-  "total_videos": 50,
+  "total_videos": 51,
   "date_range": {
-    "newest": "2026-04-18",
+    "newest": "2026-05-25",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Redis Is The New RAG. Here's What That Actually Means For Builders.",
+      "video_id": "F-Ewm7qOr_c",
+      "youtube_url": "https://www.youtube.com/watch?v=F-Ewm7qOr_c",
+      "publish_date": "2026-05-25",
+      "duration": "11:35",
+      "duration_seconds": 695,
+      "view_count": 2587,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Access our AI Architects course & join hundreds of serious AI builders in our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=redis-iris\n\n\ud83d\udd17 Related videos and resources:\nPinecone Nexus video: https://www.youtube.com/watch?v=0TPq43Wpbz0\nSelf-service agent video: https://www.youtube.com/watch?v=OFZmezsx9bA\nRedis Iris: https://redis.io/iris/\n\nRedis has just announced Iris, a new architecture for AI agent retrieval that takes a very different approach to the knowledge layer problem. Rather than pre-compiling answers into a static artifact, Iris focuses on keeping a fast, navigable copy of your operational data that agents can query in real time, making it well-suited to environments where the underlying data changes frequently.\n\nIn this video, I walk through the Redis Iris stack, what each component does, and how its runtime approach compares to build-time alternatives like Pinecone Nexus. We also compare against why naive RAG and even many agentic RAG configurations struggle in real production systems, especially in use cases like customer support where an agent needs to pull from databases, ticketing tools, shipping providers, and policy docs to answer a single question.\n\nWhat's covered:\n- Redis' four core requirements for agent retrieval at scale: navigability, speed, freshness, and self-improvement\n- Redis Data Integration (RDI) and how change data capture keeps an operational copy of your data in sync from sources like Postgres, Oracle, Snowflake, and MongoDB\n- Why mirroring data into Redis protects your transactional systems from being hammered by agentic workloads\n- Redis Context Retriever: defining entities, fields, relationships, and tools (find, get, search, filter) exposed via MCP or CLI with row-level access control\n- Redis Agent Memory: short-term session memory with custom TTL, plus long-term memory for preferences, learned patterns, and promoted session data\n- LangCache for semantic response caching, including similarity thresholds, search strategies, and the risks of stale or out-of-context cache hits\n- Redis Search across vector, structured, and unstructured data in a single index\n- Redis Flex, the new SSD-based storage tier for more cost-effective scaling beyond pure in-memory\n- A direct comparison of Redis Iris (runtime, fresh-on-demand) vs Pinecone Nexus (build-time, pre-compiled knowledge artifacts) and when each architecture fits best\n\nChapters:\n0:00 - Overview\n2:12 - Requirements for agents at scale\n3:06 - What is Redis Iris\n4:25 - Redis Data Integration (RDI)\n5:37 - Redis Context Retriever\n6:28 - Redis Agent Memory\n7:18 - LangCache\n8:01 - Redis Search and Redis Flex\n8:50 - Not plug and play\n9:04 - Comparison vs Pinecone Nexus\n10:54 - No one-size-fits-all retrieval\n",
+      "yt_tags": [],
+      "content_type": "Case Study",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Snowflake",
+          "MongoDB",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "MCP",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "There's a huge race in AI right now to define the next generation of rag"
+      ],
+      "transcript_chars": 13245,
+      "folder": "2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders"
+    },
     {
       "title": "Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.",
       "video_id": "YJCe8hvZrxs",

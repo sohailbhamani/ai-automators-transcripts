@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (6 episodes):
+Episodes discussing **Artifacts** (7 episodes):
 
+- [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
