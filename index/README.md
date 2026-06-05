@@ -4,8 +4,8 @@ Index of 51 episodes across 79 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (44 episodes)
 - [Ai Agents](ai-agents.md) (44 episodes)
+- [Frameworks](frameworks.md) (44 episodes)
 - [Make](make.md) (36 episodes)
 - [Product Management](product-management.md) (33 episodes)
 - [Tutorial](tutorial.md) (32 episodes)
@@ -51,14 +51,14 @@ Index of 51 episodes across 79 topics.
 - [Operator](operator.md) (2 episodes)
 - [Startups](startups.md) (2 episodes)
 - [Shopify](shopify.md) (2 episodes)
-- [Notion](notion.md) (2 episodes)
 - [Openai Api](openai-api.md) (2 episodes)
+- [Notion](notion.md) (2 episodes)
 - [Aws](aws.md) (2 episodes)
 - [Nvidia](nvidia.md) (2 episodes)
-- [Lm Studio](lm-studio.md) (2 episodes)
 - [Tailwind](tailwind.md) (2 episodes)
-- [Hugging Face](hugging-face.md) (2 episodes)
+- [Lm Studio](lm-studio.md) (2 episodes)
 - [Langchain](langchain.md) (2 episodes)
+- [Hugging Face](hugging-face.md) (2 episodes)
 - [Zapier](zapier.md) (2 episodes)
 - [Gpt 5](gpt-5.md) (2 episodes)
 - [Netflix](netflix.md) (1 episodes)
@@ -73,16 +73,16 @@ Index of 51 episodes across 79 topics.
 - [Cowork](cowork.md) (1 episodes)
 - [Canva](canva.md) (1 episodes)
 - [Figma](figma.md) (1 episodes)
-- [Amazon](amazon.md) (1 episodes)
 - [Copilot](copilot.md) (1 episodes)
+- [Amazon](amazon.md) (1 episodes)
 - [Salesforce](salesforce.md) (1 episodes)
-- [News Roundup](news-roundup.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
+- [News Roundup](news-roundup.md) (1 episodes)
 - [Gpt 4](gpt-4.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
-- [Case Study](case-study.md) (1 episodes)
 - [Oracle](oracle.md) (1 episodes)
 - [Snowflake](snowflake.md) (1 episodes)
+- [Case Study](case-study.md) (1 episodes)
 
 ## Search
 
