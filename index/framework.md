@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (11 episodes):
+Episodes discussing **Framework** (12 episodes):
 
+- [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Anthropic Just Changed How Agents Call Tools. I Stole It for My Qwen3.5 Agent](../episodes/2026-03-07-anthropic-just-changed-how-agents-call-tools-i-stole-it-for-my-qwen35-agent/transcript.md) (2026-03-07)

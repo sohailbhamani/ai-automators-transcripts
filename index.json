@@ -1,10 +1,54 @@
 {
-  "total_videos": 51,
+  "total_videos": 52,
   "date_range": {
-    "newest": "2026-05-25",
+    "newest": "2026-06-10",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.",
+      "video_id": "Dw3l5wtwfnU",
+      "youtube_url": "https://www.youtube.com/watch?v=Dw3l5wtwfnU",
+      "publish_date": "2026-06-10",
+      "duration": "16:23",
+      "duration_seconds": 983,
+      "view_count": 698,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Access our Starter Apps & AI Architects course in our community\nhttps://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=verified-rag\n\n\ud83d\udd17 PRDs for the citations & source grounding feature (GitHub): https://github.com/theaiautomators/claude-code-agentic-rag-series\n\ud83d\udd17 Anthropic's multi-agent research system (citation subagent architecture): https://www.anthropic.com/engineering/multi-agent-research-system\n\ud83d\udd17 Docling (bounding-box document parsing): https://github.com/docling-project/docling \n\ud83d\udd17 Datalab Marker: https://github.com/datalab-to/marker \n\ud83d\udd17 Claude Dynamic Workflows: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nModels keep getting better on the benchmarks, but the failure modes that matter for knowledge agents aren't going away. They're getting subtler. \n\nBeyond outright hallucination, there's overextension, where a source supports a narrow claim and the model states a broader, more confident version. There's conflation, where two retrieved chunks get fused into a single claim neither supports. And there's citation mismatch, where the cited source is real and retrieved but doesn't back the paragraph it's attached to. \n\nAs models scale, these errors don't disappear. They get more confidently stated, which makes them harder to catch. \n\nEven Anthropic's own guidance tells users to review Claude's cited sources on high-stakes outputs.\n\nIf you're building an AI product, you can't leave verification to chance.\n\nYou have to design for it. In this video I walk through seven ways to build verification into an agentic system.\n\nThe PRDs for the citation and source grounding feature shown in this video are in the GitHub repo linked above, and the full platform is available in our private community.\n\n\u23f1\ufe0f Timestamps:\n00:00 Intro\n01:59 1. NotebookLM Approach\n06:10 2. Semantic Verification\n09:24 3. Anthropic's Citation Agent\n11:36 4 & 5: Evidence-First & Claim-First\n12:59 6 & 7: Source Verification Harnesses\n\n#AI #AIAgents #RAG #Citations #Hallucinations #VerificationLayer #KnowledgeAgents #ContextEngineering #HarnessEngineering #AIBuilder #Docling #NotebookLM #DeepResearch #AIArchitects #GroundedAI\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "GitHub",
+          "Box",
+          "Azure"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "With each new model release, we're seeing constant improvements in LLM capabilities, better reasoning, better synthesis"
+      ],
+      "transcript_chars": 16588,
+      "folder": "2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one"
+    },
     {
       "title": "Redis Is The New RAG. Here's What That Actually Means For Builders.",
       "video_id": "F-Ewm7qOr_c",

@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (15 episodes):
+Episodes discussing **Box** (16 episodes):
 
+- [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Automate Anything With Claude Cowork (Full Guide)](../episodes/2026-02-19-automate-anything-with-claude-cowork-full-guide/transcript.md) (2026-02-19)
 - [I Built an AI Agent That Doesn't Leak Sensitive Data](../episodes/2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data/transcript.md) (2026-02-15)

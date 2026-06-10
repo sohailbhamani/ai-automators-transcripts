@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (11 episodes):
+Episodes discussing **Microsoft** (12 episodes):
 
+- [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [I Built an AI Agent That Doesn't Leak Sensitive Data](../episodes/2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data/transcript.md) (2026-02-15)
 - [Search Is Not Enough — Build AI Agents That Explore](../episodes/2026-02-08-search-is-not-enough-build-ai-agents-that-explore/transcript.md) (2026-02-08)
