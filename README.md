@@ -8,7 +8,7 @@ The AI Automators - Building AI agents, automation workflows, and n8n integratio
 
 - **Videos Downloaded**: 52
 - **Date Range**: Jul 24, 2025 - Jun 10, 2026
-- **Last Updated**: Jun 13, 2026
+- **Last Updated**: Jun 14, 2026
 - Synced daily at 12:00 UTC
 
 ## Structure
