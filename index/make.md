@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (37 episodes):
+Episodes discussing **Make** (38 episodes):
 
+- [The New RAG Method that Sees the Page Instead of Reading It](../episodes/2026-06-18-the-new-rag-method-that-sees-the-page-instead-of-reading-it/transcript.md) (2026-06-18)
 - [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)

@@ -1,10 +1,52 @@
 {
-  "total_videos": 52,
+  "total_videos": 53,
   "date_range": {
-    "newest": "2026-06-10",
+    "newest": "2026-06-18",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "The New RAG Method that Sees the Page Instead of Reading It",
+      "video_id": "90kPA7DOdRk",
+      "youtube_url": "https://www.youtube.com/watch?v=90kPA7DOdRk",
+      "publish_date": "2026-06-18",
+      "duration": "13:54",
+      "duration_seconds": 834,
+      "view_count": 2198,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Access our Starter Apps & AI Architects course in our community\nhttps://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=pixel-rag\n\n\ud83d\udd17PixelRAG \nDemo: https://pixelrag.ai/\nGitHub Rep: https://github.com/StarTrail-org/PixelRAG\nResearch Paper: https://github.com/StarTrail-org/PixelRAG/blob/main/assets/pixelrag-paper.pdf\n\n\ud83d\udd17Other Resources\nColPali (arXiv): https://arxiv.org/abs/2407.01449\nVisRAG (arXiv): https://arxiv.org/abs/2410.10594\nDeepSeek-OCR (arXiv): https://arxiv.org/abs/2510.18234\n\nWhen an AI agent comes back empty handed, it's usually not because the answer wasn't there. It's because it didn't survive being flattened into text. Almost every agent grounds itself in some body of content, and the first step is nearly always the same: convert a messy page or PDF into markdown, where tables, charts and diagrams don't always survive the trip. \n\nNew research from Berkeley, Princeton, EPFL and Databricks puts a number on it: over a third of failures on a 1,000-question Wikipedia benchmark traced back to parser loss.\n\nSo they asked a more radical question. What if you don't convert the page to text at all? That's PixelRAG. Render each page as an image, tile it, embed the tiles with a vision model, and hand the screenshots straight to a VLM at query time. \n\nIn this video I walk through the architecture, demo the app indexing over 7 million Wikipedia pages, and show the PixelShot skill in Claude Code reading a diagram WebFetch couldn't touch, along with the practical caveats before you'd adopt any of it.\n\n\u23f1\ufe0f Timestamps:\n\n00:00 Demo\n05:11 PixelShot Agent Skill\n06:56 Architecture\n09:33 Findings and Conclusions\n\n#AI #AIAgents #RAG #PixelRAG #VisionRAG #VLM #ColPali #VisRAG #DeepSeekOCR #Docling #ClaudeCode #WebFetch #AgenticRAG #ContextEngineering #AIArchitects #AIBuilder\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Databricks"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# The New RAG Method that Sees the Page Instead of Reading It\nWhen an AI agent goes looking for information, it can often come back empty-handed"
+      ],
+      "transcript_chars": 14301,
+      "folder": "2026-06-18-the-new-rag-method-that-sees-the-page-instead-of-reading-it"
+    },
     {
       "title": "Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.",
       "video_id": "Dw3l5wtwfnU",

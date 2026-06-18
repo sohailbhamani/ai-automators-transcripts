@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (26 episodes):
+Episodes discussing **Coding** (27 episodes):
 
+- [The New RAG Method that Sees the Page Instead of Reading It](../episodes/2026-06-18-the-new-rag-method-that-sees-the-page-instead-of-reading-it/transcript.md) (2026-06-18)
 - [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)

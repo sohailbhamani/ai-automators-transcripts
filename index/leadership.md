@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (26 episodes):
+Episodes discussing **Leadership** (27 episodes):
 
+- [The New RAG Method that Sees the Page Instead of Reading It](../episodes/2026-06-18-the-new-rag-method-that-sees-the-page-instead-of-reading-it/transcript.md) (2026-06-18)
 - [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
 - [Are Agent Skills the New RAG?](../episodes/2026-03-02-are-agent-skills-the-new-rag/transcript.md) (2026-03-02)
 - [Automate Anything With Claude Cowork (Full Guide)](../episodes/2026-02-19-automate-anything-with-claude-cowork-full-guide/transcript.md) (2026-02-19)
