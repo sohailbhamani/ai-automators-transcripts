@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (15 episodes):
+Episodes discussing **Prompting** (16 episodes):
 
+- [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Andrej Karpathy's Math Proves Agent Skills Will Fail. Here's What to Build Instead.](../episodes/2026-03-21-andrej-karpathy-s-math-proves-agent-skills-will-fail-here-s-/transcript.md) (2026-03-21)

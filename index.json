@@ -1,10 +1,52 @@
 {
-  "total_videos": 53,
+  "total_videos": 54,
   "date_range": {
-    "newest": "2026-06-18",
+    "newest": "2026-06-24",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.",
+      "video_id": "30SS92PD3fU",
+      "youtube_url": "https://www.youtube.com/watch?v=30SS92PD3fU",
+      "publish_date": "2026-06-24",
+      "duration": "10:35",
+      "duration_seconds": 635,
+      "view_count": 697,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Access our Starter Apps & AI Architects course in our community\nhttps://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=fugu\n\n\ud83d\udd17 Sakana Fugu\nAnnouncement: https://sakana.ai/fugu/\nTrinity (arXiv): https://arxiv.org/pdf/2512.04695\nConductor (arXiv): https://arxiv.org/pdf/2512.04388\n\n\ud83d\udd17 OpenRouter Fusion\nAnnouncement: https://openrouter.ai/blog/announcements/fusion-beats-frontier/\nFusion: https://openrouter.ai/fusion\n\nA research lab most builders have never heard of just claimed it beats Fable 5. The twist is that Sakana Fugu isn't a model at all. You hit one endpoint, and behind it a trained orchestrator picks from a pool of frontier models, delegates the work, verifies it, and stitches the answer back together. It can even call copies of itself.\n\nA week earlier, OpenRouter shipped Fusion: the same bet in a different shape. Stop leaning on one model. Send the prompt to a panel and let a judge merge the answers. Two labs, one idea.\n\nSo this video answers the question underneath both launches: is a mixture of specialist models actually better than one general-purpose model? \n\n#AI #AIAgents #SakanaAI #Fugu #OpenRouter #Fusion #MixtureOfModels #ModelRouting #MixtureOfAgents #LLMRouting #AIArchitecture #AIArchitects #AIBuilder #Claude #Opus #AgentArchitecture\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Box",
+          "Together AI"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Yesterday, Sakana AI, a research lab out of Japan, released Fugu and Fugu Ultra"
+      ],
+      "transcript_chars": 10798,
+      "folder": "2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models"
+    },
     {
       "title": "The New RAG Method that Sees the Page Instead of Reading It",
       "video_id": "90kPA7DOdRk",

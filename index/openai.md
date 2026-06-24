@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (20 episodes):
+Episodes discussing **Openai** (21 episodes):
 
+- [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [I Built an AI Agent That Doesn't Leak Sensitive Data](../episodes/2026-02-15-i-built-an-ai-agent-that-doesnt-leak-sensitive-data/transcript.md) (2026-02-15)
 - [Are Agentic Workflows Actually a Game-Changer?](../episodes/2026-02-11-are-agentic-workflows-actually-a-game-changer/transcript.md) (2026-02-11)

@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (20 episodes):
+Episodes discussing **Anthropic** (21 episodes):
 
+- [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [The New RAG Method that Sees the Page Instead of Reading It](../episodes/2026-06-18-the-new-rag-method-that-sees-the-page-instead-of-reading-it/transcript.md) (2026-06-18)
 - [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)

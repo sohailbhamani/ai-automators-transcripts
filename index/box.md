@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (16 episodes):
+Episodes discussing **Box** (17 episodes):
 
+- [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.](../episodes/2026-03-25-anthropic-just-dropped-the-new-blueprint-for-long-running-ai/transcript.md) (2026-03-25)
 - [Automate Anything With Claude Cowork (Full Guide)](../episodes/2026-02-19-automate-anything-with-claude-cowork-full-guide/transcript.md) (2026-02-19)

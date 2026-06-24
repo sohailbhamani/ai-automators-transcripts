@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (26 episodes):
+Episodes discussing **Google** (27 episodes):
 
+- [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Anthropic Built It. OpenAI and LangChain Just Responded. You Now Have A Decision To Make.](../episodes/2026-04-18-anthropic-built-it-openai-and-langchain-just-responded-you-n/transcript.md) (2026-04-18)
 - [Claude Can Now Run 24/7 Without You (Scheduled Tasks)](../episodes/2026-03-04-claude-can-now-run-247-without-you-scheduled-tasks/transcript.md) (2026-03-04)
