@@ -1,10 +1,50 @@
 {
-  "total_videos": 54,
+  "total_videos": 55,
   "date_range": {
-    "newest": "2026-06-24",
+    "newest": "2026-06-30",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Baidu Just Fixed DeepSeek-OCR for Reading Long Documents",
+      "video_id": "hESwB7Xv-K8",
+      "youtube_url": "https://www.youtube.com/watch?v=hESwB7Xv-K8",
+      "publish_date": "2026-06-30",
+      "duration": "16:41",
+      "duration_seconds": 1001,
+      "view_count": 621,
+      "author": "The AI Automators",
+      "description": "\ud83d\udc49 Access our AI Architects course & join hundreds of serious AI builders in our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=unlimited-ocr\n\n\ud83d\udd17 Unlimited-OCR\nGitHub: https://github.com/baidu/Unlimited-OCR\nHugging Face: https://huggingface.co/baidu/Unlimited-OCR\nPaper (arXiv): https://arxiv.org/abs/2606.23050\n\n\ud83d\udd17 Other Resources\nDeepSeek-OCR (arXiv): https://arxiv.org/abs/2510.18234\nDocling: https://github.com/docling-project/docling\nDatalab Marker: https://github.com/datalab-to/marker\n\nLast week Baidu open-sourced a new VLM called Unlimited-OCR, and the name is basically the whole pitch: take a long document and parse the entire thing in a single pass, dozens of pages at a time, without the model ever slowing down. It's already past 12,000 stars on GitHub, and it's a fine-tune of DeepSeek-OCR, the model that made a splash last year with optical compression. So I downloaded the open weights, got Claude Code to throw together a small app, and put it through its paces on a real 50-page PDF.\n\nIt does work. But there's a big difference between something working and it actually being the right tool for the job. So in this video I get under the hood: the three kinds of OCR and when you'd reach for each, DeepSeek's optical compression for shrinking the input, and the one genuinely novel idea here on the output side, R-SWA (Reference Sliding Window Attention), the flat KV cache that keeps memory and speed constant no matter how many pages you generate.\n\n\u23f1\ufe0f Timestamps:\n0:00 Demo\n03:01 Three kinds of OCR\n06:57 Input Optical compression\n08:50 Output flat-cache fix\n11:56 Catches & verdict\n\n#AI #AIAgents #OCR #UnlimitedOCR #DeepSeekOCR #VLM #DocumentParsing #Baidu #Docling #KVCache #RAG #AgenticRAG #AIArchitects #AIBuilder\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make"
+        ],
+        "models": [
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Baidu Just Fixed DeepSeek-OCR for Reading Long Documents\nLast week, a team at BYU released a new open-source VLM called unlimited OCR"
+      ],
+      "transcript_chars": 17356,
+      "folder": "2026-06-30-baidu-just-fixed-deepseek-ocr-for-reading-long-documents"
+    },
     {
       "title": "Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.",
       "video_id": "30SS92PD3fU",

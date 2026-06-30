@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (23 episodes):
+Episodes discussing **Ai Strategy** (24 episodes):
 
+- [Baidu Just Fixed DeepSeek-OCR for Reading Long Documents](../episodes/2026-06-30-baidu-just-fixed-deepseek-ocr-for-reading-long-documents/transcript.md) (2026-06-30)
 - [Sakana and OpenRouter Say They Beat Fable 5. With Everyone Else's Models.](../episodes/2026-06-24-sakana-and-openrouter-say-they-beat-fable-5-with-everyone-elses-models/transcript.md) (2026-06-24)
 - [Your AI System Needs A Verification Layer. Here Are 7 Ways To Build One.](../episodes/2026-06-10-your-ai-system-needs-a-verification-layer-here-are-7-ways-to-build-one/transcript.md) (2026-06-10)
 - [Redis Is The New RAG. Here's What That Actually Means For Builders.](../episodes/2026-05-25-redis-is-the-new-rag-heres-what-that-actually-means-for-builders/transcript.md) (2026-05-25)
